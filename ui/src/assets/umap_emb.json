@@ -1,0 +1,8143 @@
+ [
+ {
+   "FIELD1": "data/wav_test/id10295/nt7dNRvlEHE/00002.wav",
+   "x": 12.563261,
+   "y": 12.414506,
+   "z": 14.140776,
+   "CelebName": "Eric_Dane"
+ },
+ {
+   "FIELD1": "data/wav_test/id10295/3KnwlyXVpv4/00001.wav",
+   "x": 12.520654,
+   "y": 12.456531,
+   "z": 14.097413,
+   "CelebName": "Eric_Dane"
+ },
+ {
+   "FIELD1": "data/wav_test/id10295/w9jwTc5wuV4/00001.wav",
+   "x": 12.49188,
+   "y": 12.478112,
+   "z": 14.071722,
+   "CelebName": "Eric_Dane"
+ },
+ {
+   "FIELD1": "data/wav_test/id10295/3tvnlmkCiTw/00009.wav",
+   "x": 12.544799,
+   "y": 12.441527,
+   "z": 14.121672,
+   "CelebName": "Eric_Dane"
+ },
+ {
+   "FIELD1": "data/wav_test/id10295/3tvnlmkCiTw/00008.wav",
+   "x": 12.531604,
+   "y": 12.470944,
+   "z": 14.108079,
+   "CelebName": "Eric_Dane"
+ },
+ {
+   "FIELD1": "data/wav_test/id10295/3tvnlmkCiTw/00006.wav",
+   "x": 12.588942,
+   "y": 12.475165,
+   "z": 14.165551,
+   "CelebName": "Eric_Dane"
+ },
+ {
+   "FIELD1": "data/wav_test/id10295/3tvnlmkCiTw/00007.wav",
+   "x": 12.559415,
+   "y": 12.424143,
+   "z": 14.142268,
+   "CelebName": "Eric_Dane"
+ },
+ {
+   "FIELD1": "data/wav_test/id10295/3tvnlmkCiTw/00004.wav",
+   "x": 12.55667,
+   "y": 12.440269,
+   "z": 14.129082,
+   "CelebName": "Eric_Dane"
+ },
+ {
+   "FIELD1": "data/wav_test/id10295/3tvnlmkCiTw/00014.wav",
+   "x": 12.5287,
+   "y": 12.46369,
+   "z": 14.1040125,
+   "CelebName": "Eric_Dane"
+ },
+ {
+   "FIELD1": "data/wav_test/id10295/3tvnlmkCiTw/00016.wav",
+   "x": 12.538188,
+   "y": 12.451921,
+   "z": 14.115113,
+   "CelebName": "Eric_Dane"
+ },
+ {
+   "FIELD1": "data/wav_test/id10295/3tvnlmkCiTw/00002.wav",
+   "x": 12.55429,
+   "y": 12.436695,
+   "z": 14.13067,
+   "CelebName": "Eric_Dane"
+ },
+ {
+   "FIELD1": "data/wav_test/id10295/D8jV1M4V6UQ/00006.wav",
+   "x": 12.500067,
+   "y": 12.469435,
+   "z": 14.080524,
+   "CelebName": "Eric_Dane"
+ },
+ {
+   "FIELD1": "data/wav_test/id10295/D8jV1M4V6UQ/00003.wav",
+   "x": 12.481607,
+   "y": 12.447792,
+   "z": 14.065443,
+   "CelebName": "Eric_Dane"
+ },
+ {
+   "FIELD1": "data/wav_test/id10292/KgY2xhg4Tqk/00006.wav",
+   "x": -3.6425736,
+   "y": 16.226389,
+   "z": 7.0682344,
+   "CelebName": "Emraan_Hashmi"
+ },
+ {
+   "FIELD1": "data/wav_test/id10292/57KbI2UvGss/00013.wav",
+   "x": -3.7933402,
+   "y": 16.377108,
+   "z": 6.909828,
+   "CelebName": "Emraan_Hashmi"
+ },
+ {
+   "FIELD1": "data/wav_test/id10292/v6MWr5UAZ94/00002.wav",
+   "x": -3.7266219,
+   "y": 16.310364,
+   "z": 6.9501314,
+   "CelebName": "Emraan_Hashmi"
+ },
+ {
+   "FIELD1": "data/wav_test/id10292/3kzw8lTcUBU/00027.wav",
+   "x": -3.8077981,
+   "y": 16.391582,
+   "z": 6.8979254,
+   "CelebName": "Emraan_Hashmi"
+ },
+ {
+   "FIELD1": "data/wav_test/id10292/3kzw8lTcUBU/00019.wav",
+   "x": -3.8325336,
+   "y": 16.416315,
+   "z": 6.871578,
+   "CelebName": "Emraan_Hashmi"
+ },
+ {
+   "FIELD1": "data/wav_test/id10292/3kzw8lTcUBU/00004.wav",
+   "x": -3.823961,
+   "y": 16.407686,
+   "z": 6.90068,
+   "CelebName": "Emraan_Hashmi"
+ },
+ {
+   "FIELD1": "data/wav_test/id10292/3kzw8lTcUBU/00010.wav",
+   "x": -3.8060405,
+   "y": 16.389566,
+   "z": 6.8869386,
+   "CelebName": "Emraan_Hashmi"
+ },
+ {
+   "FIELD1": "data/wav_test/id10292/3kzw8lTcUBU/00003.wav",
+   "x": -3.8231308,
+   "y": 16.406914,
+   "z": 6.8676696,
+   "CelebName": "Emraan_Hashmi"
+ },
+ {
+   "FIELD1": "data/wav_test/id10292/ETJd_jPboYc/00006.wav",
+   "x": -3.7213597,
+   "y": 16.304901,
+   "z": 6.8789415,
+   "CelebName": "Emraan_Hashmi"
+ },
+ {
+   "FIELD1": "data/wav_test/id10292/ETJd_jPboYc/00011.wav",
+   "x": -3.7484007,
+   "y": 16.331873,
+   "z": 6.9101214,
+   "CelebName": "Emraan_Hashmi"
+ },
+ {
+   "FIELD1": "data/wav_test/id10292/N8_clYCM9n8/00006.wav",
+   "x": -3.7571425,
+   "y": 16.340628,
+   "z": 6.982598,
+   "CelebName": "Emraan_Hashmi"
+ },
+ {
+   "FIELD1": "data/wav_test/id10292/N8_clYCM9n8/00007.wav",
+   "x": -3.7930498,
+   "y": 16.377888,
+   "z": 7.000255,
+   "CelebName": "Emraan_Hashmi"
+ },
+ {
+   "FIELD1": "data/wav_test/id10292/N8_clYCM9n8/00005.wav",
+   "x": -3.6982005,
+   "y": 16.282202,
+   "z": 6.964295,
+   "CelebName": "Emraan_Hashmi"
+ },
+ {
+   "FIELD1": "data/wav_test/id10292/N8_clYCM9n8/00004.wav",
+   "x": -3.7745366,
+   "y": 16.358913,
+   "z": 6.989203,
+   "CelebName": "Emraan_Hashmi"
+ },
+ {
+   "FIELD1": "data/wav_test/id10292/tsv5WA_ikH4/00002.wav",
+   "x": -3.8856692,
+   "y": 16.469574,
+   "z": 7.109497,
+   "CelebName": "Emraan_Hashmi"
+ },
+ {
+   "FIELD1": "data/wav_test/id10292/gm6PJowclv0/00027.wav",
+   "x": -3.8261018,
+   "y": 16.409431,
+   "z": 6.903164,
+   "CelebName": "Emraan_Hashmi"
+ },
+ {
+   "FIELD1": "data/wav_test/id10292/gm6PJowclv0/00009.wav",
+   "x": -3.8166325,
+   "y": 16.399963,
+   "z": 6.8392315,
+   "CelebName": "Emraan_Hashmi"
+ },
+ {
+   "FIELD1": "data/wav_test/id10292/gm6PJowclv0/00017.wav",
+   "x": -3.8597636,
+   "y": 16.443445,
+   "z": 6.83207,
+   "CelebName": "Emraan_Hashmi"
+ },
+ {
+   "FIELD1": "data/wav_test/id10292/ya6VNZp-pXw/00032.wav",
+   "x": -3.7715003,
+   "y": 16.354698,
+   "z": 6.95676,
+   "CelebName": "Emraan_Hashmi"
+ },
+ {
+   "FIELD1": "data/wav_test/id10292/ya6VNZp-pXw/00035.wav",
+   "x": -3.767265,
+   "y": 16.350645,
+   "z": 6.949287,
+   "CelebName": "Emraan_Hashmi"
+ },
+ {
+   "FIELD1": "data/wav_test/id10292/ENIHEvg_VLM/00004.wav",
+   "x": -3.7044265,
+   "y": 16.280434,
+   "z": 6.998029,
+   "CelebName": "Emraan_Hashmi"
+ },
+ {
+   "FIELD1": "data/wav_test/id10292/ENIHEvg_VLM/00016.wav",
+   "x": -3.7882097,
+   "y": 16.370872,
+   "z": 6.9583545,
+   "CelebName": "Emraan_Hashmi"
+ },
+ {
+   "FIELD1": "data/wav_test/id10292/azw51ZGuz9k/00008.wav",
+   "x": -3.7262487,
+   "y": 16.309616,
+   "z": 6.990644,
+   "CelebName": "Emraan_Hashmi"
+ },
+ {
+   "FIELD1": "data/wav_test/id10292/azw51ZGuz9k/00012.wav",
+   "x": -3.6934063,
+   "y": 16.277073,
+   "z": 7.0364304,
+   "CelebName": "Emraan_Hashmi"
+ },
+ {
+   "FIELD1": "data/wav_test/id10292/azw51ZGuz9k/00004.wav",
+   "x": -3.7507932,
+   "y": 16.334583,
+   "z": 6.9800706,
+   "CelebName": "Emraan_Hashmi"
+ },
+ {
+   "FIELD1": "data/wav_test/id10292/azw51ZGuz9k/00010.wav",
+   "x": -3.7246213,
+   "y": 16.306755,
+   "z": 7.0505195,
+   "CelebName": "Emraan_Hashmi"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/OMOpC0gi-gQ/00005.wav",
+   "x": 13.270516,
+   "y": 11.044101,
+   "z": 6.540108,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/OMOpC0gi-gQ/00001.wav",
+   "x": 13.257065,
+   "y": 11.036565,
+   "z": 6.599666,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/OMOpC0gi-gQ/00003.wav",
+   "x": 13.299556,
+   "y": 11.022966,
+   "z": 6.553154,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/OMOpC0gi-gQ/00002.wav",
+   "x": 13.375317,
+   "y": 10.879944,
+   "z": 6.6198044,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/nAtqrkWKIhM/00008.wav",
+   "x": 13.851969,
+   "y": 10.434778,
+   "z": 6.490724,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/nAtqrkWKIhM/00005.wav",
+   "x": 13.758044,
+   "y": 10.519845,
+   "z": 6.386318,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/TwfthltapLg/00005.wav",
+   "x": 13.22608,
+   "y": 11.103202,
+   "z": 6.5251074,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/TwfthltapLg/00004.wav",
+   "x": 13.303846,
+   "y": 10.961447,
+   "z": 6.594803,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/TwfthltapLg/00001.wav",
+   "x": 13.3483715,
+   "y": 10.899551,
+   "z": 6.6139956,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/CvoEw4AJj6c/00003.wav",
+   "x": 13.448541,
+   "y": 10.75539,
+   "z": 6.5770807,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/vD3qGRbmXws/00008.wav",
+   "x": 13.253389,
+   "y": 11.062478,
+   "z": 6.5812106,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/vD3qGRbmXws/00005.wav",
+   "x": 13.312862,
+   "y": 10.861693,
+   "z": 6.631891,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/vD3qGRbmXws/00010.wav",
+   "x": 13.297543,
+   "y": 11.027005,
+   "z": 6.5442343,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/vD3qGRbmXws/00001.wav",
+   "x": 13.341917,
+   "y": 10.96908,
+   "z": 6.618636,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/vD3qGRbmXws/00003.wav",
+   "x": 13.205906,
+   "y": 11.10944,
+   "z": 6.518654,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/g2jVmC3qCNA/00007.wav",
+   "x": 13.228184,
+   "y": 11.08098,
+   "z": 6.527997,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/g2jVmC3qCNA/00001.wav",
+   "x": 13.359543,
+   "y": 10.880311,
+   "z": 6.6958466,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/g2jVmC3qCNA/00003.wav",
+   "x": 13.252158,
+   "y": 10.97488,
+   "z": 6.6304417,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/k1jiAINXHRI/00009.wav",
+   "x": 13.787297,
+   "y": 10.196684,
+   "z": 6.505715,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/k1jiAINXHRI/00021.wav",
+   "x": 13.796723,
+   "y": 10.407079,
+   "z": 6.411489,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/k1jiAINXHRI/00008.wav",
+   "x": 13.790991,
+   "y": 10.206579,
+   "z": 6.544616,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/k1jiAINXHRI/00023.wav",
+   "x": 13.7859955,
+   "y": 10.402547,
+   "z": 6.409946,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/k1jiAINXHRI/00006.wav",
+   "x": 13.800435,
+   "y": 10.244775,
+   "z": 6.5209064,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/k1jiAINXHRI/00013.wav",
+   "x": 13.734282,
+   "y": 10.454951,
+   "z": 6.4362416,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/k1jiAINXHRI/00011.wav",
+   "x": 13.802683,
+   "y": 10.401975,
+   "z": 6.4033837,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/k1jiAINXHRI/00029.wav",
+   "x": 13.832619,
+   "y": 10.492488,
+   "z": 6.3570924,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/MHOCv7pOmG4/00008.wav",
+   "x": 13.717762,
+   "y": 10.167829,
+   "z": 6.388666,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/MHOCv7pOmG4/00014.wav",
+   "x": 13.668353,
+   "y": 10.084889,
+   "z": 6.4269123,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/l3J1f06Slfo/00004.wav",
+   "x": 13.687157,
+   "y": 10.033355,
+   "z": 6.654801,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/l3J1f06Slfo/00002.wav",
+   "x": 13.659562,
+   "y": 9.98901,
+   "z": 6.60529,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/TnOGBL8p-RM/00006.wav",
+   "x": 13.563592,
+   "y": 10.63088,
+   "z": 6.5373874,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/TnOGBL8p-RM/00011.wav",
+   "x": 13.563536,
+   "y": 10.617249,
+   "z": 6.521992,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/TnOGBL8p-RM/00005.wav",
+   "x": 13.570174,
+   "y": 10.594601,
+   "z": 6.528803,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/TnOGBL8p-RM/00002.wav",
+   "x": 13.556292,
+   "y": 10.595131,
+   "z": 6.5609403,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/EHtXD7XFeeI/00001.wav",
+   "x": 13.698282,
+   "y": 10.071384,
+   "z": 6.534045,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/EHtXD7XFeeI/00003.wav",
+   "x": 13.698536,
+   "y": 10.075096,
+   "z": 6.516611,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/EHtXD7XFeeI/00002.wav",
+   "x": 13.644054,
+   "y": 10.045733,
+   "z": 6.4754686,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/mNM0rMPJE10/00001.wav",
+   "x": 13.740887,
+   "y": 10.174761,
+   "z": 6.5428553,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/SJxWXqMu2ds/00009.wav",
+   "x": 13.311926,
+   "y": 10.993905,
+   "z": 6.544802,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/SJxWXqMu2ds/00006.wav",
+   "x": 13.308398,
+   "y": 10.923302,
+   "z": 6.638786,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/SJxWXqMu2ds/00007.wav",
+   "x": 13.245153,
+   "y": 11.055072,
+   "z": 6.543955,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/SJxWXqMu2ds/00004.wav",
+   "x": 13.241767,
+   "y": 11.072662,
+   "z": 6.572727,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/SJxWXqMu2ds/00002.wav",
+   "x": 13.258376,
+   "y": 11.050217,
+   "z": 6.554075,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/8lGvPwJszxI/00004.wav",
+   "x": 13.824017,
+   "y": 10.222815,
+   "z": 6.5910406,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/8lGvPwJszxI/00001.wav",
+   "x": 13.768814,
+   "y": 10.174241,
+   "z": 6.619563,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/8lGvPwJszxI/00003.wav",
+   "x": 13.797772,
+   "y": 10.2513075,
+   "z": 6.6034474,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/Mp1IXRquJ9s/00009.wav",
+   "x": 13.684907,
+   "y": 10.052756,
+   "z": 6.7090406,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/Mp1IXRquJ9s/00004.wav",
+   "x": 13.658904,
+   "y": 10.087749,
+   "z": 6.679343,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/Mp1IXRquJ9s/00010.wav",
+   "x": 13.687902,
+   "y": 10.11341,
+   "z": 6.6661005,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/Mp1IXRquJ9s/00003.wav",
+   "x": 13.729239,
+   "y": 10.102931,
+   "z": 6.675437,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/Mp1IXRquJ9s/00002.wav",
+   "x": 13.756285,
+   "y": 10.131316,
+   "z": 6.622924,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/rZQMeH1FCvM/00012.wav",
+   "x": 13.594718,
+   "y": 10.188575,
+   "z": 6.4329095,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/rZQMeH1FCvM/00004.wav",
+   "x": 13.591598,
+   "y": 10.224977,
+   "z": 6.4235115,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10293/rZQMeH1FCvM/00014.wav",
+   "x": 13.637945,
+   "y": 10.1930275,
+   "z": 6.4549785,
+   "CelebName": "Eoin_Macken"
+ },
+ {
+   "FIELD1": "data/wav_test/id10294/a4msZPEjhMc/00006.wav",
+   "x": -3.5977569,
+   "y": 2.514704,
+   "z": 11.881809,
+   "CelebName": "Eric_Braeden"
+ },
+ {
+   "FIELD1": "data/wav_test/id10294/3BRezdwX-4I/00001.wav",
+   "x": -3.5672762,
+   "y": 2.4842129,
+   "z": 11.8514,
+   "CelebName": "Eric_Braeden"
+ },
+ {
+   "FIELD1": "data/wav_test/id10294/L812MIi7ruk/00009.wav",
+   "x": -3.5418854,
+   "y": 2.4580355,
+   "z": 11.825301,
+   "CelebName": "Eric_Braeden"
+ },
+ {
+   "FIELD1": "data/wav_test/id10294/L812MIi7ruk/00006.wav",
+   "x": -3.6361816,
+   "y": 2.5522873,
+   "z": 11.920366,
+   "CelebName": "Eric_Braeden"
+ },
+ {
+   "FIELD1": "data/wav_test/id10294/L812MIi7ruk/00005.wav",
+   "x": -3.655006,
+   "y": 2.5723448,
+   "z": 11.939045,
+   "CelebName": "Eric_Braeden"
+ },
+ {
+   "FIELD1": "data/wav_test/id10294/L812MIi7ruk/00003.wav",
+   "x": -3.632405,
+   "y": 2.5490055,
+   "z": 11.916196,
+   "CelebName": "Eric_Braeden"
+ },
+ {
+   "FIELD1": "data/wav_test/id10294/zIkTBKfnbso/00004.wav",
+   "x": -3.6391256,
+   "y": 2.5626397,
+   "z": 11.92212,
+   "CelebName": "Eric_Braeden"
+ },
+ {
+   "FIELD1": "data/wav_test/id10294/zIkTBKfnbso/00003.wav",
+   "x": -3.6254804,
+   "y": 2.5423312,
+   "z": 11.909415,
+   "CelebName": "Eric_Braeden"
+ },
+ {
+   "FIELD1": "data/wav_test/id10294/nkIdfM2BFS0/00004.wav",
+   "x": -3.650423,
+   "y": 2.5679023,
+   "z": 11.934339,
+   "CelebName": "Eric_Braeden"
+ },
+ {
+   "FIELD1": "data/wav_test/id10294/KMM3INYWEeY/00001.wav",
+   "x": -3.6132157,
+   "y": 2.529833,
+   "z": 11.896993,
+   "CelebName": "Eric_Braeden"
+ },
+ {
+   "FIELD1": "data/wav_test/id10294/1l9B0dz7gjc/00008.wav",
+   "x": -3.6317384,
+   "y": 2.5486903,
+   "z": 11.915622,
+   "CelebName": "Eric_Braeden"
+ },
+ {
+   "FIELD1": "data/wav_test/id10294/1l9B0dz7gjc/00006.wav",
+   "x": -3.61575,
+   "y": 2.5329015,
+   "z": 11.900008,
+   "CelebName": "Eric_Braeden"
+ },
+ {
+   "FIELD1": "data/wav_test/id10294/1l9B0dz7gjc/00011.wav",
+   "x": -3.610974,
+   "y": 2.5281956,
+   "z": 11.8951845,
+   "CelebName": "Eric_Braeden"
+ },
+ {
+   "FIELD1": "data/wav_test/id10294/1l9B0dz7gjc/00004.wav",
+   "x": -3.6373901,
+   "y": 2.55441,
+   "z": 11.921592,
+   "CelebName": "Eric_Braeden"
+ },
+ {
+   "FIELD1": "data/wav_test/id10289/3g9CjhcNEWk/00013.wav",
+   "x": 2.8745081,
+   "y": 12.590018,
+   "z": 16.375156,
+   "CelebName": "Elodie_Yung"
+ },
+ {
+   "FIELD1": "data/wav_test/id10289/3g9CjhcNEWk/00011.wav",
+   "x": 2.933234,
+   "y": 12.531167,
+   "z": 16.316406,
+   "CelebName": "Elodie_Yung"
+ },
+ {
+   "FIELD1": "data/wav_test/id10289/3g9CjhcNEWk/00005.wav",
+   "x": 2.9235334,
+   "y": 12.541324,
+   "z": 16.326126,
+   "CelebName": "Elodie_Yung"
+ },
+ {
+   "FIELD1": "data/wav_test/id10289/3g9CjhcNEWk/00004.wav",
+   "x": 2.910921,
+   "y": 12.553585,
+   "z": 16.338774,
+   "CelebName": "Elodie_Yung"
+ },
+ {
+   "FIELD1": "data/wav_test/id10289/3g9CjhcNEWk/00010.wav",
+   "x": 2.845371,
+   "y": 12.61879,
+   "z": 16.404337,
+   "CelebName": "Elodie_Yung"
+ },
+ {
+   "FIELD1": "data/wav_test/id10289/3g9CjhcNEWk/00014.wav",
+   "x": 2.8165557,
+   "y": 12.647805,
+   "z": 16.433146,
+   "CelebName": "Elodie_Yung"
+ },
+ {
+   "FIELD1": "data/wav_test/id10289/3g9CjhcNEWk/00003.wav",
+   "x": 2.8269446,
+   "y": 12.637129,
+   "z": 16.42273,
+   "CelebName": "Elodie_Yung"
+ },
+ {
+   "FIELD1": "data/wav_test/id10289/fGlKVvjgUdY/00008.wav",
+   "x": 3.025884,
+   "y": 12.440714,
+   "z": 16.2238,
+   "CelebName": "Elodie_Yung"
+ },
+ {
+   "FIELD1": "data/wav_test/id10289/fGlKVvjgUdY/00006.wav",
+   "x": 2.9425757,
+   "y": 12.523789,
+   "z": 16.307144,
+   "CelebName": "Elodie_Yung"
+ },
+ {
+   "FIELD1": "data/wav_test/id10289/fGlKVvjgUdY/00012.wav",
+   "x": 3.0130408,
+   "y": 12.453612,
+   "z": 16.236671,
+   "CelebName": "Elodie_Yung"
+ },
+ {
+   "FIELD1": "data/wav_test/id10289/7UePD3HoAS8/00006.wav",
+   "x": 3.0651972,
+   "y": 12.403032,
+   "z": 16.184393,
+   "CelebName": "Elodie_Yung"
+ },
+ {
+   "FIELD1": "data/wav_test/id10289/7UePD3HoAS8/00005.wav",
+   "x": 3.0650675,
+   "y": 12.403004,
+   "z": 16.184553,
+   "CelebName": "Elodie_Yung"
+ },
+ {
+   "FIELD1": "data/wav_test/id10289/7UePD3HoAS8/00004.wav",
+   "x": 3.0127718,
+   "y": 12.454705,
+   "z": 16.236874,
+   "CelebName": "Elodie_Yung"
+ },
+ {
+   "FIELD1": "data/wav_test/id10289/7UePD3HoAS8/00001.wav",
+   "x": 3.122094,
+   "y": 12.347034,
+   "z": 16.12757,
+   "CelebName": "Elodie_Yung"
+ },
+ {
+   "FIELD1": "data/wav_test/id10289/7UePD3HoAS8/00003.wav",
+   "x": 3.0216317,
+   "y": 12.44651,
+   "z": 16.227953,
+   "CelebName": "Elodie_Yung"
+ },
+ {
+   "FIELD1": "data/wav_test/id10289/VIELknoQMyo/00002.wav",
+   "x": 2.945804,
+   "y": 12.520034,
+   "z": 16.303858,
+   "CelebName": "Elodie_Yung"
+ },
+ {
+   "FIELD1": "data/wav_test/id10289/sf4uMnkYFG8/00009.wav",
+   "x": 3.0767605,
+   "y": 12.390948,
+   "z": 16.17284,
+   "CelebName": "Elodie_Yung"
+ },
+ {
+   "FIELD1": "data/wav_test/id10289/sf4uMnkYFG8/00008.wav",
+   "x": 2.980499,
+   "y": 12.480954,
+   "z": 16.269247,
+   "CelebName": "Elodie_Yung"
+ },
+ {
+   "FIELD1": "data/wav_test/id10289/sf4uMnkYFG8/00006.wav",
+   "x": 2.960542,
+   "y": 12.507137,
+   "z": 16.28911,
+   "CelebName": "Elodie_Yung"
+ },
+ {
+   "FIELD1": "data/wav_test/id10289/sf4uMnkYFG8/00013.wav",
+   "x": 3.075319,
+   "y": 12.392209,
+   "z": 16.174313,
+   "CelebName": "Elodie_Yung"
+ },
+ {
+   "FIELD1": "data/wav_test/id10289/sf4uMnkYFG8/00011.wav",
+   "x": 3.0855248,
+   "y": 12.382821,
+   "z": 16.16411,
+   "CelebName": "Elodie_Yung"
+ },
+ {
+   "FIELD1": "data/wav_test/id10289/sf4uMnkYFG8/00004.wav",
+   "x": 3.0927734,
+   "y": 12.3753195,
+   "z": 16.156834,
+   "CelebName": "Elodie_Yung"
+ },
+ {
+   "FIELD1": "data/wav_test/id10289/sf4uMnkYFG8/00010.wav",
+   "x": 3.0700428,
+   "y": 12.397394,
+   "z": 16.179579,
+   "CelebName": "Elodie_Yung"
+ },
+ {
+   "FIELD1": "data/wav_test/id10289/sf4uMnkYFG8/00001.wav",
+   "x": 3.0646617,
+   "y": 12.404848,
+   "z": 16.185078,
+   "CelebName": "Elodie_Yung"
+ },
+ {
+   "FIELD1": "data/wav_test/id10289/sf4uMnkYFG8/00003.wav",
+   "x": 3.0818162,
+   "y": 12.386536,
+   "z": 16.16781,
+   "CelebName": "Elodie_Yung"
+ },
+ {
+   "FIELD1": "data/wav_test/id10289/sf4uMnkYFG8/00017.wav",
+   "x": 3.1340637,
+   "y": 12.334177,
+   "z": 16.115536,
+   "CelebName": "Elodie_Yung"
+ },
+ {
+   "FIELD1": "data/wav_test/id10289/8l5ZnDf-FUA/00020.wav",
+   "x": 2.9027052,
+   "y": 12.561905,
+   "z": 16.346985,
+   "CelebName": "Elodie_Yung"
+ },
+ {
+   "FIELD1": "data/wav_test/id10287/MHoaMi5hKkE/00001.wav",
+   "x": 11.711105,
+   "y": 7.607723,
+   "z": 11.302134,
+   "CelebName": "Ellen_Burstyn"
+ },
+ {
+   "FIELD1": "data/wav_test/id10287/MHoaMi5hKkE/00003.wav",
+   "x": 11.70395,
+   "y": 7.583691,
+   "z": 11.281603,
+   "CelebName": "Ellen_Burstyn"
+ },
+ {
+   "FIELD1": "data/wav_test/id10287/8vC0LQMqy8Y/00001.wav",
+   "x": 11.741717,
+   "y": 7.6258183,
+   "z": 11.319818,
+   "CelebName": "Ellen_Burstyn"
+ },
+ {
+   "FIELD1": "data/wav_test/id10287/I99R40TUF1s/00018.wav",
+   "x": 11.761863,
+   "y": 7.656398,
+   "z": 11.352263,
+   "CelebName": "Ellen_Burstyn"
+ },
+ {
+   "FIELD1": "data/wav_test/id10287/I99R40TUF1s/00009.wav",
+   "x": 11.7209425,
+   "y": 7.6044703,
+   "z": 11.307587,
+   "CelebName": "Ellen_Burstyn"
+ },
+ {
+   "FIELD1": "data/wav_test/id10287/I99R40TUF1s/00020.wav",
+   "x": 11.737063,
+   "y": 7.6209188,
+   "z": 11.317273,
+   "CelebName": "Ellen_Burstyn"
+ },
+ {
+   "FIELD1": "data/wav_test/id10287/I99R40TUF1s/00013.wav",
+   "x": 11.771545,
+   "y": 7.6560507,
+   "z": 11.329563,
+   "CelebName": "Ellen_Burstyn"
+ },
+ {
+   "FIELD1": "data/wav_test/id10287/bP0bKbQQlzc/00005.wav",
+   "x": 11.711776,
+   "y": 7.5924625,
+   "z": 11.28946,
+   "CelebName": "Ellen_Burstyn"
+ },
+ {
+   "FIELD1": "data/wav_test/id10287/bP0bKbQQlzc/00004.wav",
+   "x": 11.71396,
+   "y": 7.5874357,
+   "z": 11.27024,
+   "CelebName": "Ellen_Burstyn"
+ },
+ {
+   "FIELD1": "data/wav_test/id10287/bP0bKbQQlzc/00001.wav",
+   "x": 11.70537,
+   "y": 7.5857587,
+   "z": 11.280494,
+   "CelebName": "Ellen_Burstyn"
+ },
+ {
+   "FIELD1": "data/wav_test/id10287/4oOmqI1myzY/00002.wav",
+   "x": 11.691947,
+   "y": 7.5743365,
+   "z": 11.28875,
+   "CelebName": "Ellen_Burstyn"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/gHPh9j7lc58/00009.wav",
+   "x": 10.243601,
+   "y": 2.2358916,
+   "z": -6.45908,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/gHPh9j7lc58/00007.wav",
+   "x": 10.105997,
+   "y": 2.1155298,
+   "z": -6.577075,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/GRB1GXRafiY/00006.wav",
+   "x": 10.177992,
+   "y": 2.218447,
+   "z": -6.534969,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/GRB1GXRafiY/00003.wav",
+   "x": 10.234243,
+   "y": 2.243507,
+   "z": -6.509844,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/hW0Q6eHqN-U/00006.wav",
+   "x": 10.022225,
+   "y": 2.1520088,
+   "z": -6.6948266,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/hW0Q6eHqN-U/00007.wav",
+   "x": 10.0449295,
+   "y": 2.1839745,
+   "z": -6.6626415,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/hW0Q6eHqN-U/00005.wav",
+   "x": 10.018396,
+   "y": 2.1498244,
+   "z": -6.693434,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/hW0Q6eHqN-U/00004.wav",
+   "x": 10.024738,
+   "y": 2.1400337,
+   "z": -6.7169867,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/0LbtndiXJC0/00009.wav",
+   "x": 10.152675,
+   "y": 2.0302439,
+   "z": -6.3913856,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/0LbtndiXJC0/00012.wav",
+   "x": 10.124255,
+   "y": 2.019068,
+   "z": -6.3375587,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/0LbtndiXJC0/00011.wav",
+   "x": 10.134841,
+   "y": 2.060289,
+   "z": -6.343336,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/0LbtndiXJC0/00004.wav",
+   "x": 10.115722,
+   "y": 2.018664,
+   "z": -6.3876114,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/0LbtndiXJC0/00001.wav",
+   "x": 10.153902,
+   "y": 1.9508915,
+   "z": -6.3816085,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/0LbtndiXJC0/00002.wav",
+   "x": 10.14051,
+   "y": 2.0499518,
+   "z": -6.412375,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/DE9lM-s8LcA/00001.wav",
+   "x": 10.16634,
+   "y": 2.103959,
+   "z": -6.3546343,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/prqT1CcDqMc/00013.wav",
+   "x": 10.14986,
+   "y": 1.7041998,
+   "z": -6.400501,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/prqT1CcDqMc/00007.wav",
+   "x": 10.175593,
+   "y": 1.7391114,
+   "z": -6.372579,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/prqT1CcDqMc/00003.wav",
+   "x": 10.155453,
+   "y": 1.7923021,
+   "z": -6.403289,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/OYi3rZSdAOE/00004.wav",
+   "x": 10.257802,
+   "y": 2.247406,
+   "z": -6.48964,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/8cfyJEV7hP8/00027.wav",
+   "x": 9.962708,
+   "y": 2.0199218,
+   "z": -6.688339,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/8cfyJEV7hP8/00032.wav",
+   "x": 9.878195,
+   "y": 1.9389014,
+   "z": -6.8148437,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/8cfyJEV7hP8/00024.wav",
+   "x": 9.948683,
+   "y": 2.0203567,
+   "z": -6.732643,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/8cfyJEV7hP8/00031.wav",
+   "x": 9.976821,
+   "y": 2.029278,
+   "z": -6.677172,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/8cfyJEV7hP8/00022.wav",
+   "x": 9.9481945,
+   "y": 2.0679164,
+   "z": -6.7196803,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/8cfyJEV7hP8/00002.wav",
+   "x": 9.94193,
+   "y": 2.0546467,
+   "z": -6.71781,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/5TWpQYtboq0/00001.wav",
+   "x": 10.25598,
+   "y": 2.264386,
+   "z": -6.492558,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/ZpPPaMazpf0/00004.wav",
+   "x": 10.067705,
+   "y": 1.560255,
+   "z": -6.4241033,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/ZpPPaMazpf0/00017.wav",
+   "x": 10.038712,
+   "y": 1.7978615,
+   "z": -6.595103,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/ZpPPaMazpf0/00016.wav",
+   "x": 10.007028,
+   "y": 1.7758583,
+   "z": -6.6018696,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/0OCW1HUxZyg/00004.wav",
+   "x": 10.045604,
+   "y": 1.9208585,
+   "z": -6.4475074,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/0OCW1HUxZyg/00002.wav",
+   "x": 10.095988,
+   "y": 1.9818498,
+   "z": -6.48618,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/eLl_yTeuaKo/00026.wav",
+   "x": 10.107132,
+   "y": 1.4547863,
+   "z": -6.386171,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/eLl_yTeuaKo/00024.wav",
+   "x": 10.121283,
+   "y": 1.4868047,
+   "z": -6.379975,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/eLl_yTeuaKo/00019.wav",
+   "x": 10.103569,
+   "y": 1.5285767,
+   "z": -6.3965974,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/eLl_yTeuaKo/00025.wav",
+   "x": 10.106073,
+   "y": 1.4819177,
+   "z": -6.3598223,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/eLl_yTeuaKo/00021.wav",
+   "x": 10.109178,
+   "y": 1.5924087,
+   "z": -6.4118056,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/eLl_yTeuaKo/00008.wav",
+   "x": 10.065418,
+   "y": 1.4720325,
+   "z": -6.431667,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/eLl_yTeuaKo/00022.wav",
+   "x": 10.079303,
+   "y": 1.5176668,
+   "z": -6.4180737,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/eLl_yTeuaKo/00013.wav",
+   "x": 10.112928,
+   "y": 1.479123,
+   "z": -6.3869267,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/eLl_yTeuaKo/00007.wav",
+   "x": 10.107317,
+   "y": 1.4815387,
+   "z": -6.3909516,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/eLl_yTeuaKo/00015.wav",
+   "x": 10.096456,
+   "y": 1.5166355,
+   "z": -6.4058857,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/eLl_yTeuaKo/00003.wav",
+   "x": 10.129542,
+   "y": 1.4407134,
+   "z": -6.364326,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/9PmuAcGCSjY/00001.wav",
+   "x": 10.250977,
+   "y": 2.2174232,
+   "z": -6.4203577,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/8fKRoUIpAJY/00009.wav",
+   "x": 10.143556,
+   "y": 1.9702277,
+   "z": -6.481852,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/8fKRoUIpAJY/00006.wav",
+   "x": 10.134425,
+   "y": 2.0207791,
+   "z": -6.4799995,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/8fKRoUIpAJY/00012.wav",
+   "x": 10.1353855,
+   "y": 2.013739,
+   "z": -6.4564495,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/8fKRoUIpAJY/00005.wav",
+   "x": 10.1307335,
+   "y": 2.0487533,
+   "z": -6.5277634,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/8fKRoUIpAJY/00004.wav",
+   "x": 10.15106,
+   "y": 1.9393518,
+   "z": -6.447564,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/8fKRoUIpAJY/00001.wav",
+   "x": 10.123876,
+   "y": 1.9610785,
+   "z": -6.4529104,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10273/8fKRoUIpAJY/00002.wav",
+   "x": 10.057937,
+   "y": 1.8924406,
+   "z": -6.531971,
+   "CelebName": "Eddie_Izzard"
+ },
+ {
+   "FIELD1": "data/wav_test/id10274/L9q6XabEpEI/00002.wav",
+   "x": 12.135642,
+   "y": 9.143967,
+   "z": 15.25127,
+   "CelebName": "Eddie_Kaye_Thomas"
+ },
+ {
+   "FIELD1": "data/wav_test/id10274/xbGp2KSUr0E/00001.wav",
+   "x": 12.250349,
+   "y": 9.2122345,
+   "z": 15.326511,
+   "CelebName": "Eddie_Kaye_Thomas"
+ },
+ {
+   "FIELD1": "data/wav_test/id10274/89UnsytX6Y8/00005.wav",
+   "x": 12.084388,
+   "y": 9.044583,
+   "z": 15.229202,
+   "CelebName": "Eddie_Kaye_Thomas"
+ },
+ {
+   "FIELD1": "data/wav_test/id10280/MEa183Zyf5g/00001.wav",
+   "x": 15.929825,
+   "y": -8.736672,
+   "z": 9.0848465,
+   "CelebName": "Elaine_Cassidy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10280/PQBBKBYGWgU/00008.wav",
+   "x": 15.924611,
+   "y": -8.770241,
+   "z": 8.914189,
+   "CelebName": "Elaine_Cassidy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10280/PQBBKBYGWgU/00007.wav",
+   "x": 15.957545,
+   "y": -8.811986,
+   "z": 8.870591,
+   "CelebName": "Elaine_Cassidy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10280/PQBBKBYGWgU/00005.wav",
+   "x": 15.963415,
+   "y": -8.813146,
+   "z": 8.88156,
+   "CelebName": "Elaine_Cassidy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10280/PQBBKBYGWgU/00004.wav",
+   "x": 15.91875,
+   "y": -8.776691,
+   "z": 8.86971,
+   "CelebName": "Elaine_Cassidy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10280/PQBBKBYGWgU/00002.wav",
+   "x": 15.926387,
+   "y": -8.789418,
+   "z": 8.929396,
+   "CelebName": "Elaine_Cassidy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10280/XiKRlssBw2M/00004.wav",
+   "x": 15.866106,
+   "y": -8.653703,
+   "z": 9.181288,
+   "CelebName": "Elaine_Cassidy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10280/XiKRlssBw2M/00001.wav",
+   "x": 15.891077,
+   "y": -8.691268,
+   "z": 9.141618,
+   "CelebName": "Elaine_Cassidy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10280/XiKRlssBw2M/00003.wav",
+   "x": 15.900507,
+   "y": -8.681738,
+   "z": 9.223008,
+   "CelebName": "Elaine_Cassidy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10280/XiKRlssBw2M/00002.wav",
+   "x": 15.93636,
+   "y": -8.740689,
+   "z": 9.100635,
+   "CelebName": "Elaine_Cassidy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10280/YcIZDAhexy8/00006.wav",
+   "x": 15.936726,
+   "y": -8.807218,
+   "z": 8.880318,
+   "CelebName": "Elaine_Cassidy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10280/YcIZDAhexy8/00007.wav",
+   "x": 15.920133,
+   "y": -8.76755,
+   "z": 8.925693,
+   "CelebName": "Elaine_Cassidy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10280/YcIZDAhexy8/00004.wav",
+   "x": 15.944533,
+   "y": -8.801691,
+   "z": 8.86078,
+   "CelebName": "Elaine_Cassidy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10280/YcIZDAhexy8/00002.wav",
+   "x": 15.950129,
+   "y": -8.802,
+   "z": 8.937003,
+   "CelebName": "Elaine_Cassidy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10280/9AtE4C309P8/00018.wav",
+   "x": 15.8799925,
+   "y": -8.736287,
+   "z": 8.683343,
+   "CelebName": "Elaine_Cassidy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10280/9AtE4C309P8/00013.wav",
+   "x": 15.815342,
+   "y": -8.657796,
+   "z": 8.694815,
+   "CelebName": "Elaine_Cassidy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10280/9AtE4C309P8/00004.wav",
+   "x": 15.832225,
+   "y": -8.693875,
+   "z": 8.695248,
+   "CelebName": "Elaine_Cassidy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10280/9AtE4C309P8/00001.wav",
+   "x": 15.827994,
+   "y": -8.687067,
+   "z": 8.702573,
+   "CelebName": "Elaine_Cassidy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10280/d7S0qeo6EP0/00008.wav",
+   "x": 15.915614,
+   "y": -8.722959,
+   "z": 9.088263,
+   "CelebName": "Elaine_Cassidy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10280/d7S0qeo6EP0/00007.wav",
+   "x": 15.907937,
+   "y": -8.716623,
+   "z": 9.090642,
+   "CelebName": "Elaine_Cassidy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10280/d7S0qeo6EP0/00005.wav",
+   "x": 15.897188,
+   "y": -8.704307,
+   "z": 9.100493,
+   "CelebName": "Elaine_Cassidy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10280/d7S0qeo6EP0/00003.wav",
+   "x": 15.887369,
+   "y": -8.693437,
+   "z": 9.103005,
+   "CelebName": "Elaine_Cassidy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10280/v0Q-VyO4TjI/00011.wav",
+   "x": 15.831092,
+   "y": -8.709094,
+   "z": 8.746632,
+   "CelebName": "Elaine_Cassidy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10280/v0Q-VyO4TjI/00005.wav",
+   "x": 15.874664,
+   "y": -8.751003,
+   "z": 8.738537,
+   "CelebName": "Elaine_Cassidy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10280/v0Q-VyO4TjI/00004.wav",
+   "x": 15.821174,
+   "y": -8.72589,
+   "z": 8.677559,
+   "CelebName": "Elaine_Cassidy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10280/v0Q-VyO4TjI/00001.wav",
+   "x": 15.837041,
+   "y": -8.719244,
+   "z": 8.687086,
+   "CelebName": "Elaine_Cassidy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10280/v0Q-VyO4TjI/00003.wav",
+   "x": 15.861808,
+   "y": -8.714261,
+   "z": 8.721168,
+   "CelebName": "Elaine_Cassidy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10280/Np6typH1VKE/00002.wav",
+   "x": 15.897821,
+   "y": -8.746285,
+   "z": 8.812508,
+   "CelebName": "Elaine_Cassidy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10281/ni6gO5jDLJE/00006.wav",
+   "x": 12.287935,
+   "y": 11.85267,
+   "z": 19.70455,
+   "CelebName": "Elaine_Hendrix"
+ },
+ {
+   "FIELD1": "data/wav_test/id10281/ni6gO5jDLJE/00011.wav",
+   "x": 12.169496,
+   "y": 11.971132,
+   "z": 19.586267,
+   "CelebName": "Elaine_Hendrix"
+ },
+ {
+   "FIELD1": "data/wav_test/id10281/R1RQnIQGy10/00002.wav",
+   "x": 12.33738,
+   "y": 11.802805,
+   "z": 19.754015,
+   "CelebName": "Elaine_Hendrix"
+ },
+ {
+   "FIELD1": "data/wav_test/id10281/eso-dEmfC_c/00005.wav",
+   "x": 12.147982,
+   "y": 11.993176,
+   "z": 19.56479,
+   "CelebName": "Elaine_Hendrix"
+ },
+ {
+   "FIELD1": "data/wav_test/id10281/eso-dEmfC_c/00003.wav",
+   "x": 12.231785,
+   "y": 11.910061,
+   "z": 19.648382,
+   "CelebName": "Elaine_Hendrix"
+ },
+ {
+   "FIELD1": "data/wav_test/id10281/NHARUN9OhSo/00006.wav",
+   "x": 12.214944,
+   "y": 11.9252405,
+   "z": 19.631475,
+   "CelebName": "Elaine_Hendrix"
+ },
+ {
+   "FIELD1": "data/wav_test/id10281/NHARUN9OhSo/00005.wav",
+   "x": 12.225671,
+   "y": 11.914639,
+   "z": 19.642189,
+   "CelebName": "Elaine_Hendrix"
+ },
+ {
+   "FIELD1": "data/wav_test/id10281/NHARUN9OhSo/00004.wav",
+   "x": 12.267464,
+   "y": 11.872365,
+   "z": 19.683867,
+   "CelebName": "Elaine_Hendrix"
+ },
+ {
+   "FIELD1": "data/wav_test/id10281/NHARUN9OhSo/00001.wav",
+   "x": 12.247109,
+   "y": 11.892646,
+   "z": 19.66353,
+   "CelebName": "Elaine_Hendrix"
+ },
+ {
+   "FIELD1": "data/wav_test/id10281/1CiBWgsHT4E/00007.wav",
+   "x": 12.147273,
+   "y": 11.993634,
+   "z": 19.564058,
+   "CelebName": "Elaine_Hendrix"
+ },
+ {
+   "FIELD1": "data/wav_test/id10281/1CiBWgsHT4E/00004.wav",
+   "x": 12.134627,
+   "y": 12.006781,
+   "z": 19.551249,
+   "CelebName": "Elaine_Hendrix"
+ },
+ {
+   "FIELD1": "data/wav_test/id10281/qBTOwaSOS-M/00001.wav",
+   "x": 12.229221,
+   "y": 11.911878,
+   "z": 19.645464,
+   "CelebName": "Elaine_Hendrix"
+ },
+ {
+   "FIELD1": "data/wav_test/id10281/RDFdX3VxjUQ/00026.wav",
+   "x": 12.1847315,
+   "y": 11.958587,
+   "z": 19.601421,
+   "CelebName": "Elaine_Hendrix"
+ },
+ {
+   "FIELD1": "data/wav_test/id10281/RDFdX3VxjUQ/00024.wav",
+   "x": 12.281636,
+   "y": 11.859883,
+   "z": 19.69845,
+   "CelebName": "Elaine_Hendrix"
+ },
+ {
+   "FIELD1": "data/wav_test/id10281/RDFdX3VxjUQ/00018.wav",
+   "x": 12.186437,
+   "y": 11.955423,
+   "z": 19.603348,
+   "CelebName": "Elaine_Hendrix"
+ },
+ {
+   "FIELD1": "data/wav_test/id10281/RDFdX3VxjUQ/00025.wav",
+   "x": 12.257559,
+   "y": 11.884677,
+   "z": 19.674355,
+   "CelebName": "Elaine_Hendrix"
+ },
+ {
+   "FIELD1": "data/wav_test/id10281/RDFdX3VxjUQ/00008.wav",
+   "x": 12.221102,
+   "y": 11.920794,
+   "z": 19.637882,
+   "CelebName": "Elaine_Hendrix"
+ },
+ {
+   "FIELD1": "data/wav_test/id10281/RDFdX3VxjUQ/00013.wav",
+   "x": 12.23221,
+   "y": 11.910376,
+   "z": 19.64879,
+   "CelebName": "Elaine_Hendrix"
+ },
+ {
+   "FIELD1": "data/wav_test/id10281/RDFdX3VxjUQ/00007.wav",
+   "x": 12.203725,
+   "y": 11.937312,
+   "z": 19.620525,
+   "CelebName": "Elaine_Hendrix"
+ },
+ {
+   "FIELD1": "data/wav_test/id10281/RDFdX3VxjUQ/00005.wav",
+   "x": 12.187185,
+   "y": 11.95458,
+   "z": 19.60396,
+   "CelebName": "Elaine_Hendrix"
+ },
+ {
+   "FIELD1": "data/wav_test/id10281/RDFdX3VxjUQ/00004.wav",
+   "x": 12.16714,
+   "y": 11.974607,
+   "z": 19.583952,
+   "CelebName": "Elaine_Hendrix"
+ },
+ {
+   "FIELD1": "data/wav_test/id10281/RDFdX3VxjUQ/00014.wav",
+   "x": 12.196584,
+   "y": 11.944998,
+   "z": 19.613707,
+   "CelebName": "Elaine_Hendrix"
+ },
+ {
+   "FIELD1": "data/wav_test/id10281/RDFdX3VxjUQ/00001.wav",
+   "x": 12.242378,
+   "y": 11.899018,
+   "z": 19.659092,
+   "CelebName": "Elaine_Hendrix"
+ },
+ {
+   "FIELD1": "data/wav_test/id10281/RDFdX3VxjUQ/00017.wav",
+   "x": 12.237818,
+   "y": 11.904112,
+   "z": 19.653517,
+   "CelebName": "Elaine_Hendrix"
+ },
+ {
+   "FIELD1": "data/wav_test/id10281/RDFdX3VxjUQ/00016.wav",
+   "x": 12.164662,
+   "y": 11.97683,
+   "z": 19.581383,
+   "CelebName": "Elaine_Hendrix"
+ },
+ {
+   "FIELD1": "data/wav_test/id10275/CVUXDNZzcmA/00009.wav",
+   "x": 0.062269367,
+   "y": -0.53192884,
+   "z": 4.878418,
+   "CelebName": "Eddie_McClintock"
+ },
+ {
+   "FIELD1": "data/wav_test/id10275/CVUXDNZzcmA/00005.wav",
+   "x": 0.056937255,
+   "y": -0.5266133,
+   "z": 4.88364,
+   "CelebName": "Eddie_McClintock"
+ },
+ {
+   "FIELD1": "data/wav_test/id10275/CVUXDNZzcmA/00004.wav",
+   "x": 0.12034501,
+   "y": -0.5901335,
+   "z": 4.8202276,
+   "CelebName": "Eddie_McClintock"
+ },
+ {
+   "FIELD1": "data/wav_test/id10275/CVUXDNZzcmA/00002.wav",
+   "x": 0.096136026,
+   "y": -0.56580204,
+   "z": 4.844443,
+   "CelebName": "Eddie_McClintock"
+ },
+ {
+   "FIELD1": "data/wav_test/id10275/QjrBKqx_Xeo/00005.wav",
+   "x": 0.12449851,
+   "y": -0.5940375,
+   "z": 4.8160615,
+   "CelebName": "Eddie_McClintock"
+ },
+ {
+   "FIELD1": "data/wav_test/id10275/UBMwbGlSLLg/00001.wav",
+   "x": 0.09371828,
+   "y": -0.56340146,
+   "z": 4.8469944,
+   "CelebName": "Eddie_McClintock"
+ },
+ {
+   "FIELD1": "data/wav_test/id10275/Mdk1SXywHck/00019.wav",
+   "x": 0.23392016,
+   "y": -0.70359284,
+   "z": 4.706252,
+   "CelebName": "Eddie_McClintock"
+ },
+ {
+   "FIELD1": "data/wav_test/id10275/Mdk1SXywHck/00009.wav",
+   "x": 0.25861278,
+   "y": -0.7283692,
+   "z": 4.6816444,
+   "CelebName": "Eddie_McClintock"
+ },
+ {
+   "FIELD1": "data/wav_test/id10275/Mdk1SXywHck/00021.wav",
+   "x": 0.21202308,
+   "y": -0.6817012,
+   "z": 4.7282586,
+   "CelebName": "Eddie_McClintock"
+ },
+ {
+   "FIELD1": "data/wav_test/id10275/Mdk1SXywHck/00008.wav",
+   "x": 0.24920371,
+   "y": -0.7189677,
+   "z": 4.691067,
+   "CelebName": "Eddie_McClintock"
+ },
+ {
+   "FIELD1": "data/wav_test/id10275/Mdk1SXywHck/00023.wav",
+   "x": 0.22270148,
+   "y": -0.6923922,
+   "z": 4.7175756,
+   "CelebName": "Eddie_McClintock"
+ },
+ {
+   "FIELD1": "data/wav_test/id10275/Mdk1SXywHck/00005.wav",
+   "x": 0.1873531,
+   "y": -0.6571406,
+   "z": 4.7529655,
+   "CelebName": "Eddie_McClintock"
+ },
+ {
+   "FIELD1": "data/wav_test/id10275/Mdk1SXywHck/00001.wav",
+   "x": 0.22876735,
+   "y": -0.6985295,
+   "z": 4.711417,
+   "CelebName": "Eddie_McClintock"
+ },
+ {
+   "FIELD1": "data/wav_test/id10275/Mdk1SXywHck/00003.wav",
+   "x": 0.24668425,
+   "y": -0.71647424,
+   "z": 4.693574,
+   "CelebName": "Eddie_McClintock"
+ },
+ {
+   "FIELD1": "data/wav_test/id10275/LqcUAxrtYOk/00004.wav",
+   "x": 0.21248601,
+   "y": -0.6821062,
+   "z": 4.7277956,
+   "CelebName": "Eddie_McClintock"
+ },
+ {
+   "FIELD1": "data/wav_test/id10272/0qqQJVFKpbA/00003.wav",
+   "x": 11.370677,
+   "y": 6.9909577,
+   "z": 10.213193,
+   "CelebName": "Eddie_Griffin"
+ },
+ {
+   "FIELD1": "data/wav_test/id10272/olePnztkm6U/00008.wav",
+   "x": 11.352685,
+   "y": 6.9648843,
+   "z": 10.248906,
+   "CelebName": "Eddie_Griffin"
+ },
+ {
+   "FIELD1": "data/wav_test/id10272/olePnztkm6U/00007.wav",
+   "x": 11.383105,
+   "y": 7.0012364,
+   "z": 10.222232,
+   "CelebName": "Eddie_Griffin"
+ },
+ {
+   "FIELD1": "data/wav_test/id10272/olePnztkm6U/00005.wav",
+   "x": 11.373442,
+   "y": 6.9928646,
+   "z": 10.215934,
+   "CelebName": "Eddie_Griffin"
+ },
+ {
+   "FIELD1": "data/wav_test/id10272/olePnztkm6U/00004.wav",
+   "x": 11.418294,
+   "y": 7.034307,
+   "z": 10.219631,
+   "CelebName": "Eddie_Griffin"
+ },
+ {
+   "FIELD1": "data/wav_test/id10272/dkN2DIBrXqQ/00008.wav",
+   "x": 11.374324,
+   "y": 7.0065427,
+   "z": 10.193741,
+   "CelebName": "Eddie_Griffin"
+ },
+ {
+   "FIELD1": "data/wav_test/id10272/wb6ligRbbZ4/00002.wav",
+   "x": 11.419377,
+   "y": 7.0369883,
+   "z": 10.219938,
+   "CelebName": "Eddie_Griffin"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/PlJd6NVoigs/00006.wav",
+   "x": 10.882068,
+   "y": -5.7953205,
+   "z": 3.7417438,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/0sETQ5nxvf8/00001.wav",
+   "x": 11.079335,
+   "y": -5.9836445,
+   "z": 3.6617358,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/lJQTN_wK9vA/00001.wav",
+   "x": 10.794784,
+   "y": -5.69841,
+   "z": 3.7937856,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/lJQTN_wK9vA/00002.wav",
+   "x": 10.840815,
+   "y": -5.7635336,
+   "z": 3.755824,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/Qkll9n7U5ak/00008.wav",
+   "x": 10.787025,
+   "y": -5.706457,
+   "z": 3.8176148,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/Qkll9n7U5ak/00011.wav",
+   "x": 10.851382,
+   "y": -5.7518454,
+   "z": 3.7552147,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/Qkll9n7U5ak/00005.wav",
+   "x": 10.862584,
+   "y": -5.773425,
+   "z": 3.70594,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/FP4TghS5_UQ/00001.wav",
+   "x": 10.967755,
+   "y": -6.0260696,
+   "z": 3.3955214,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/DPPq8w5ILrA/00009.wav",
+   "x": 11.016555,
+   "y": -6.122841,
+   "z": 3.2715766,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/DPPq8w5ILrA/00008.wav",
+   "x": 11.05176,
+   "y": -6.137577,
+   "z": 3.296547,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/DPPq8w5ILrA/00006.wav",
+   "x": 11.05712,
+   "y": -6.113627,
+   "z": 3.3348608,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/DPPq8w5ILrA/00012.wav",
+   "x": 11.02882,
+   "y": -6.0819426,
+   "z": 3.3364282,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/DPPq8w5ILrA/00005.wav",
+   "x": 11.063522,
+   "y": -6.07842,
+   "z": 3.2833602,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/DPPq8w5ILrA/00004.wav",
+   "x": 11.046497,
+   "y": -6.10648,
+   "z": 3.3087623,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/DPPq8w5ILrA/00002.wav",
+   "x": 11.052856,
+   "y": -6.078452,
+   "z": 3.3264544,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/J37FfHHefdc/00001.wav",
+   "x": 11.122119,
+   "y": -5.9986944,
+   "z": 3.730556,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/mmFmN0OPhKs/00006.wav",
+   "x": 10.849393,
+   "y": -5.8885927,
+   "z": 4.0006557,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/mmFmN0OPhKs/00005.wav",
+   "x": 10.981776,
+   "y": -6.006405,
+   "z": 3.937748,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/yAe_ZhyWdnI/00002.wav",
+   "x": 11.0678625,
+   "y": -5.9679527,
+   "z": 3.7301226,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/gkDeAS985L4/00004.wav",
+   "x": 11.104417,
+   "y": -6.026684,
+   "z": 3.557815,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/9K2YB1d8BqY/00018.wav",
+   "x": 10.844169,
+   "y": -5.9491563,
+   "z": 4.0964837,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/9K2YB1d8BqY/00006.wav",
+   "x": 10.885142,
+   "y": -5.9667916,
+   "z": 4.101917,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/9K2YB1d8BqY/00007.wav",
+   "x": 10.874831,
+   "y": -5.963015,
+   "z": 4.1089435,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/9K2YB1d8BqY/00017.wav",
+   "x": 10.865864,
+   "y": -6.000796,
+   "z": 4.123378,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/9K2YB1d8BqY/00016.wav",
+   "x": 10.865092,
+   "y": -5.9747214,
+   "z": 4.1308036,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/iH0jGPqp3Hc/00001.wav",
+   "x": 11.060597,
+   "y": -6.1133513,
+   "z": 3.3547537,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/iH0jGPqp3Hc/00003.wav",
+   "x": 11.105625,
+   "y": -6.161492,
+   "z": 3.3123105,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/lBkbWztMEUY/00002.wav",
+   "x": 10.752932,
+   "y": -5.691765,
+   "z": 3.8406465,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/L2jRsPDZGgw/00009.wav",
+   "x": 10.885961,
+   "y": -5.8061137,
+   "z": 3.645708,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/L2jRsPDZGgw/00007.wav",
+   "x": 10.894823,
+   "y": -5.8198953,
+   "z": 3.7114923,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/L2jRsPDZGgw/00010.wav",
+   "x": 10.878261,
+   "y": -5.787813,
+   "z": 3.7262337,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/L2jRsPDZGgw/00001.wav",
+   "x": 10.9375305,
+   "y": -5.8745313,
+   "z": 3.6107402,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/L2jRsPDZGgw/00003.wav",
+   "x": 10.916217,
+   "y": -5.842181,
+   "z": 3.6556575,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/isKyMAYUOgg/00012.wav",
+   "x": 11.017384,
+   "y": -6.1010876,
+   "z": 3.2876768,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/isKyMAYUOgg/00007.wav",
+   "x": 10.984155,
+   "y": -6.0811734,
+   "z": 3.2568855,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/isKyMAYUOgg/00011.wav",
+   "x": 11.025245,
+   "y": -6.1215534,
+   "z": 3.3232334,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/isKyMAYUOgg/00003.wav",
+   "x": 10.999786,
+   "y": -6.0660925,
+   "z": 3.314974,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/7I1GtGzVfmw/00006.wav",
+   "x": 10.728587,
+   "y": -5.666075,
+   "z": 3.8257716,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/7I1GtGzVfmw/00012.wav",
+   "x": 10.741614,
+   "y": -5.6962543,
+   "z": 3.8700678,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/7I1GtGzVfmw/00013.wav",
+   "x": 10.751502,
+   "y": -5.6742086,
+   "z": 3.8391972,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/7I1GtGzVfmw/00011.wav",
+   "x": 10.801164,
+   "y": -5.7309036,
+   "z": 3.8160133,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/7I1GtGzVfmw/00016.wav",
+   "x": 10.767604,
+   "y": -5.682921,
+   "z": 3.8141248,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/7I1GtGzVfmw/00002.wav",
+   "x": 10.778964,
+   "y": -5.7076163,
+   "z": 3.8226275,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/mYc2BIS0zWU/00004.wav",
+   "x": 11.011505,
+   "y": -5.965137,
+   "z": 3.6419723,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/ZAK9gLYNqPs/00003.wav",
+   "x": 11.054487,
+   "y": -6.1066723,
+   "z": 3.3718574,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/ZAK9gLYNqPs/00002.wav",
+   "x": 11.018424,
+   "y": -6.062661,
+   "z": 3.4596825,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/4TtOX8dgtYI/00003.wav",
+   "x": 11.094289,
+   "y": -6.015745,
+   "z": 3.6600857,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/4TtOX8dgtYI/00002.wav",
+   "x": 11.030422,
+   "y": -5.950837,
+   "z": 3.7538934,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/cJ40ZqTY3dQ/00006.wav",
+   "x": 10.847806,
+   "y": -5.928981,
+   "z": 4.0808115,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10286/cJ40ZqTY3dQ/00007.wav",
+   "x": 10.83694,
+   "y": -5.9108086,
+   "z": 4.0591083,
+   "CelebName": "Elle_Fanning"
+ },
+ {
+   "FIELD1": "data/wav_test/id10288/owPgCDQ_URk/00001.wav",
+   "x": 20.795588,
+   "y": -1.8769251,
+   "z": 6.5209503,
+   "CelebName": "Ellen_Wong"
+ },
+ {
+   "FIELD1": "data/wav_test/id10288/A3ZvNuG8_oM/00002.wav",
+   "x": 20.825129,
+   "y": -1.8539028,
+   "z": 6.546262,
+   "CelebName": "Ellen_Wong"
+ },
+ {
+   "FIELD1": "data/wav_test/id10288/R4S2c-NiPfA/00003.wav",
+   "x": 20.817923,
+   "y": -1.8799539,
+   "z": 6.505724,
+   "CelebName": "Ellen_Wong"
+ },
+ {
+   "FIELD1": "data/wav_test/id10288/dRr05CxK0jQ/00005.wav",
+   "x": 20.835804,
+   "y": -1.8555528,
+   "z": 6.5535984,
+   "CelebName": "Ellen_Wong"
+ },
+ {
+   "FIELD1": "data/wav_test/id10288/dRr05CxK0jQ/00001.wav",
+   "x": 20.780218,
+   "y": -1.8921913,
+   "z": 6.500169,
+   "CelebName": "Ellen_Wong"
+ },
+ {
+   "FIELD1": "data/wav_test/id10288/JzNVSA7eFwc/00006.wav",
+   "x": 20.844643,
+   "y": -1.8372619,
+   "z": 6.5638914,
+   "CelebName": "Ellen_Wong"
+ },
+ {
+   "FIELD1": "data/wav_test/id10288/JzNVSA7eFwc/00007.wav",
+   "x": 20.831688,
+   "y": -1.8556334,
+   "z": 6.546187,
+   "CelebName": "Ellen_Wong"
+ },
+ {
+   "FIELD1": "data/wav_test/id10288/JzNVSA7eFwc/00001.wav",
+   "x": 20.805655,
+   "y": -1.8729982,
+   "z": 6.5251102,
+   "CelebName": "Ellen_Wong"
+ },
+ {
+   "FIELD1": "data/wav_test/id10288/JzNVSA7eFwc/00003.wav",
+   "x": 20.789803,
+   "y": -1.8980304,
+   "z": 6.5071654,
+   "CelebName": "Ellen_Wong"
+ },
+ {
+   "FIELD1": "data/wav_test/id10288/JzNVSA7eFwc/00002.wav",
+   "x": 20.79972,
+   "y": -1.880121,
+   "z": 6.517879,
+   "CelebName": "Ellen_Wong"
+ },
+ {
+   "FIELD1": "data/wav_test/id10309/V_tzoDBiP8A/00004.wav",
+   "x": 16.43662,
+   "y": 8.766813,
+   "z": -2.339181,
+   "CelebName": "Ezra_Miller"
+ },
+ {
+   "FIELD1": "data/wav_test/id10309/V_tzoDBiP8A/00001.wav",
+   "x": 16.483397,
+   "y": 8.845906,
+   "z": -2.3771863,
+   "CelebName": "Ezra_Miller"
+ },
+ {
+   "FIELD1": "data/wav_test/id10309/0cYFdtyWVds/00004.wav",
+   "x": 16.367044,
+   "y": 8.851895,
+   "z": -2.257022,
+   "CelebName": "Ezra_Miller"
+ },
+ {
+   "FIELD1": "data/wav_test/id10309/0cYFdtyWVds/00003.wav",
+   "x": 16.379137,
+   "y": 8.820476,
+   "z": -2.2896242,
+   "CelebName": "Ezra_Miller"
+ },
+ {
+   "FIELD1": "data/wav_test/id10309/0cYFdtyWVds/00002.wav",
+   "x": 16.381113,
+   "y": 8.919964,
+   "z": -2.2864413,
+   "CelebName": "Ezra_Miller"
+ },
+ {
+   "FIELD1": "data/wav_test/id10309/rxnN8thYzEQ/00002.wav",
+   "x": 16.48227,
+   "y": 8.870178,
+   "z": -2.3800752,
+   "CelebName": "Ezra_Miller"
+ },
+ {
+   "FIELD1": "data/wav_test/id10309/0b1inHMAr6o/00005.wav",
+   "x": 16.567654,
+   "y": 8.798345,
+   "z": -2.4600425,
+   "CelebName": "Ezra_Miller"
+ },
+ {
+   "FIELD1": "data/wav_test/id10309/0b1inHMAr6o/00004.wav",
+   "x": 16.469002,
+   "y": 8.825949,
+   "z": -2.3652682,
+   "CelebName": "Ezra_Miller"
+ },
+ {
+   "FIELD1": "data/wav_test/id10309/0b1inHMAr6o/00010.wav",
+   "x": 16.527855,
+   "y": 8.815183,
+   "z": -2.423877,
+   "CelebName": "Ezra_Miller"
+ },
+ {
+   "FIELD1": "data/wav_test/id10309/0b1inHMAr6o/00002.wav",
+   "x": 16.567707,
+   "y": 8.845354,
+   "z": -2.4631884,
+   "CelebName": "Ezra_Miller"
+ },
+ {
+   "FIELD1": "data/wav_test/id10309/MJ3skMKNBGM/00003.wav",
+   "x": 16.528654,
+   "y": 8.900347,
+   "z": -2.4239807,
+   "CelebName": "Ezra_Miller"
+ },
+ {
+   "FIELD1": "data/wav_test/id10309/e-IdJ8a4gy4/00009.wav",
+   "x": 16.15161,
+   "y": 8.863419,
+   "z": -2.0855606,
+   "CelebName": "Ezra_Miller"
+ },
+ {
+   "FIELD1": "data/wav_test/id10309/e-IdJ8a4gy4/00008.wav",
+   "x": 16.204716,
+   "y": 8.810819,
+   "z": -2.1365178,
+   "CelebName": "Ezra_Miller"
+ },
+ {
+   "FIELD1": "data/wav_test/id10309/e-IdJ8a4gy4/00011.wav",
+   "x": 16.231596,
+   "y": 8.825744,
+   "z": -2.161328,
+   "CelebName": "Ezra_Miller"
+ },
+ {
+   "FIELD1": "data/wav_test/id10309/e-IdJ8a4gy4/00005.wav",
+   "x": 16.21861,
+   "y": 8.834268,
+   "z": -2.1486323,
+   "CelebName": "Ezra_Miller"
+ },
+ {
+   "FIELD1": "data/wav_test/id10309/e-IdJ8a4gy4/00004.wav",
+   "x": 16.195564,
+   "y": 8.867858,
+   "z": -2.12486,
+   "CelebName": "Ezra_Miller"
+ },
+ {
+   "FIELD1": "data/wav_test/id10309/rqaAm4bEsXc/00008.wav",
+   "x": 16.507526,
+   "y": 8.856788,
+   "z": -2.4063654,
+   "CelebName": "Ezra_Miller"
+ },
+ {
+   "FIELD1": "data/wav_test/id10309/rqaAm4bEsXc/00010.wav",
+   "x": 16.578354,
+   "y": 8.915972,
+   "z": -2.474682,
+   "CelebName": "Ezra_Miller"
+ },
+ {
+   "FIELD1": "data/wav_test/id10309/qFrRfhWombs/00013.wav",
+   "x": 16.23611,
+   "y": 8.820363,
+   "z": -2.1629865,
+   "CelebName": "Ezra_Miller"
+ },
+ {
+   "FIELD1": "data/wav_test/id10309/qFrRfhWombs/00011.wav",
+   "x": 16.231934,
+   "y": 8.8249,
+   "z": -2.160667,
+   "CelebName": "Ezra_Miller"
+ },
+ {
+   "FIELD1": "data/wav_test/id10309/qFrRfhWombs/00010.wav",
+   "x": 16.202717,
+   "y": 8.817127,
+   "z": -2.1371994,
+   "CelebName": "Ezra_Miller"
+ },
+ {
+   "FIELD1": "data/wav_test/id10309/qFrRfhWombs/00002.wav",
+   "x": 16.241488,
+   "y": 8.792616,
+   "z": -2.1701572,
+   "CelebName": "Ezra_Miller"
+ },
+ {
+   "FIELD1": "data/wav_test/id10309/XMLMvfrgdzY/00007.wav",
+   "x": 16.208345,
+   "y": 8.866557,
+   "z": -2.13936,
+   "CelebName": "Ezra_Miller"
+ },
+ {
+   "FIELD1": "data/wav_test/id10309/vobW27_-JyQ/00009.wav",
+   "x": 16.522978,
+   "y": 8.852151,
+   "z": -2.419218,
+   "CelebName": "Ezra_Miller"
+ },
+ {
+   "FIELD1": "data/wav_test/id10309/vobW27_-JyQ/00008.wav",
+   "x": 16.512274,
+   "y": 8.824568,
+   "z": -2.4042401,
+   "CelebName": "Ezra_Miller"
+ },
+ {
+   "FIELD1": "data/wav_test/id10309/vobW27_-JyQ/00011.wav",
+   "x": 16.49557,
+   "y": 8.855851,
+   "z": -2.3913376,
+   "CelebName": "Ezra_Miller"
+ },
+ {
+   "FIELD1": "data/wav_test/id10309/vobW27_-JyQ/00010.wav",
+   "x": 16.474102,
+   "y": 8.829225,
+   "z": -2.3684099,
+   "CelebName": "Ezra_Miller"
+ },
+ {
+   "FIELD1": "data/wav_test/id10309/vobW27_-JyQ/00002.wav",
+   "x": 16.54244,
+   "y": 8.895933,
+   "z": -2.438037,
+   "CelebName": "Ezra_Miller"
+ },
+ {
+   "FIELD1": "data/wav_test/id10309/GyJHpVQmcvc/00002.wav",
+   "x": 16.434618,
+   "y": 8.801249,
+   "z": -2.3338737,
+   "CelebName": "Ezra_Miller"
+ },
+ {
+   "FIELD1": "data/wav_test/id10309/tGEWD2GaiDw/00003.wav",
+   "x": 16.416245,
+   "y": 8.927643,
+   "z": -2.3157685,
+   "CelebName": "Ezra_Miller"
+ },
+ {
+   "FIELD1": "data/wav_test/id10309/_z_BR0ERa9g/00007.wav",
+   "x": 16.513391,
+   "y": 8.852057,
+   "z": -2.4085705,
+   "CelebName": "Ezra_Miller"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/ize_eiCFEg0/00006.wav",
+   "x": 11.051559,
+   "y": 2.086717,
+   "z": 17.251568,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/2cAiIYHfon0/00018.wav",
+   "x": 10.964439,
+   "y": 2.209551,
+   "z": 17.541042,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/2cAiIYHfon0/00021.wav",
+   "x": 10.854295,
+   "y": 2.0805774,
+   "z": 17.315937,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/2cAiIYHfon0/00020.wav",
+   "x": 10.99659,
+   "y": 2.1721091,
+   "z": 17.385254,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/2cAiIYHfon0/00012.wav",
+   "x": 10.820954,
+   "y": 2.3970532,
+   "z": 17.540094,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/2cAiIYHfon0/00005.wav",
+   "x": 11.110606,
+   "y": 2.054503,
+   "z": 17.55971,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/2cAiIYHfon0/00010.wav",
+   "x": 10.745592,
+   "y": 2.4569855,
+   "z": 17.449057,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/2cAiIYHfon0/00015.wav",
+   "x": 11.220604,
+   "y": 2.2079856,
+   "z": 17.833633,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/2cAiIYHfon0/00003.wav",
+   "x": 11.119831,
+   "y": 2.2367933,
+   "z": 17.821573,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/2cAiIYHfon0/00017.wav",
+   "x": 10.933123,
+   "y": 2.2800455,
+   "z": 17.68415,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/VHWZdctr_4s/00012.wav",
+   "x": 10.788746,
+   "y": 2.3559365,
+   "z": 17.245659,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/Xroutc-3_SU/00008.wav",
+   "x": 10.819003,
+   "y": 2.3203053,
+   "z": 17.371885,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/Xroutc-3_SU/00006.wav",
+   "x": 10.837574,
+   "y": 2.2581651,
+   "z": 17.307613,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/Xroutc-3_SU/00007.wav",
+   "x": 11.104618,
+   "y": 2.1383774,
+   "z": 17.369307,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/Xroutc-3_SU/00004.wav",
+   "x": 11.155841,
+   "y": 2.1451793,
+   "z": 17.611145,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/Xroutc-3_SU/00001.wav",
+   "x": 11.159595,
+   "y": 2.2190502,
+   "z": 17.799828,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/Xroutc-3_SU/00002.wav",
+   "x": 10.989517,
+   "y": 2.133674,
+   "z": 17.363506,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/8Sz2-IYJ2GA/00018.wav",
+   "x": 10.332125,
+   "y": 3.1585755,
+   "z": 17.20214,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/8Sz2-IYJ2GA/00021.wav",
+   "x": 10.339409,
+   "y": 3.176173,
+   "z": 17.199017,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/8Sz2-IYJ2GA/00020.wav",
+   "x": 10.32204,
+   "y": 3.1743062,
+   "z": 17.198114,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/8Sz2-IYJ2GA/00006.wav",
+   "x": 10.297279,
+   "y": 3.1927254,
+   "z": 17.178585,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/8Sz2-IYJ2GA/00014.wav",
+   "x": 10.317616,
+   "y": 3.165121,
+   "z": 17.190413,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/8Sz2-IYJ2GA/00001.wav",
+   "x": 10.368989,
+   "y": 3.11927,
+   "z": 17.227472,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/8EDKH42GZ1o/00027.wav",
+   "x": 10.756035,
+   "y": 2.5042706,
+   "z": 17.502266,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/8EDKH42GZ1o/00018.wav",
+   "x": 11.040827,
+   "y": 2.3123372,
+   "z": 17.818714,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/8EDKH42GZ1o/00019.wav",
+   "x": 11.175753,
+   "y": 2.1606195,
+   "z": 17.78668,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/8EDKH42GZ1o/00036.wav",
+   "x": 11.211004,
+   "y": 2.2629182,
+   "z": 17.835701,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/8EDKH42GZ1o/00007.wav",
+   "x": 10.816831,
+   "y": 2.5201805,
+   "z": 17.459862,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/8EDKH42GZ1o/00005.wav",
+   "x": 10.992765,
+   "y": 2.4288416,
+   "z": 17.587347,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/8EDKH42GZ1o/00017.wav",
+   "x": 10.825674,
+   "y": 2.2651658,
+   "z": 17.530516,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/7byARrJfhlI/00009.wav",
+   "x": 11.082901,
+   "y": 2.1971102,
+   "z": 17.742254,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/7byARrJfhlI/00020.wav",
+   "x": 10.785326,
+   "y": 2.5740886,
+   "z": 17.391119,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/7byARrJfhlI/00008.wav",
+   "x": 10.85255,
+   "y": 2.4192066,
+   "z": 17.470667,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/7byARrJfhlI/00007.wav",
+   "x": 10.811111,
+   "y": 2.5720117,
+   "z": 17.521585,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/7byARrJfhlI/00010.wav",
+   "x": 10.82639,
+   "y": 2.4435556,
+   "z": 17.418867,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/7byARrJfhlI/00017.wav",
+   "x": 10.800305,
+   "y": 2.4952157,
+   "z": 17.41917,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/7byARrJfhlI/00016.wav",
+   "x": 10.848917,
+   "y": 2.4254508,
+   "z": 17.271425,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/TMBdUkVfwOg/00007.wav",
+   "x": 10.229066,
+   "y": 3.273516,
+   "z": 17.104774,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/TMBdUkVfwOg/00001.wav",
+   "x": 10.2356415,
+   "y": 3.2677586,
+   "z": 17.113968,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/TMBdUkVfwOg/00003.wav",
+   "x": 10.251676,
+   "y": 3.2489164,
+   "z": 17.128597,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/TMBdUkVfwOg/00002.wav",
+   "x": 10.260419,
+   "y": 3.2477982,
+   "z": 17.128952,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/BL7XmN8w_UY/00002.wav",
+   "x": 11.132811,
+   "y": 1.9418736,
+   "z": 17.622858,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/fAe7DXqrZls/00019.wav",
+   "x": 11.149809,
+   "y": 1.9989542,
+   "z": 17.50975,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/fAe7DXqrZls/00008.wav",
+   "x": 11.094568,
+   "y": 2.0481794,
+   "z": 17.474169,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/fAe7DXqrZls/00013.wav",
+   "x": 11.105841,
+   "y": 1.9824682,
+   "z": 17.594152,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/fAe7DXqrZls/00011.wav",
+   "x": 10.9400425,
+   "y": 2.1257164,
+   "z": 17.54658,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/fAe7DXqrZls/00004.wav",
+   "x": 10.956829,
+   "y": 2.0192654,
+   "z": 17.545132,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/fAe7DXqrZls/00001.wav",
+   "x": 11.110526,
+   "y": 2.173914,
+   "z": 17.753391,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/fAe7DXqrZls/00017.wav",
+   "x": 10.824146,
+   "y": 2.3927917,
+   "z": 17.405056,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/AytdA2W0Y_M/00009.wav",
+   "x": 11.028148,
+   "y": 1.9941436,
+   "z": 17.431288,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/AytdA2W0Y_M/00004.wav",
+   "x": 11.092541,
+   "y": 2.1229622,
+   "z": 17.629557,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/AytdA2W0Y_M/00001.wav",
+   "x": 11.003381,
+   "y": 2.0573063,
+   "z": 17.592085,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/mYSVs_d1aMQ/00008.wav",
+   "x": 10.746482,
+   "y": 2.2531111,
+   "z": 17.62187,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/mYSVs_d1aMQ/00006.wav",
+   "x": 10.923206,
+   "y": 2.234577,
+   "z": 17.5654,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/mYSVs_d1aMQ/00012.wav",
+   "x": 11.127047,
+   "y": 2.0563612,
+   "z": 17.752945,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/mYSVs_d1aMQ/00007.wav",
+   "x": 10.787798,
+   "y": 2.223175,
+   "z": 17.646122,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/SQzWyPhRqmk/00006.wav",
+   "x": 10.96533,
+   "y": 2.210868,
+   "z": 17.459564,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/SQzWyPhRqmk/00012.wav",
+   "x": 10.895337,
+   "y": 2.2873387,
+   "z": 17.481682,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/SQzWyPhRqmk/00011.wav",
+   "x": 10.691462,
+   "y": 2.346893,
+   "z": 17.55334,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/SQzWyPhRqmk/00005.wav",
+   "x": 11.034835,
+   "y": 2.1989107,
+   "z": 17.593199,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/SQzWyPhRqmk/00004.wav",
+   "x": 11.055303,
+   "y": 2.3094394,
+   "z": 17.607685,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/SQzWyPhRqmk/00010.wav",
+   "x": 11.111685,
+   "y": 2.1521125,
+   "z": 17.65936,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/xiFC4HwUcww/00012.wav",
+   "x": 10.93209,
+   "y": 2.1747744,
+   "z": 17.30261,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/xiFC4HwUcww/00013.wav",
+   "x": 10.962882,
+   "y": 2.098026,
+   "z": 17.44584,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/xiFC4HwUcww/00007.wav",
+   "x": 10.981063,
+   "y": 2.1417663,
+   "z": 17.332289,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/xiFC4HwUcww/00005.wav",
+   "x": 11.031282,
+   "y": 1.9858645,
+   "z": 17.431026,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/xiFC4HwUcww/00004.wav",
+   "x": 11.007301,
+   "y": 2.179421,
+   "z": 17.463425,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/xiFC4HwUcww/00010.wav",
+   "x": 11.048939,
+   "y": 2.0426502,
+   "z": 17.329504,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/xiFC4HwUcww/00001.wav",
+   "x": 11.039398,
+   "y": 2.0492537,
+   "z": 17.39107,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/pVKJjm4sKdI/00003.wav",
+   "x": 10.531768,
+   "y": 2.880995,
+   "z": 17.235727,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/1ZyvrJaiLQk/00027.wav",
+   "x": 10.399381,
+   "y": 3.1135545,
+   "z": 17.282583,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/1ZyvrJaiLQk/00018.wav",
+   "x": 10.369039,
+   "y": 3.1663923,
+   "z": 17.243896,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/1ZyvrJaiLQk/00036.wav",
+   "x": 10.360711,
+   "y": 3.1491423,
+   "z": 17.236877,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/1ZyvrJaiLQk/00013.wav",
+   "x": 10.367307,
+   "y": 3.1321344,
+   "z": 17.229834,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/1ZyvrJaiLQk/00011.wav",
+   "x": 10.310805,
+   "y": 3.1942947,
+   "z": 17.187645,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/1ZyvrJaiLQk/00015.wav",
+   "x": 10.385341,
+   "y": 3.1314561,
+   "z": 17.268084,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/AsHhZ_bnpQg/00001.wav",
+   "x": 10.944994,
+   "y": 2.1621866,
+   "z": 17.487402,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/_WKW_Jkdvq8/00004.wav",
+   "x": 10.71985,
+   "y": 2.4561396,
+   "z": 17.4619,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/_WKW_Jkdvq8/00001.wav",
+   "x": 11.109777,
+   "y": 2.2001853,
+   "z": 17.734074,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/_WKW_Jkdvq8/00002.wav",
+   "x": 10.899492,
+   "y": 2.3272014,
+   "z": 17.631065,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/Fi8lnFPYgII/00018.wav",
+   "x": 10.64143,
+   "y": 3.0052056,
+   "z": 17.614489,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/Fi8lnFPYgII/00021.wav",
+   "x": 10.622904,
+   "y": 3.0196157,
+   "z": 17.593378,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/Fi8lnFPYgII/00022.wav",
+   "x": 10.653627,
+   "y": 2.9637895,
+   "z": 17.610176,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/Fi8lnFPYgII/00011.wav",
+   "x": 10.661635,
+   "y": 2.9619634,
+   "z": 17.622536,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10300/Fi8lnFPYgII/00016.wav",
+   "x": 10.656245,
+   "y": 2.9699087,
+   "z": 17.61846,
+   "CelebName": "Ernest_Borgnine"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/IASj5B-pAyM/00011.wav",
+   "x": -2.7277968,
+   "y": 8.975204,
+   "z": 4.1244364,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/IASj5B-pAyM/00005.wav",
+   "x": -2.3115728,
+   "y": 8.91605,
+   "z": 4.041086,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/IASj5B-pAyM/00004.wav",
+   "x": -2.4394658,
+   "y": 8.887446,
+   "z": 4.0339513,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/IASj5B-pAyM/00003.wav",
+   "x": -2.419067,
+   "y": 8.939249,
+   "z": 4.068041,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/c_aEjTGGhZ4/00009.wav",
+   "x": -1.8438888,
+   "y": 8.844707,
+   "z": 3.8920588,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/c_aEjTGGhZ4/00008.wav",
+   "x": -1.8291558,
+   "y": 8.897171,
+   "z": 3.9548407,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/c_aEjTGGhZ4/00003.wav",
+   "x": -1.770693,
+   "y": 8.903951,
+   "z": 3.9376144,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/cR5FfR4TbEI/00009.wav",
+   "x": -2.19111,
+   "y": 8.947795,
+   "z": 4.0595636,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/cR5FfR4TbEI/00008.wav",
+   "x": -2.0700521,
+   "y": 8.933598,
+   "z": 4.0311646,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/cR5FfR4TbEI/00006.wav",
+   "x": -2.0450652,
+   "y": 8.932194,
+   "z": 4.031461,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/cR5FfR4TbEI/00001.wav",
+   "x": -2.2705889,
+   "y": 8.945523,
+   "z": 4.0660086,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/kp_GCjLq4qA/00004.wav",
+   "x": -1.8751519,
+   "y": 8.940322,
+   "z": 3.988222,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/kp_GCjLq4qA/00002.wav",
+   "x": -1.864371,
+   "y": 8.929466,
+   "z": 4.0134706,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/hs255kxqdIA/00001.wav",
+   "x": -1.9867502,
+   "y": 8.926421,
+   "z": 4.0259433,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/yUv37vQWmzE/00008.wav",
+   "x": -4.676537,
+   "y": 8.314572,
+   "z": 3.6688282,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/yUv37vQWmzE/00012.wav",
+   "x": -4.6575603,
+   "y": 8.3210125,
+   "z": 3.669925,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/yUv37vQWmzE/00013.wav",
+   "x": -4.661401,
+   "y": 8.329922,
+   "z": 3.6837661,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/yUv37vQWmzE/00007.wav",
+   "x": -4.6941085,
+   "y": 8.296268,
+   "z": 3.6633162,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/yUv37vQWmzE/00011.wav",
+   "x": -4.6751313,
+   "y": 8.315311,
+   "z": 3.668783,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/yUv37vQWmzE/00005.wav",
+   "x": -4.675505,
+   "y": 8.314745,
+   "z": 3.668711,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/yUv37vQWmzE/00004.wav",
+   "x": -4.6752996,
+   "y": 8.314183,
+   "z": 3.6660476,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/yUv37vQWmzE/00015.wav",
+   "x": -4.6658397,
+   "y": 8.316301,
+   "z": 3.6673508,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/yUv37vQWmzE/00003.wav",
+   "x": -4.676147,
+   "y": 8.314466,
+   "z": 3.6686542,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/IpBtAcwbQb0/00007.wav",
+   "x": -1.9134419,
+   "y": 8.8897,
+   "z": 3.979261,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/f8Ms66atECE/00009.wav",
+   "x": -1.5599781,
+   "y": 8.9832325,
+   "z": 4.083968,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/f8Ms66atECE/00008.wav",
+   "x": -1.517665,
+   "y": 8.893265,
+   "z": 4.030395,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/f8Ms66atECE/00007.wav",
+   "x": -1.6410565,
+   "y": 8.88377,
+   "z": 3.9570305,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/f8Ms66atECE/00011.wav",
+   "x": -1.645923,
+   "y": 8.964547,
+   "z": 3.9756174,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/f8Ms66atECE/00004.wav",
+   "x": -1.5285681,
+   "y": 8.903833,
+   "z": 4.0020213,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/f8Ms66atECE/00010.wav",
+   "x": -1.5605326,
+   "y": 8.934031,
+   "z": 4.013363,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/f8Ms66atECE/00003.wav",
+   "x": -1.3635287,
+   "y": 8.754788,
+   "z": 3.9384272,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/f8Ms66atECE/00002.wav",
+   "x": -1.5345311,
+   "y": 8.903303,
+   "z": 4.01584,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/120gjdqGWNQ/00024.wav",
+   "x": -2.8990586,
+   "y": 8.990301,
+   "z": 4.1707377,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/120gjdqGWNQ/00018.wav",
+   "x": -2.948375,
+   "y": 8.938574,
+   "z": 4.2253547,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/120gjdqGWNQ/00025.wav",
+   "x": -2.9460826,
+   "y": 8.938913,
+   "z": 4.2218294,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/120gjdqGWNQ/00009.wav",
+   "x": -2.896419,
+   "y": 9.016192,
+   "z": 4.203783,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/120gjdqGWNQ/00020.wav",
+   "x": -2.8881078,
+   "y": 8.974423,
+   "z": 4.1774435,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/120gjdqGWNQ/00008.wav",
+   "x": -2.8025863,
+   "y": 8.999714,
+   "z": 4.228133,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/120gjdqGWNQ/00022.wav",
+   "x": -2.9543066,
+   "y": 8.978736,
+   "z": 4.2156262,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/120gjdqGWNQ/00012.wav",
+   "x": -2.9244268,
+   "y": 8.947796,
+   "z": 4.2091675,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/120gjdqGWNQ/00013.wav",
+   "x": -2.8453376,
+   "y": 9.0005665,
+   "z": 4.1695895,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/120gjdqGWNQ/00011.wav",
+   "x": -2.8902774,
+   "y": 8.976469,
+   "z": 4.185234,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/120gjdqGWNQ/00005.wav",
+   "x": -2.8051245,
+   "y": 9.023967,
+   "z": 4.149916,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/120gjdqGWNQ/00010.wav",
+   "x": -2.8525815,
+   "y": 9.007007,
+   "z": 4.1644173,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/120gjdqGWNQ/00014.wav",
+   "x": -2.8253918,
+   "y": 9.042615,
+   "z": 4.15363,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/120gjdqGWNQ/00015.wav",
+   "x": -2.88438,
+   "y": 8.953296,
+   "z": 4.135011,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/120gjdqGWNQ/00003.wav",
+   "x": -2.815175,
+   "y": 9.017316,
+   "z": 4.140407,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/120gjdqGWNQ/00016.wav",
+   "x": -2.8719206,
+   "y": 8.9981985,
+   "z": 4.1548743,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/120gjdqGWNQ/00002.wav",
+   "x": -2.8041358,
+   "y": 8.996231,
+   "z": 4.143172,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/BpIz2lAf22Y/00001.wav",
+   "x": -1.9712809,
+   "y": 8.926597,
+   "z": 4.0421886,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/bLrL6c37TYI/00003.wav",
+   "x": -2.265534,
+   "y": 8.9154825,
+   "z": 4.030121,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/wtqPC9vEZ0M/00003.wav",
+   "x": -2.407107,
+   "y": 8.977616,
+   "z": 4.101626,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/wtqPC9vEZ0M/00002.wav",
+   "x": -2.3258488,
+   "y": 8.968113,
+   "z": 4.0839286,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/0nH78dDh0N0/00018.wav",
+   "x": -1.6570458,
+   "y": 9.007768,
+   "z": 4.086395,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/0nH78dDh0N0/00019.wav",
+   "x": -1.5601912,
+   "y": 8.905057,
+   "z": 3.984395,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/0nH78dDh0N0/00009.wav",
+   "x": -1.5888325,
+   "y": 8.965522,
+   "z": 3.9786484,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/0nH78dDh0N0/00020.wav",
+   "x": -1.5564741,
+   "y": 8.949169,
+   "z": 4.0207276,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/0nH78dDh0N0/00008.wav",
+   "x": -1.5118954,
+   "y": 8.911152,
+   "z": 3.9831328,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/0nH78dDh0N0/00006.wav",
+   "x": -1.538614,
+   "y": 8.9848995,
+   "z": 4.1133566,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/0nH78dDh0N0/00012.wav",
+   "x": -1.3666981,
+   "y": 8.754483,
+   "z": 3.9657304,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/0nH78dDh0N0/00007.wav",
+   "x": -1.5973655,
+   "y": 8.9054985,
+   "z": 4.023792,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/0nH78dDh0N0/00011.wav",
+   "x": -1.5150517,
+   "y": 8.84638,
+   "z": 4.023356,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/0nH78dDh0N0/00004.wav",
+   "x": -1.5381336,
+   "y": 8.919945,
+   "z": 4.0066257,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/0nH78dDh0N0/00001.wav",
+   "x": -1.5143442,
+   "y": 8.869113,
+   "z": 4.05541,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/0nH78dDh0N0/00003.wav",
+   "x": -1.5089372,
+   "y": 8.871867,
+   "z": 4.051458,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/0nH78dDh0N0/00016.wav",
+   "x": -1.5541508,
+   "y": 8.961313,
+   "z": 4.083587,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10307/0nH78dDh0N0/00002.wav",
+   "x": -1.3920816,
+   "y": 8.797499,
+   "z": 3.9897163,
+   "CelebName": "Eva_Longoria"
+ },
+ {
+   "FIELD1": "data/wav_test/id10306/uzt36PBzT2w/00006.wav",
+   "x": 5.8630447,
+   "y": -6.256228,
+   "z": 14.794083,
+   "CelebName": "Eva_Green"
+ },
+ {
+   "FIELD1": "data/wav_test/id10306/uzt36PBzT2w/00004.wav",
+   "x": 5.830561,
+   "y": -6.219965,
+   "z": 14.821983,
+   "CelebName": "Eva_Green"
+ },
+ {
+   "FIELD1": "data/wav_test/id10306/ST2JZXcyYkE/00006.wav",
+   "x": 5.7418156,
+   "y": -6.243661,
+   "z": 14.889897,
+   "CelebName": "Eva_Green"
+ },
+ {
+   "FIELD1": "data/wav_test/id10306/tuOl16Buy1Y/00004.wav",
+   "x": 5.754242,
+   "y": -6.2190237,
+   "z": 14.904168,
+   "CelebName": "Eva_Green"
+ },
+ {
+   "FIELD1": "data/wav_test/id10306/YVeA3K_cPoc/00001.wav",
+   "x": 5.8268037,
+   "y": -6.198613,
+   "z": 14.8458185,
+   "CelebName": "Eva_Green"
+ },
+ {
+   "FIELD1": "data/wav_test/id10306/YVeA3K_cPoc/00002.wav",
+   "x": 5.7923474,
+   "y": -6.2137833,
+   "z": 14.879333,
+   "CelebName": "Eva_Green"
+ },
+ {
+   "FIELD1": "data/wav_test/id10306/cc5WSHcgkl8/00006.wav",
+   "x": 5.7784824,
+   "y": -6.221676,
+   "z": 14.908071,
+   "CelebName": "Eva_Green"
+ },
+ {
+   "FIELD1": "data/wav_test/id10306/cc5WSHcgkl8/00013.wav",
+   "x": 5.714779,
+   "y": -6.2919,
+   "z": 14.926204,
+   "CelebName": "Eva_Green"
+ },
+ {
+   "FIELD1": "data/wav_test/id10306/cc5WSHcgkl8/00011.wav",
+   "x": 5.6187925,
+   "y": -6.337402,
+   "z": 15.002981,
+   "CelebName": "Eva_Green"
+ },
+ {
+   "FIELD1": "data/wav_test/id10306/cc5WSHcgkl8/00003.wav",
+   "x": 5.6741033,
+   "y": -6.2387233,
+   "z": 15.01262,
+   "CelebName": "Eva_Green"
+ },
+ {
+   "FIELD1": "data/wav_test/id10306/C3AhSlYJd3w/00007.wav",
+   "x": 5.788032,
+   "y": -6.2606463,
+   "z": 14.868117,
+   "CelebName": "Eva_Green"
+ },
+ {
+   "FIELD1": "data/wav_test/id10306/C3AhSlYJd3w/00002.wav",
+   "x": 5.764428,
+   "y": -6.2637496,
+   "z": 14.898754,
+   "CelebName": "Eva_Green"
+ },
+ {
+   "FIELD1": "data/wav_test/id10306/5jsUg3uxG-E/00006.wav",
+   "x": 5.833342,
+   "y": -6.20193,
+   "z": 14.827686,
+   "CelebName": "Eva_Green"
+ },
+ {
+   "FIELD1": "data/wav_test/id10306/5jsUg3uxG-E/00001.wav",
+   "x": 5.7634764,
+   "y": -6.2235436,
+   "z": 14.895019,
+   "CelebName": "Eva_Green"
+ },
+ {
+   "FIELD1": "data/wav_test/id10306/4E-dEOQQsvo/00004.wav",
+   "x": 5.859517,
+   "y": -6.230146,
+   "z": 14.807807,
+   "CelebName": "Eva_Green"
+ },
+ {
+   "FIELD1": "data/wav_test/id10306/4E-dEOQQsvo/00003.wav",
+   "x": 5.8665843,
+   "y": -6.207453,
+   "z": 14.832261,
+   "CelebName": "Eva_Green"
+ },
+ {
+   "FIELD1": "data/wav_test/id10306/4E-dEOQQsvo/00002.wav",
+   "x": 5.88052,
+   "y": -6.2429466,
+   "z": 14.784494,
+   "CelebName": "Eva_Green"
+ },
+ {
+   "FIELD1": "data/wav_test/id10306/ux1zzNHqQI8/00001.wav",
+   "x": 5.8833537,
+   "y": -6.2942467,
+   "z": 14.767753,
+   "CelebName": "Eva_Green"
+ },
+ {
+   "FIELD1": "data/wav_test/id10306/ux1zzNHqQI8/00003.wav",
+   "x": 5.7913775,
+   "y": -6.2675653,
+   "z": 14.855092,
+   "CelebName": "Eva_Green"
+ },
+ {
+   "FIELD1": "data/wav_test/id10306/SBO7kM1IPaY/00010.wav",
+   "x": 5.7575426,
+   "y": -6.353106,
+   "z": 14.797829,
+   "CelebName": "Eva_Green"
+ },
+ {
+   "FIELD1": "data/wav_test/id10306/kQOkcEZUpJ4/00001.wav",
+   "x": 5.645722,
+   "y": -6.1985593,
+   "z": 14.99809,
+   "CelebName": "Eva_Green"
+ },
+ {
+   "FIELD1": "data/wav_test/id10306/XcXDiYWIS6E/00006.wav",
+   "x": 5.696007,
+   "y": -6.300998,
+   "z": 14.9013605,
+   "CelebName": "Eva_Green"
+ },
+ {
+   "FIELD1": "data/wav_test/id10306/XcXDiYWIS6E/00001.wav",
+   "x": 5.670026,
+   "y": -6.2724867,
+   "z": 14.960468,
+   "CelebName": "Eva_Green"
+ },
+ {
+   "FIELD1": "data/wav_test/id10306/XcXDiYWIS6E/00003.wav",
+   "x": 5.7065806,
+   "y": -6.235309,
+   "z": 14.894131,
+   "CelebName": "Eva_Green"
+ },
+ {
+   "FIELD1": "data/wav_test/id10306/mH6gd26SGcU/00001.wav",
+   "x": 5.780853,
+   "y": -6.2615743,
+   "z": 14.867925,
+   "CelebName": "Eva_Green"
+ },
+ {
+   "FIELD1": "data/wav_test/id10306/IANjHJYjfW8/00009.wav",
+   "x": 5.7796745,
+   "y": -6.261428,
+   "z": 14.872528,
+   "CelebName": "Eva_Green"
+ },
+ {
+   "FIELD1": "data/wav_test/id10306/IANjHJYjfW8/00012.wav",
+   "x": 5.6565375,
+   "y": -6.2434077,
+   "z": 14.997307,
+   "CelebName": "Eva_Green"
+ },
+ {
+   "FIELD1": "data/wav_test/id10306/IANjHJYjfW8/00003.wav",
+   "x": 5.734615,
+   "y": -6.1675572,
+   "z": 14.962514,
+   "CelebName": "Eva_Green"
+ },
+ {
+   "FIELD1": "data/wav_test/id10306/vZ56u00v6WA/00001.wav",
+   "x": 5.700861,
+   "y": -6.2357426,
+   "z": 14.95047,
+   "CelebName": "Eva_Green"
+ },
+ {
+   "FIELD1": "data/wav_test/id10306/2SaEbN8hYz4/00022.wav",
+   "x": 5.6898427,
+   "y": -6.140218,
+   "z": 14.977254,
+   "CelebName": "Eva_Green"
+ },
+ {
+   "FIELD1": "data/wav_test/id10306/2SaEbN8hYz4/00012.wav",
+   "x": 5.6720824,
+   "y": -6.1676064,
+   "z": 14.994103,
+   "CelebName": "Eva_Green"
+ },
+ {
+   "FIELD1": "data/wav_test/id10306/2SaEbN8hYz4/00007.wav",
+   "x": 5.6482935,
+   "y": -6.130073,
+   "z": 15.01659,
+   "CelebName": "Eva_Green"
+ },
+ {
+   "FIELD1": "data/wav_test/id10306/2SaEbN8hYz4/00005.wav",
+   "x": 5.631664,
+   "y": -6.114721,
+   "z": 15.032987,
+   "CelebName": "Eva_Green"
+ },
+ {
+   "FIELD1": "data/wav_test/id10306/2SaEbN8hYz4/00002.wav",
+   "x": 5.685659,
+   "y": -6.1665745,
+   "z": 14.991025,
+   "CelebName": "Eva_Green"
+ },
+ {
+   "FIELD1": "data/wav_test/id10301/BVFTRGHuk3M/00003.wav",
+   "x": 11.399973,
+   "y": 4.860683,
+   "z": 16.249647,
+   "CelebName": "Ernie_Hudson"
+ },
+ {
+   "FIELD1": "data/wav_test/id10301/AeRSD9jIdSg/00003.wav",
+   "x": 11.393536,
+   "y": 4.867603,
+   "z": 16.248144,
+   "CelebName": "Ernie_Hudson"
+ },
+ {
+   "FIELD1": "data/wav_test/id10308/sy19cFuDvX8/00002.wav",
+   "x": 21.41287,
+   "y": -1.6585333,
+   "z": 7.0121994,
+   "CelebName": "Evanna_Lynch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10308/rgpPBT4yQcg/00008.wav",
+   "x": 21.41117,
+   "y": -1.6613176,
+   "z": 7.0285387,
+   "CelebName": "Evanna_Lynch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10308/rgpPBT4yQcg/00004.wav",
+   "x": 21.41929,
+   "y": -1.6537386,
+   "z": 7.0161195,
+   "CelebName": "Evanna_Lynch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10308/rgpPBT4yQcg/00003.wav",
+   "x": 21.408703,
+   "y": -1.6444467,
+   "z": 6.999299,
+   "CelebName": "Evanna_Lynch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10308/XQWpVt5n3Ic/00001.wav",
+   "x": 21.401636,
+   "y": -1.6604358,
+   "z": 6.997117,
+   "CelebName": "Evanna_Lynch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10308/MxBuaaxNnlE/00004.wav",
+   "x": 21.369888,
+   "y": -1.6939557,
+   "z": 7.028283,
+   "CelebName": "Evanna_Lynch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10308/MxBuaaxNnlE/00001.wav",
+   "x": 21.400928,
+   "y": -1.6649506,
+   "z": 6.9984922,
+   "CelebName": "Evanna_Lynch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10308/MxBuaaxNnlE/00003.wav",
+   "x": 21.38399,
+   "y": -1.6818238,
+   "z": 6.9899125,
+   "CelebName": "Evanna_Lynch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10308/sGqnn4WpQCI/00002.wav",
+   "x": 21.411793,
+   "y": -1.6570721,
+   "z": 7.0077057,
+   "CelebName": "Evanna_Lynch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10291/EX6SP5_i96o/00002.wav",
+   "x": 0.8818271,
+   "y": -6.1488156,
+   "z": 6.5321083,
+   "CelebName": "Emily_Atack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10291/uiBjIKX_0l8/00004.wav",
+   "x": 0.93916756,
+   "y": -6.4426093,
+   "z": 6.454764,
+   "CelebName": "Emily_Atack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10291/uiBjIKX_0l8/00003.wav",
+   "x": 0.7975044,
+   "y": -6.36373,
+   "z": 6.6081386,
+   "CelebName": "Emily_Atack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10291/uiBjIKX_0l8/00002.wav",
+   "x": 0.797221,
+   "y": -6.1819,
+   "z": 6.6171384,
+   "CelebName": "Emily_Atack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10291/ibDSPLFJIu0/00001.wav",
+   "x": 0.81949323,
+   "y": -6.254456,
+   "z": 6.5978503,
+   "CelebName": "Emily_Atack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10291/ibDSPLFJIu0/00002.wav",
+   "x": 0.86098677,
+   "y": -6.1781907,
+   "z": 6.553013,
+   "CelebName": "Emily_Atack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10291/oa10caYOOzk/00004.wav",
+   "x": 1.220967,
+   "y": -6.4910355,
+   "z": 6.141738,
+   "CelebName": "Emily_Atack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10291/oa10caYOOzk/00001.wav",
+   "x": 1.1594386,
+   "y": -6.4077463,
+   "z": 6.2110457,
+   "CelebName": "Emily_Atack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10291/oLJhH76d0kU/00001.wav",
+   "x": 0.88723725,
+   "y": -6.2537,
+   "z": 6.525394,
+   "CelebName": "Emily_Atack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10291/iPZGPcrYIZs/00006.wav",
+   "x": 1.1742904,
+   "y": -6.443011,
+   "z": 6.1907344,
+   "CelebName": "Emily_Atack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10291/iPZGPcrYIZs/00005.wav",
+   "x": 1.1654302,
+   "y": -6.436289,
+   "z": 6.2005906,
+   "CelebName": "Emily_Atack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10291/iPZGPcrYIZs/00003.wav",
+   "x": 1.1341724,
+   "y": -6.4060817,
+   "z": 6.2399178,
+   "CelebName": "Emily_Atack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10291/iPZGPcrYIZs/00002.wav",
+   "x": 1.1519692,
+   "y": -6.415966,
+   "z": 6.2198997,
+   "CelebName": "Emily_Atack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10291/aQ6uxeakacs/00001.wav",
+   "x": 0.8463678,
+   "y": -6.2361045,
+   "z": 6.5710526,
+   "CelebName": "Emily_Atack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10291/aQ6uxeakacs/00002.wav",
+   "x": 0.8371298,
+   "y": -6.2005033,
+   "z": 6.575425,
+   "CelebName": "Emily_Atack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10291/98qWWArcL3Y/00004.wav",
+   "x": 1.052359,
+   "y": -6.3728304,
+   "z": 6.336808,
+   "CelebName": "Emily_Atack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10291/98qWWArcL3Y/00001.wav",
+   "x": 1.0290347,
+   "y": -6.1142035,
+   "z": 6.3864446,
+   "CelebName": "Emily_Atack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10291/4aLg_keiGHw/00009.wav",
+   "x": 0.77244675,
+   "y": -6.149863,
+   "z": 6.642408,
+   "CelebName": "Emily_Atack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10291/4aLg_keiGHw/00008.wav",
+   "x": 0.83355844,
+   "y": -6.191801,
+   "z": 6.5803604,
+   "CelebName": "Emily_Atack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10291/4aLg_keiGHw/00007.wav",
+   "x": 0.85859764,
+   "y": -6.2560744,
+   "z": 6.5531845,
+   "CelebName": "Emily_Atack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10291/4aLg_keiGHw/00001.wav",
+   "x": 0.82850474,
+   "y": -6.1621675,
+   "z": 6.586795,
+   "CelebName": "Emily_Atack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10291/kt4P4cyTpWQ/00008.wav",
+   "x": 0.98394424,
+   "y": -6.1962605,
+   "z": 6.4269166,
+   "CelebName": "Emily_Atack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10291/d2Lasybvo7s/00009.wav",
+   "x": 0.7986089,
+   "y": -6.1664724,
+   "z": 6.6167097,
+   "CelebName": "Emily_Atack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10291/d2Lasybvo7s/00008.wav",
+   "x": 0.8323607,
+   "y": -6.1954412,
+   "z": 6.5816803,
+   "CelebName": "Emily_Atack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10291/d2Lasybvo7s/00006.wav",
+   "x": 0.82667613,
+   "y": -6.2284946,
+   "z": 6.58612,
+   "CelebName": "Emily_Atack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10291/d2Lasybvo7s/00007.wav",
+   "x": 0.8605993,
+   "y": -6.170784,
+   "z": 6.5540843,
+   "CelebName": "Emily_Atack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10291/d2Lasybvo7s/00005.wav",
+   "x": 0.79764986,
+   "y": -6.1974006,
+   "z": 6.6172495,
+   "CelebName": "Emily_Atack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10291/d2Lasybvo7s/00004.wav",
+   "x": 0.89193267,
+   "y": -6.3457847,
+   "z": 6.51293,
+   "CelebName": "Emily_Atack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10291/d2Lasybvo7s/00003.wav",
+   "x": 0.8552955,
+   "y": -6.404953,
+   "z": 6.551989,
+   "CelebName": "Emily_Atack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10291/d2Lasybvo7s/00002.wav",
+   "x": 0.8065644,
+   "y": -6.191646,
+   "z": 6.6078057,
+   "CelebName": "Emily_Atack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10291/TMCTm7GxiDE/00007.wav",
+   "x": 1.1119041,
+   "y": -6.344674,
+   "z": 6.2869616,
+   "CelebName": "Emily_Atack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10291/TMCTm7GxiDE/00005.wav",
+   "x": 1.1199331,
+   "y": -6.284582,
+   "z": 6.2818036,
+   "CelebName": "Emily_Atack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10291/TMCTm7GxiDE/00004.wav",
+   "x": 1.0394828,
+   "y": -6.29337,
+   "z": 6.3656836,
+   "CelebName": "Emily_Atack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10291/TMCTm7GxiDE/00010.wav",
+   "x": 1.014562,
+   "y": -6.226733,
+   "z": 6.400636,
+   "CelebName": "Emily_Atack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10291/TMCTm7GxiDE/00001.wav",
+   "x": 1.032864,
+   "y": -6.1984997,
+   "z": 6.379489,
+   "CelebName": "Emily_Atack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10291/TMCTm7GxiDE/00003.wav",
+   "x": 1.0378109,
+   "y": -6.245342,
+   "z": 6.369854,
+   "CelebName": "Emily_Atack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10296/p1--IINtgGg/00004.wav",
+   "x": 5.90062,
+   "y": 4.792205,
+   "z": 17.093529,
+   "CelebName": "Eric_McCormack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10296/p1--IINtgGg/00001.wav",
+   "x": 5.887455,
+   "y": 4.8038874,
+   "z": 17.081778,
+   "CelebName": "Eric_McCormack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10296/p1--IINtgGg/00002.wav",
+   "x": 5.98147,
+   "y": 4.709561,
+   "z": 17.176321,
+   "CelebName": "Eric_McCormack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10296/iLMjiAp4rTo/00009.wav",
+   "x": 5.8645225,
+   "y": 4.8340797,
+   "z": 17.049358,
+   "CelebName": "Eric_McCormack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10296/iLMjiAp4rTo/00008.wav",
+   "x": 5.871032,
+   "y": 4.828135,
+   "z": 17.05522,
+   "CelebName": "Eric_McCormack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10296/iLMjiAp4rTo/00004.wav",
+   "x": 5.844141,
+   "y": 4.8569098,
+   "z": 17.025812,
+   "CelebName": "Eric_McCormack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10296/iLMjiAp4rTo/00003.wav",
+   "x": 5.853487,
+   "y": 4.844265,
+   "z": 17.03781,
+   "CelebName": "Eric_McCormack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10296/iLMjiAp4rTo/00002.wav",
+   "x": 5.8886685,
+   "y": 4.8112235,
+   "z": 17.072346,
+   "CelebName": "Eric_McCormack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10296/sr0JJ4UghCE/00001.wav",
+   "x": 5.9150496,
+   "y": 4.7765083,
+   "z": 17.108591,
+   "CelebName": "Eric_McCormack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10296/sr0JJ4UghCE/00002.wav",
+   "x": 5.9460344,
+   "y": 4.7449822,
+   "z": 17.1405,
+   "CelebName": "Eric_McCormack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10296/tlP585mCdl0/00004.wav",
+   "x": 5.7028604,
+   "y": 4.9844303,
+   "z": 16.895685,
+   "CelebName": "Eric_McCormack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10296/tlP585mCdl0/00010.wav",
+   "x": 5.7051067,
+   "y": 4.9841213,
+   "z": 16.896494,
+   "CelebName": "Eric_McCormack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10296/tlP585mCdl0/00001.wav",
+   "x": 5.734869,
+   "y": 4.957511,
+   "z": 16.923483,
+   "CelebName": "Eric_McCormack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10296/tlP585mCdl0/00003.wav",
+   "x": 5.7007,
+   "y": 4.9881153,
+   "z": 16.891935,
+   "CelebName": "Eric_McCormack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10296/tlP585mCdl0/00002.wav",
+   "x": 5.7522764,
+   "y": 4.9362936,
+   "z": 16.944208,
+   "CelebName": "Eric_McCormack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10296/SKwsA_nq1P8/00009.wav",
+   "x": 5.706889,
+   "y": 4.982112,
+   "z": 16.898478,
+   "CelebName": "Eric_McCormack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10296/SKwsA_nq1P8/00008.wav",
+   "x": 5.675969,
+   "y": 5.0127087,
+   "z": 16.867731,
+   "CelebName": "Eric_McCormack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10296/SKwsA_nq1P8/00004.wav",
+   "x": 5.713392,
+   "y": 4.9837174,
+   "z": 16.89538,
+   "CelebName": "Eric_McCormack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10296/SKwsA_nq1P8/00010.wav",
+   "x": 5.6824546,
+   "y": 5.0044923,
+   "z": 16.875818,
+   "CelebName": "Eric_McCormack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10296/SKwsA_nq1P8/00002.wav",
+   "x": 5.698399,
+   "y": 4.9908996,
+   "z": 16.889746,
+   "CelebName": "Eric_McCormack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10296/Y-qKARMSO7k/00003.wav",
+   "x": 5.938965,
+   "y": 4.752551,
+   "z": 17.132738,
+   "CelebName": "Eric_McCormack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10296/Y-qKARMSO7k/00002.wav",
+   "x": 5.9196153,
+   "y": 4.772014,
+   "z": 17.11328,
+   "CelebName": "Eric_McCormack"
+ },
+ {
+   "FIELD1": "data/wav_test/id10298/U_1vfIVOigA/00009.wav",
+   "x": 2.176683,
+   "y": -0.9396418,
+   "z": -0.012404533,
+   "CelebName": "Erik_Estrada"
+ },
+ {
+   "FIELD1": "data/wav_test/id10298/U_1vfIVOigA/00012.wav",
+   "x": 2.0911655,
+   "y": -0.92772865,
+   "z": 0.04334816,
+   "CelebName": "Erik_Estrada"
+ },
+ {
+   "FIELD1": "data/wav_test/id10298/SCYPNx1H2pM/00002.wav",
+   "x": 2.0171707,
+   "y": -0.9670341,
+   "z": 0.06683299,
+   "CelebName": "Erik_Estrada"
+ },
+ {
+   "FIELD1": "data/wav_test/id10298/Cjt5DP6qc5Q/00006.wav",
+   "x": 1.9767966,
+   "y": -1.0042115,
+   "z": 0.11187287,
+   "CelebName": "Erik_Estrada"
+ },
+ {
+   "FIELD1": "data/wav_test/id10298/Cjt5DP6qc5Q/00007.wav",
+   "x": 1.9122543,
+   "y": -1.0502496,
+   "z": 0.14045973,
+   "CelebName": "Erik_Estrada"
+ },
+ {
+   "FIELD1": "data/wav_test/id10298/Cjt5DP6qc5Q/00004.wav",
+   "x": 1.9779727,
+   "y": -0.941583,
+   "z": 0.117355645,
+   "CelebName": "Erik_Estrada"
+ },
+ {
+   "FIELD1": "data/wav_test/id10298/Cjt5DP6qc5Q/00001.wav",
+   "x": 1.9480324,
+   "y": -0.96356434,
+   "z": 0.0909637,
+   "CelebName": "Erik_Estrada"
+ },
+ {
+   "FIELD1": "data/wav_test/id10298/qrJ0fQJP5gs/00001.wav",
+   "x": 1.9489194,
+   "y": -1.0904914,
+   "z": 0.0795777,
+   "CelebName": "Erik_Estrada"
+ },
+ {
+   "FIELD1": "data/wav_test/id10298/qrJ0fQJP5gs/00002.wav",
+   "x": 1.9803014,
+   "y": -1.103632,
+   "z": 0.085829504,
+   "CelebName": "Erik_Estrada"
+ },
+ {
+   "FIELD1": "data/wav_test/id10298/VHtcwtdPjpE/00001.wav",
+   "x": 1.9690104,
+   "y": -0.9980129,
+   "z": 0.12598732,
+   "CelebName": "Erik_Estrada"
+ },
+ {
+   "FIELD1": "data/wav_test/id10298/VHtcwtdPjpE/00002.wav",
+   "x": 1.9212567,
+   "y": -0.9752496,
+   "z": 0.15531531,
+   "CelebName": "Erik_Estrada"
+ },
+ {
+   "FIELD1": "data/wav_test/id10298/DWT9P35cXT4/00009.wav",
+   "x": 2.0595572,
+   "y": -0.8833425,
+   "z": 0.076874234,
+   "CelebName": "Erik_Estrada"
+ },
+ {
+   "FIELD1": "data/wav_test/id10298/DWT9P35cXT4/00007.wav",
+   "x": 2.108679,
+   "y": -0.9190516,
+   "z": 0.02247583,
+   "CelebName": "Erik_Estrada"
+ },
+ {
+   "FIELD1": "data/wav_test/id10298/DWT9P35cXT4/00005.wav",
+   "x": 2.044976,
+   "y": -0.8547113,
+   "z": 0.08418859,
+   "CelebName": "Erik_Estrada"
+ },
+ {
+   "FIELD1": "data/wav_test/id10298/DWT9P35cXT4/00001.wav",
+   "x": 2.0622616,
+   "y": -0.9405655,
+   "z": 0.05621132,
+   "CelebName": "Erik_Estrada"
+ },
+ {
+   "FIELD1": "data/wav_test/id10298/8v0-r8HKI_0/00002.wav",
+   "x": 2.187273,
+   "y": -1.0152771,
+   "z": -0.055870637,
+   "CelebName": "Erik_Estrada"
+ },
+ {
+   "FIELD1": "data/wav_test/id10298/a0S-epXYJME/00005.wav",
+   "x": 1.9480335,
+   "y": -1.017382,
+   "z": 0.14186879,
+   "CelebName": "Erik_Estrada"
+ },
+ {
+   "FIELD1": "data/wav_test/id10298/a0S-epXYJME/00003.wav",
+   "x": 2.0226362,
+   "y": -0.96274024,
+   "z": 0.09008229,
+   "CelebName": "Erik_Estrada"
+ },
+ {
+   "FIELD1": "data/wav_test/id10298/hjvQiiG71rM/00033.wav",
+   "x": 2.094256,
+   "y": -1.026794,
+   "z": 0.02843013,
+   "CelebName": "Erik_Estrada"
+ },
+ {
+   "FIELD1": "data/wav_test/id10298/hjvQiiG71rM/00032.wav",
+   "x": 2.2090046,
+   "y": -0.9091209,
+   "z": -0.044479933,
+   "CelebName": "Erik_Estrada"
+ },
+ {
+   "FIELD1": "data/wav_test/id10298/hjvQiiG71rM/00026.wav",
+   "x": 2.2132916,
+   "y": -1.022355,
+   "z": -0.08409997,
+   "CelebName": "Erik_Estrada"
+ },
+ {
+   "FIELD1": "data/wav_test/id10298/hjvQiiG71rM/00019.wav",
+   "x": 2.1167212,
+   "y": -1.0169864,
+   "z": 0.007063257,
+   "CelebName": "Erik_Estrada"
+ },
+ {
+   "FIELD1": "data/wav_test/id10298/hjvQiiG71rM/00009.wav",
+   "x": 2.1617587,
+   "y": -1.0043879,
+   "z": -0.03565715,
+   "CelebName": "Erik_Estrada"
+ },
+ {
+   "FIELD1": "data/wav_test/id10298/hjvQiiG71rM/00020.wav",
+   "x": 2.1488996,
+   "y": -0.98392075,
+   "z": -0.01813761,
+   "CelebName": "Erik_Estrada"
+ },
+ {
+   "FIELD1": "data/wav_test/id10298/hjvQiiG71rM/00037.wav",
+   "x": 2.2177143,
+   "y": -0.9778757,
+   "z": -0.076643065,
+   "CelebName": "Erik_Estrada"
+ },
+ {
+   "FIELD1": "data/wav_test/id10298/hjvQiiG71rM/00006.wav",
+   "x": 2.1724987,
+   "y": -0.99551463,
+   "z": -0.035858855,
+   "CelebName": "Erik_Estrada"
+ },
+ {
+   "FIELD1": "data/wav_test/id10298/hjvQiiG71rM/00005.wav",
+   "x": 2.1584828,
+   "y": -1.0079129,
+   "z": -0.04159794,
+   "CelebName": "Erik_Estrada"
+ },
+ {
+   "FIELD1": "data/wav_test/id10298/hjvQiiG71rM/00004.wav",
+   "x": 2.1720333,
+   "y": -0.9532317,
+   "z": -0.037033394,
+   "CelebName": "Erik_Estrada"
+ },
+ {
+   "FIELD1": "data/wav_test/id10298/6qFnVechX9o/00024.wav",
+   "x": 1.9302195,
+   "y": -1.1266145,
+   "z": 0.21757805,
+   "CelebName": "Erik_Estrada"
+ },
+ {
+   "FIELD1": "data/wav_test/id10298/6qFnVechX9o/00020.wav",
+   "x": 1.9008172,
+   "y": -1.1382315,
+   "z": 0.237851,
+   "CelebName": "Erik_Estrada"
+ },
+ {
+   "FIELD1": "data/wav_test/id10298/6qFnVechX9o/00015.wav",
+   "x": 1.9713757,
+   "y": -1.0668375,
+   "z": 0.15193199,
+   "CelebName": "Erik_Estrada"
+ },
+ {
+   "FIELD1": "data/wav_test/id10298/6qFnVechX9o/00016.wav",
+   "x": 1.9067802,
+   "y": -1.127782,
+   "z": 0.22370292,
+   "CelebName": "Erik_Estrada"
+ },
+ {
+   "FIELD1": "data/wav_test/id10299/fUs5d-C3k5E/00002.wav",
+   "x": -1.6612328,
+   "y": 6.463461,
+   "z": -8.014241,
+   "CelebName": "Erin_Andrews"
+ },
+ {
+   "FIELD1": "data/wav_test/id10299/uaPd2Ix-wSI/00008.wav",
+   "x": -1.6136626,
+   "y": 6.5110154,
+   "z": -7.966703,
+   "CelebName": "Erin_Andrews"
+ },
+ {
+   "FIELD1": "data/wav_test/id10299/uaPd2Ix-wSI/00011.wav",
+   "x": -1.6552123,
+   "y": 6.468223,
+   "z": -8.008859,
+   "CelebName": "Erin_Andrews"
+ },
+ {
+   "FIELD1": "data/wav_test/id10299/uaPd2Ix-wSI/00004.wav",
+   "x": -1.6251415,
+   "y": 6.4995594,
+   "z": -7.9781876,
+   "CelebName": "Erin_Andrews"
+ },
+ {
+   "FIELD1": "data/wav_test/id10299/SX-117N_MoI/00006.wav",
+   "x": -1.5908704,
+   "y": 6.533849,
+   "z": -7.9439,
+   "CelebName": "Erin_Andrews"
+ },
+ {
+   "FIELD1": "data/wav_test/id10299/SX-117N_MoI/00005.wav",
+   "x": -1.6768692,
+   "y": 6.447853,
+   "z": -8.029877,
+   "CelebName": "Erin_Andrews"
+ },
+ {
+   "FIELD1": "data/wav_test/id10299/SX-117N_MoI/00004.wav",
+   "x": -1.6272722,
+   "y": 6.4974504,
+   "z": -7.980292,
+   "CelebName": "Erin_Andrews"
+ },
+ {
+   "FIELD1": "data/wav_test/id10299/SX-117N_MoI/00001.wav",
+   "x": -1.6618857,
+   "y": 6.4628253,
+   "z": -8.014916,
+   "CelebName": "Erin_Andrews"
+ },
+ {
+   "FIELD1": "data/wav_test/id10299/SX-117N_MoI/00003.wav",
+   "x": -1.6560744,
+   "y": 6.468643,
+   "z": -8.009082,
+   "CelebName": "Erin_Andrews"
+ },
+ {
+   "FIELD1": "data/wav_test/id10299/SX-117N_MoI/00002.wav",
+   "x": -1.6117454,
+   "y": 6.5129695,
+   "z": -7.9647818,
+   "CelebName": "Erin_Andrews"
+ },
+ {
+   "FIELD1": "data/wav_test/id10299/x3QoGpHxThw/00005.wav",
+   "x": -1.6307511,
+   "y": 6.493975,
+   "z": -7.9837694,
+   "CelebName": "Erin_Andrews"
+ },
+ {
+   "FIELD1": "data/wav_test/id10299/x3QoGpHxThw/00001.wav",
+   "x": -1.6036232,
+   "y": 6.5210404,
+   "z": -7.9567027,
+   "CelebName": "Erin_Andrews"
+ },
+ {
+   "FIELD1": "data/wav_test/id10299/x3QoGpHxThw/00003.wav",
+   "x": -1.5952234,
+   "y": 6.529475,
+   "z": -7.9482646,
+   "CelebName": "Erin_Andrews"
+ },
+ {
+   "FIELD1": "data/wav_test/id10299/it0-Z6L2128/00002.wav",
+   "x": -1.590083,
+   "y": 6.534609,
+   "z": -7.943088,
+   "CelebName": "Erin_Andrews"
+ },
+ {
+   "FIELD1": "data/wav_test/id10299/IwB3vu418E4/00008.wav",
+   "x": -1.5833596,
+   "y": 6.541309,
+   "z": -7.9363804,
+   "CelebName": "Erin_Andrews"
+ },
+ {
+   "FIELD1": "data/wav_test/id10299/IwB3vu418E4/00001.wav",
+   "x": -1.5979521,
+   "y": 6.526712,
+   "z": -7.950966,
+   "CelebName": "Erin_Andrews"
+ },
+ {
+   "FIELD1": "data/wav_test/id10299/752GDDvGPCA/00001.wav",
+   "x": -1.6724132,
+   "y": 6.452264,
+   "z": -8.025429,
+   "CelebName": "Erin_Andrews"
+ },
+ {
+   "FIELD1": "data/wav_test/id10299/HcyUmRYz-aE/00004.wav",
+   "x": -1.6621982,
+   "y": 6.4625025,
+   "z": -8.0152235,
+   "CelebName": "Erin_Andrews"
+ },
+ {
+   "FIELD1": "data/wav_test/id10297/6pjKcuVoHLM/00006.wav",
+   "x": 12.155368,
+   "y": 9.109813,
+   "z": 15.251718,
+   "CelebName": "Eric_Roberts"
+ },
+ {
+   "FIELD1": "data/wav_test/id10297/6pjKcuVoHLM/00011.wav",
+   "x": 12.156031,
+   "y": 9.105762,
+   "z": 15.243765,
+   "CelebName": "Eric_Roberts"
+ },
+ {
+   "FIELD1": "data/wav_test/id10297/6pjKcuVoHLM/00004.wav",
+   "x": 12.0743475,
+   "y": 9.030223,
+   "z": 15.169066,
+   "CelebName": "Eric_Roberts"
+ },
+ {
+   "FIELD1": "data/wav_test/id10297/6pjKcuVoHLM/00003.wav",
+   "x": 12.140378,
+   "y": 9.091933,
+   "z": 15.2363205,
+   "CelebName": "Eric_Roberts"
+ },
+ {
+   "FIELD1": "data/wav_test/id10297/o1EKUvjvNHY/00008.wav",
+   "x": 12.151573,
+   "y": 9.099877,
+   "z": 15.249033,
+   "CelebName": "Eric_Roberts"
+ },
+ {
+   "FIELD1": "data/wav_test/id10297/31XtFWtF7Sc/00009.wav",
+   "x": 12.125292,
+   "y": 9.071867,
+   "z": 15.232008,
+   "CelebName": "Eric_Roberts"
+ },
+ {
+   "FIELD1": "data/wav_test/id10297/31XtFWtF7Sc/00011.wav",
+   "x": 12.112816,
+   "y": 9.060439,
+   "z": 15.211738,
+   "CelebName": "Eric_Roberts"
+ },
+ {
+   "FIELD1": "data/wav_test/id10297/utAY0zpsv1U/00005.wav",
+   "x": 12.253336,
+   "y": 9.191486,
+   "z": 15.355708,
+   "CelebName": "Eric_Roberts"
+ },
+ {
+   "FIELD1": "data/wav_test/id10297/utAY0zpsv1U/00003.wav",
+   "x": 12.232092,
+   "y": 9.169441,
+   "z": 15.33262,
+   "CelebName": "Eric_Roberts"
+ },
+ {
+   "FIELD1": "data/wav_test/id10297/utAY0zpsv1U/00002.wav",
+   "x": 12.23081,
+   "y": 9.167492,
+   "z": 15.331746,
+   "CelebName": "Eric_Roberts"
+ },
+ {
+   "FIELD1": "data/wav_test/id10297/HAinRPec5xI/00001.wav",
+   "x": 12.206613,
+   "y": 9.150781,
+   "z": 15.304631,
+   "CelebName": "Eric_Roberts"
+ },
+ {
+   "FIELD1": "data/wav_test/id10297/FvbLoirHpx0/00003.wav",
+   "x": 12.058368,
+   "y": 9.007167,
+   "z": 15.155939,
+   "CelebName": "Eric_Roberts"
+ },
+ {
+   "FIELD1": "data/wav_test/id10297/uxHwuJ59xNk/00002.wav",
+   "x": 12.1268835,
+   "y": 9.076783,
+   "z": 15.22454,
+   "CelebName": "Eric_Roberts"
+ },
+ {
+   "FIELD1": "data/wav_test/id10297/HXlH44r0jYc/00001.wav",
+   "x": 12.155191,
+   "y": 9.1063,
+   "z": 15.264372,
+   "CelebName": "Eric_Roberts"
+ },
+ {
+   "FIELD1": "data/wav_test/id10297/0mtJFC7OJv4/00004.wav",
+   "x": 12.153453,
+   "y": 9.109719,
+   "z": 15.241866,
+   "CelebName": "Eric_Roberts"
+ },
+ {
+   "FIELD1": "data/wav_test/id10297/0mtJFC7OJv4/00003.wav",
+   "x": 12.16731,
+   "y": 9.112051,
+   "z": 15.266748,
+   "CelebName": "Eric_Roberts"
+ },
+ {
+   "FIELD1": "data/wav_test/id10297/6-VE8e8RtZE/00001.wav",
+   "x": 12.2221365,
+   "y": 9.142992,
+   "z": 15.322034,
+   "CelebName": "Eric_Roberts"
+ },
+ {
+   "FIELD1": "data/wav_test/id10297/6-VE8e8RtZE/00003.wav",
+   "x": 12.179254,
+   "y": 9.12047,
+   "z": 15.279305,
+   "CelebName": "Eric_Roberts"
+ },
+ {
+   "FIELD1": "data/wav_test/id10297/kWOMY99knWI/00005.wav",
+   "x": 12.084427,
+   "y": 9.032751,
+   "z": 15.180068,
+   "CelebName": "Eric_Roberts"
+ },
+ {
+   "FIELD1": "data/wav_test/id10297/kWOMY99knWI/00002.wav",
+   "x": 12.05688,
+   "y": 9.005714,
+   "z": 15.152563,
+   "CelebName": "Eric_Roberts"
+ },
+ {
+   "FIELD1": "data/wav_test/id10290/VYk_DxNl_T8/00001.wav",
+   "x": 15.326144,
+   "y": 1.9341841,
+   "z": 11.002547,
+   "CelebName": "Emile_Hirsch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10290/O-V_sInAw5M/00006.wav",
+   "x": 15.516424,
+   "y": 1.8676696,
+   "z": 10.813284,
+   "CelebName": "Emile_Hirsch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10290/O-V_sInAw5M/00007.wav",
+   "x": 15.389794,
+   "y": 1.8536123,
+   "z": 10.841829,
+   "CelebName": "Emile_Hirsch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10290/dDnqp9503Mg/00006.wav",
+   "x": 15.481858,
+   "y": 2.066684,
+   "z": 11.002733,
+   "CelebName": "Emile_Hirsch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10290/dDnqp9503Mg/00011.wav",
+   "x": 15.382962,
+   "y": 1.9989489,
+   "z": 11.005764,
+   "CelebName": "Emile_Hirsch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10290/dDnqp9503Mg/00005.wav",
+   "x": 15.423643,
+   "y": 2.058357,
+   "z": 11.069665,
+   "CelebName": "Emile_Hirsch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10290/dDnqp9503Mg/00010.wav",
+   "x": 15.355116,
+   "y": 1.9988678,
+   "z": 11.039565,
+   "CelebName": "Emile_Hirsch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10290/dDnqp9503Mg/00015.wav",
+   "x": 15.390681,
+   "y": 2.0252442,
+   "z": 11.07682,
+   "CelebName": "Emile_Hirsch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10290/dDnqp9503Mg/00003.wav",
+   "x": 15.367663,
+   "y": 1.9989953,
+   "z": 11.015809,
+   "CelebName": "Emile_Hirsch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10290/kKQpvHl21Cg/00005.wav",
+   "x": 15.361429,
+   "y": 1.725426,
+   "z": 10.720454,
+   "CelebName": "Emile_Hirsch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10290/kKQpvHl21Cg/00001.wav",
+   "x": 15.323978,
+   "y": 1.774784,
+   "z": 10.765238,
+   "CelebName": "Emile_Hirsch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10290/KacOkTDTi-g/00001.wav",
+   "x": 15.448274,
+   "y": 1.7252688,
+   "z": 10.693248,
+   "CelebName": "Emile_Hirsch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10290/KacOkTDTi-g/00002.wav",
+   "x": 15.567575,
+   "y": 1.9741029,
+   "z": 10.904193,
+   "CelebName": "Emile_Hirsch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10290/HYiqXC0B3iY/00026.wav",
+   "x": 15.495547,
+   "y": 1.7164952,
+   "z": 10.686355,
+   "CelebName": "Emile_Hirsch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10290/HYiqXC0B3iY/00030.wav",
+   "x": 15.447461,
+   "y": 1.6769371,
+   "z": 10.653005,
+   "CelebName": "Emile_Hirsch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10290/HYiqXC0B3iY/00019.wav",
+   "x": 15.446042,
+   "y": 1.648875,
+   "z": 10.6254225,
+   "CelebName": "Emile_Hirsch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10290/HYiqXC0B3iY/00020.wav",
+   "x": 15.429922,
+   "y": 1.6439116,
+   "z": 10.6156435,
+   "CelebName": "Emile_Hirsch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10290/HYiqXC0B3iY/00006.wav",
+   "x": 15.413533,
+   "y": 1.6479795,
+   "z": 10.627747,
+   "CelebName": "Emile_Hirsch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10290/HYiqXC0B3iY/00012.wav",
+   "x": 15.450889,
+   "y": 1.689161,
+   "z": 10.666784,
+   "CelebName": "Emile_Hirsch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10290/HYiqXC0B3iY/00014.wav",
+   "x": 15.438707,
+   "y": 1.6694012,
+   "z": 10.647332,
+   "CelebName": "Emile_Hirsch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10290/HYiqXC0B3iY/00015.wav",
+   "x": 15.447705,
+   "y": 1.6763381,
+   "z": 10.651507,
+   "CelebName": "Emile_Hirsch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10290/0bA1AJCGEOo/00003.wav",
+   "x": 15.502538,
+   "y": 1.7888764,
+   "z": 10.751172,
+   "CelebName": "Emile_Hirsch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10290/cIi74VD0LF0/00009.wav",
+   "x": 15.256438,
+   "y": 1.955239,
+   "z": 10.967109,
+   "CelebName": "Emile_Hirsch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10290/cIi74VD0LF0/00004.wav",
+   "x": 15.19381,
+   "y": 1.8591578,
+   "z": 10.907984,
+   "CelebName": "Emile_Hirsch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10290/cIi74VD0LF0/00001.wav",
+   "x": 15.2083845,
+   "y": 1.9704099,
+   "z": 10.994577,
+   "CelebName": "Emile_Hirsch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10290/FAOLWl96MY0/00005.wav",
+   "x": 15.355131,
+   "y": 1.8678449,
+   "z": 10.846524,
+   "CelebName": "Emile_Hirsch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10290/FAOLWl96MY0/00004.wav",
+   "x": 15.327464,
+   "y": 1.9064491,
+   "z": 10.893628,
+   "CelebName": "Emile_Hirsch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10290/FAOLWl96MY0/00001.wav",
+   "x": 15.325818,
+   "y": 1.918323,
+   "z": 10.913601,
+   "CelebName": "Emile_Hirsch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10290/T1y64qFjv3M/00003.wav",
+   "x": 15.592364,
+   "y": 2.0389857,
+   "z": 10.930137,
+   "CelebName": "Emile_Hirsch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10290/A3QwQ3D35rc/00008.wav",
+   "x": 15.588355,
+   "y": 2.0690677,
+   "z": 10.993972,
+   "CelebName": "Emile_Hirsch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10290/A3QwQ3D35rc/00012.wav",
+   "x": 15.464977,
+   "y": 2.0205185,
+   "z": 11.026864,
+   "CelebName": "Emile_Hirsch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10290/A3QwQ3D35rc/00004.wav",
+   "x": 15.501704,
+   "y": 2.0370364,
+   "z": 11.03004,
+   "CelebName": "Emile_Hirsch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10290/A3QwQ3D35rc/00010.wav",
+   "x": 15.5476265,
+   "y": 2.059832,
+   "z": 11.006163,
+   "CelebName": "Emile_Hirsch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10290/A3QwQ3D35rc/00001.wav",
+   "x": 15.549826,
+   "y": 2.1064138,
+   "z": 11.010866,
+   "CelebName": "Emile_Hirsch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10290/gTbcgoYXWdU/00004.wav",
+   "x": 15.305588,
+   "y": 1.9735587,
+   "z": 10.967092,
+   "CelebName": "Emile_Hirsch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10290/gTbcgoYXWdU/00002.wav",
+   "x": 15.2305355,
+   "y": 1.9239295,
+   "z": 10.946603,
+   "CelebName": "Emile_Hirsch"
+ },
+ {
+   "FIELD1": "data/wav_test/id10279/IvOQNamNtF4/00004.wav",
+   "x": 12.072037,
+   "y": 3.094053,
+   "z": 14.562722,
+   "CelebName": "Efren_Ramirez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10279/IvOQNamNtF4/00001.wav",
+   "x": 12.065873,
+   "y": 3.1016421,
+   "z": 14.568304,
+   "CelebName": "Efren_Ramirez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10279/DTbpchx4xes/00008.wav",
+   "x": 11.979789,
+   "y": 3.1870496,
+   "z": 14.652639,
+   "CelebName": "Efren_Ramirez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10279/DTbpchx4xes/00003.wav",
+   "x": 12.016765,
+   "y": 3.1499832,
+   "z": 14.617527,
+   "CelebName": "Efren_Ramirez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10279/nTPJ6asPSV0/00005.wav",
+   "x": 12.030802,
+   "y": 3.1369154,
+   "z": 14.602807,
+   "CelebName": "Efren_Ramirez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10279/PQHz4fGHPK8/00007.wav",
+   "x": 12.015682,
+   "y": 3.1538455,
+   "z": 14.6212435,
+   "CelebName": "Efren_Ramirez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10279/PQHz4fGHPK8/00005.wav",
+   "x": 12.056895,
+   "y": 3.1140692,
+   "z": 14.581369,
+   "CelebName": "Efren_Ramirez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10279/PQHz4fGHPK8/00001.wav",
+   "x": 12.01505,
+   "y": 3.1526537,
+   "z": 14.62063,
+   "CelebName": "Efren_Ramirez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10279/PQHz4fGHPK8/00003.wav",
+   "x": 12.052047,
+   "y": 3.1165366,
+   "z": 14.583249,
+   "CelebName": "Efren_Ramirez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10279/4Q1IvdayPR8/00009.wav",
+   "x": 11.9783325,
+   "y": 3.1895711,
+   "z": 14.655666,
+   "CelebName": "Efren_Ramirez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10279/4Q1IvdayPR8/00008.wav",
+   "x": 12.009373,
+   "y": 3.1566544,
+   "z": 14.625272,
+   "CelebName": "Efren_Ramirez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10279/4Q1IvdayPR8/00003.wav",
+   "x": 12.01069,
+   "y": 3.1557279,
+   "z": 14.623441,
+   "CelebName": "Efren_Ramirez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10277/znxUWA2QAGs/00009.wav",
+   "x": 11.835956,
+   "y": 7.4520297,
+   "z": 9.544777,
+   "CelebName": "Eduardo_Noriega"
+ },
+ {
+   "FIELD1": "data/wav_test/id10277/znxUWA2QAGs/00008.wav",
+   "x": 11.838246,
+   "y": 7.457798,
+   "z": 9.56664,
+   "CelebName": "Eduardo_Noriega"
+ },
+ {
+   "FIELD1": "data/wav_test/id10277/znxUWA2QAGs/00005.wav",
+   "x": 11.854421,
+   "y": 7.461797,
+   "z": 9.573203,
+   "CelebName": "Eduardo_Noriega"
+ },
+ {
+   "FIELD1": "data/wav_test/id10277/SeXsHJ3fW1c/00007.wav",
+   "x": 11.83391,
+   "y": 7.4425197,
+   "z": 9.582913,
+   "CelebName": "Eduardo_Noriega"
+ },
+ {
+   "FIELD1": "data/wav_test/id10277/UIbPolhxLDI/00003.wav",
+   "x": 11.843166,
+   "y": 7.459253,
+   "z": 9.552792,
+   "CelebName": "Eduardo_Noriega"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/arklnCzCq48/00001.wav",
+   "x": 6.0306754,
+   "y": 8.851851,
+   "z": 5.692391,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/arklnCzCq48/00003.wav",
+   "x": 6.163526,
+   "y": 8.841688,
+   "z": 5.6584244,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/j5ArtKwbobY/00009.wav",
+   "x": 5.53476,
+   "y": 7.8699017,
+   "z": 5.9411807,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/j5ArtKwbobY/00008.wav",
+   "x": 5.5577626,
+   "y": 7.8797164,
+   "z": 5.963286,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/j5ArtKwbobY/00006.wav",
+   "x": 5.6218123,
+   "y": 7.9536843,
+   "z": 6.017771,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/j5ArtKwbobY/00012.wav",
+   "x": 5.5587378,
+   "y": 7.846471,
+   "z": 6.012342,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/j5ArtKwbobY/00007.wav",
+   "x": 5.505285,
+   "y": 7.7998376,
+   "z": 5.912396,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/j5ArtKwbobY/00005.wav",
+   "x": 5.5969224,
+   "y": 7.8905034,
+   "z": 5.9720554,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/j5ArtKwbobY/00014.wav",
+   "x": 5.5676093,
+   "y": 7.866764,
+   "z": 6.0153522,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/j5ArtKwbobY/00001.wav",
+   "x": 5.601389,
+   "y": 7.910486,
+   "z": 5.9937263,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/j5ArtKwbobY/00003.wav",
+   "x": 5.5996513,
+   "y": 7.9389415,
+   "z": 5.8850493,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/j5ArtKwbobY/00002.wav",
+   "x": 5.6226287,
+   "y": 7.912233,
+   "z": 6.0293603,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/vaK4t1-WD4M/00024.wav",
+   "x": 16.597069,
+   "y": 14.626033,
+   "z": 4.8406777,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/vaK4t1-WD4M/00025.wav",
+   "x": 16.543743,
+   "y": 14.572752,
+   "z": 4.7873135,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/vaK4t1-WD4M/00009.wav",
+   "x": 16.512798,
+   "y": 14.541171,
+   "z": 4.7542534,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/vaK4t1-WD4M/00020.wav",
+   "x": 16.530483,
+   "y": 14.558584,
+   "z": 4.771584,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/vaK4t1-WD4M/00022.wav",
+   "x": 16.604654,
+   "y": 14.632994,
+   "z": 4.846126,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/vaK4t1-WD4M/00037.wav",
+   "x": 16.619406,
+   "y": 14.647733,
+   "z": 4.860843,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/vaK4t1-WD4M/00023.wav",
+   "x": 16.59525,
+   "y": 14.623636,
+   "z": 4.836765,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/vaK4t1-WD4M/00047.wav",
+   "x": 16.60881,
+   "y": 14.637476,
+   "z": 4.8509493,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/vaK4t1-WD4M/00046.wav",
+   "x": 16.567896,
+   "y": 14.596593,
+   "z": 4.809429,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/vaK4t1-WD4M/00042.wav",
+   "x": 16.520977,
+   "y": 14.549519,
+   "z": 4.7628427,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/vaK4t1-WD4M/00040.wav",
+   "x": 16.5441,
+   "y": 14.573941,
+   "z": 4.789297,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/vaK4t1-WD4M/00006.wav",
+   "x": 16.55428,
+   "y": 14.5828,
+   "z": 4.795865,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/vaK4t1-WD4M/00011.wav",
+   "x": 16.624289,
+   "y": 14.652665,
+   "z": 4.8658533,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/vaK4t1-WD4M/00029.wav",
+   "x": 16.611143,
+   "y": 14.639596,
+   "z": 4.8526425,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/vaK4t1-WD4M/00017.wav",
+   "x": 16.562527,
+   "y": 14.590897,
+   "z": 4.8040905,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/vaK4t1-WD4M/00016.wav",
+   "x": 16.60628,
+   "y": 14.634665,
+   "z": 4.847966,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/N69Hp2DGMLk/00007.wav",
+   "x": 5.728291,
+   "y": 8.967905,
+   "z": 5.7740345,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/N69Hp2DGMLk/00005.wav",
+   "x": 5.771159,
+   "y": 8.910562,
+   "z": 5.799829,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/N69Hp2DGMLk/00004.wav",
+   "x": 5.7279997,
+   "y": 8.991846,
+   "z": 5.7562475,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/N69Hp2DGMLk/00003.wav",
+   "x": 5.817372,
+   "y": 8.846374,
+   "z": 5.7902656,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/cmG1DiHm-fM/00006.wav",
+   "x": 5.699756,
+   "y": 8.594713,
+   "z": 5.764243,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/cmG1DiHm-fM/00004.wav",
+   "x": 5.6642327,
+   "y": 8.534521,
+   "z": 5.7389727,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/eC9ZIOvohds/00001.wav",
+   "x": 5.8070154,
+   "y": 8.248466,
+   "z": 6.0349784,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/eC9ZIOvohds/00002.wav",
+   "x": 5.9243608,
+   "y": 8.717372,
+   "z": 6.0313377,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/GcHWzqveqyc/00006.wav",
+   "x": 5.7803717,
+   "y": 8.212636,
+   "z": 5.990734,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/GcHWzqveqyc/00005.wav",
+   "x": 5.769908,
+   "y": 8.223945,
+   "z": 5.986673,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/GcHWzqveqyc/00004.wav",
+   "x": 5.7297664,
+   "y": 8.152247,
+   "z": 5.9669313,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/GcHWzqveqyc/00002.wav",
+   "x": 5.761244,
+   "y": 8.241994,
+   "z": 5.9606967,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/gAKHqHbNt2g/00019.wav",
+   "x": 5.4722915,
+   "y": 7.724134,
+   "z": 5.496577,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/gAKHqHbNt2g/00021.wav",
+   "x": 5.4156485,
+   "y": 7.6486025,
+   "z": 5.4503984,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/gAKHqHbNt2g/00008.wav",
+   "x": 5.4652534,
+   "y": 7.7456474,
+   "z": 5.518527,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/gAKHqHbNt2g/00006.wav",
+   "x": 5.4942927,
+   "y": 7.7463236,
+   "z": 5.530252,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/gAKHqHbNt2g/00012.wav",
+   "x": 5.454706,
+   "y": 7.691029,
+   "z": 5.501376,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/gAKHqHbNt2g/00007.wav",
+   "x": 5.4474397,
+   "y": 7.7049394,
+   "z": 5.4941583,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/gAKHqHbNt2g/00002.wav",
+   "x": 5.438388,
+   "y": 7.677946,
+   "z": 5.493282,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/u3s9xdUlmmk/00008.wav",
+   "x": 6.2400317,
+   "y": 9.223865,
+   "z": 6.035327,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/u3s9xdUlmmk/00006.wav",
+   "x": 6.1742287,
+   "y": 9.21252,
+   "z": 6.0601215,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/u3s9xdUlmmk/00007.wav",
+   "x": 6.0917807,
+   "y": 9.103353,
+   "z": 6.06262,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/u3s9xdUlmmk/00005.wav",
+   "x": 6.239836,
+   "y": 9.214568,
+   "z": 6.046221,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/u3s9xdUlmmk/00004.wav",
+   "x": 6.232707,
+   "y": 9.189836,
+   "z": 6.0290623,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/u3s9xdUlmmk/00010.wav",
+   "x": 6.280415,
+   "y": 9.1369505,
+   "z": 5.939757,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/u3s9xdUlmmk/00003.wav",
+   "x": 6.273182,
+   "y": 9.161163,
+   "z": 5.98213,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/vv4mvANXHcs/00004.wav",
+   "x": 5.833497,
+   "y": 8.91903,
+   "z": 5.8637567,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/vv4mvANXHcs/00001.wav",
+   "x": 5.9164596,
+   "y": 8.946247,
+   "z": 5.868463,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/vv4mvANXHcs/00003.wav",
+   "x": 5.782986,
+   "y": 8.919033,
+   "z": 5.809116,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/vv4mvANXHcs/00002.wav",
+   "x": 5.808372,
+   "y": 9.020274,
+   "z": 5.7917757,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/j8UugkSTzzk/00006.wav",
+   "x": 6.2432833,
+   "y": 9.183934,
+   "z": 6.020651,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/j8UugkSTzzk/00007.wav",
+   "x": 6.2806873,
+   "y": 9.229132,
+   "z": 6.0765347,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/j8UugkSTzzk/00005.wav",
+   "x": 6.191835,
+   "y": 9.158637,
+   "z": 6.0103765,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/j8UugkSTzzk/00004.wav",
+   "x": 6.20814,
+   "y": 9.115692,
+   "z": 5.9711065,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/j8UugkSTzzk/00002.wav",
+   "x": 6.2265835,
+   "y": 9.175563,
+   "z": 6.04712,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/SwMoq9ZHxpw/00004.wav",
+   "x": 5.8402057,
+   "y": 8.245597,
+   "z": 6.02934,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/SwMoq9ZHxpw/00003.wav",
+   "x": 5.8329396,
+   "y": 8.2527075,
+   "z": 6.0315905,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/h87Y8nir1o0/00008.wav",
+   "x": 5.726325,
+   "y": 8.611285,
+   "z": 5.760869,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/oGZsanLiXsY/00005.wav",
+   "x": 5.6953645,
+   "y": 8.238874,
+   "z": 5.876675,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/oGZsanLiXsY/00003.wav",
+   "x": 5.711464,
+   "y": 8.312175,
+   "z": 5.8592978,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/oGZsanLiXsY/00002.wav",
+   "x": 5.750152,
+   "y": 8.360806,
+   "z": 5.8776655,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/QitLqlca660/00004.wav",
+   "x": 5.812225,
+   "y": 8.477775,
+   "z": 5.6861944,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/QitLqlca660/00001.wav",
+   "x": 5.8099604,
+   "y": 8.523084,
+   "z": 5.660733,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/QitLqlca660/00002.wav",
+   "x": 5.770804,
+   "y": 8.499785,
+   "z": 5.7101874,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/p3q7Z0O6rgg/00005.wav",
+   "x": 5.586353,
+   "y": 8.3361225,
+   "z": 5.440779,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/p3q7Z0O6rgg/00004.wav",
+   "x": 5.6465745,
+   "y": 8.47556,
+   "z": 5.441882,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/p3q7Z0O6rgg/00003.wav",
+   "x": 5.6244793,
+   "y": 8.404789,
+   "z": 5.42526,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/clznvDi-ybg/00012.wav",
+   "x": 5.81312,
+   "y": 8.562084,
+   "z": 5.2143636,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/clznvDi-ybg/00007.wav",
+   "x": 5.859621,
+   "y": 8.61452,
+   "z": 5.3045416,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/clznvDi-ybg/00011.wav",
+   "x": 5.793604,
+   "y": 8.539568,
+   "z": 5.214838,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/clznvDi-ybg/00003.wav",
+   "x": 5.911377,
+   "y": 8.661544,
+   "z": 5.3178773,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/clznvDi-ybg/00017.wav",
+   "x": 5.7989335,
+   "y": 8.54889,
+   "z": 5.2289176,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/clznvDi-ybg/00016.wav",
+   "x": 5.8175516,
+   "y": 8.56558,
+   "z": 5.2450466,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/p5g1heXp34o/00009.wav",
+   "x": 6.2462735,
+   "y": 8.860115,
+   "z": 5.6850142,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/p5g1heXp34o/00008.wav",
+   "x": 6.2244587,
+   "y": 8.87106,
+   "z": 5.6916676,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/p5g1heXp34o/00007.wav",
+   "x": 6.3137155,
+   "y": 8.961649,
+   "z": 5.7698874,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/p5g1heXp34o/00004.wav",
+   "x": 6.3217506,
+   "y": 8.938845,
+   "z": 5.718308,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/p5g1heXp34o/00010.wav",
+   "x": 6.2805247,
+   "y": 8.92998,
+   "z": 5.73059,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/p5g1heXp34o/00001.wav",
+   "x": 6.1595664,
+   "y": 8.79362,
+   "z": 5.68111,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/p5g1heXp34o/00003.wav",
+   "x": 6.3104467,
+   "y": 8.895968,
+   "z": 5.699854,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/p5g1heXp34o/00002.wav",
+   "x": 6.211636,
+   "y": 8.849676,
+   "z": 5.7262177,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/rUnfAxF1dJI/00001.wav",
+   "x": 6.215558,
+   "y": 9.005321,
+   "z": 5.8235736,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/H4mDLFeGpLU/00006.wav",
+   "x": 6.132895,
+   "y": 9.121898,
+   "z": 6.030338,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/H4mDLFeGpLU/00005.wav",
+   "x": 6.0134077,
+   "y": 9.132543,
+   "z": 6.038707,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/H4mDLFeGpLU/00001.wav",
+   "x": 5.9252286,
+   "y": 9.0491495,
+   "z": 5.9543934,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/H4mDLFeGpLU/00003.wav",
+   "x": 6.0176053,
+   "y": 9.156211,
+   "z": 5.979588,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/H4mDLFeGpLU/00002.wav",
+   "x": 5.845038,
+   "y": 9.057545,
+   "z": 5.934292,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/x6M3KQ8-gM4/00004.wav",
+   "x": 5.80586,
+   "y": 8.648197,
+   "z": 5.7987523,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/x6M3KQ8-gM4/00001.wav",
+   "x": 5.8525743,
+   "y": 8.845268,
+   "z": 5.806215,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/x6M3KQ8-gM4/00003.wav",
+   "x": 5.921262,
+   "y": 8.85668,
+   "z": 5.8764977,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/x6M3KQ8-gM4/00002.wav",
+   "x": 6.041128,
+   "y": 8.894271,
+   "z": 5.86107,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/S-dgypZHvhg/00003.wav",
+   "x": 5.847291,
+   "y": 8.669403,
+   "z": 5.966424,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/r9-0pljhZqs/00008.wav",
+   "x": 5.3178024,
+   "y": 8.235762,
+   "z": 5.231398,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/r9-0pljhZqs/00012.wav",
+   "x": 5.2971263,
+   "y": 8.197152,
+   "z": 5.2262735,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/r9-0pljhZqs/00011.wav",
+   "x": 5.2819147,
+   "y": 8.200182,
+   "z": 5.1975665,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/r9-0pljhZqs/00005.wav",
+   "x": 5.288627,
+   "y": 8.195894,
+   "z": 5.2048445,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/r9-0pljhZqs/00014.wav",
+   "x": 5.3082104,
+   "y": 8.240011,
+   "z": 5.244064,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/r9-0pljhZqs/00001.wav",
+   "x": 5.296158,
+   "y": 8.212547,
+   "z": 5.2048244,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/r9-0pljhZqs/00003.wav",
+   "x": 5.3219705,
+   "y": 8.233839,
+   "z": 5.2275424,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10283/52SYuI0cCbQ/00001.wav",
+   "x": 5.582071,
+   "y": 7.899265,
+   "z": 5.8736243,
+   "CelebName": "Eli_Roth"
+ },
+ {
+   "FIELD1": "data/wav_test/id10284/7yx9A0yzLYk/00024.wav",
+   "x": 12.35674,
+   "y": 7.439108,
+   "z": 10.578227,
+   "CelebName": "Eli_Wallach"
+ },
+ {
+   "FIELD1": "data/wav_test/id10284/7yx9A0yzLYk/00019.wav",
+   "x": 12.344608,
+   "y": 7.418218,
+   "z": 10.560804,
+   "CelebName": "Eli_Wallach"
+ },
+ {
+   "FIELD1": "data/wav_test/id10284/7yx9A0yzLYk/00036.wav",
+   "x": 12.379766,
+   "y": 7.4547305,
+   "z": 10.601448,
+   "CelebName": "Eli_Wallach"
+ },
+ {
+   "FIELD1": "data/wav_test/id10284/7yx9A0yzLYk/00042.wav",
+   "x": 12.3470335,
+   "y": 7.4362717,
+   "z": 10.569803,
+   "CelebName": "Eli_Wallach"
+ },
+ {
+   "FIELD1": "data/wav_test/id10284/7yx9A0yzLYk/00043.wav",
+   "x": 12.329562,
+   "y": 7.465579,
+   "z": 10.61145,
+   "CelebName": "Eli_Wallach"
+ },
+ {
+   "FIELD1": "data/wav_test/id10284/7yx9A0yzLYk/00012.wav",
+   "x": 12.306034,
+   "y": 7.4103556,
+   "z": 10.544638,
+   "CelebName": "Eli_Wallach"
+ },
+ {
+   "FIELD1": "data/wav_test/id10284/7yx9A0yzLYk/00007.wav",
+   "x": 12.334307,
+   "y": 7.4329,
+   "z": 10.576818,
+   "CelebName": "Eli_Wallach"
+ },
+ {
+   "FIELD1": "data/wav_test/id10284/7yx9A0yzLYk/00001.wav",
+   "x": 12.364901,
+   "y": 7.4339643,
+   "z": 10.587934,
+   "CelebName": "Eli_Wallach"
+ },
+ {
+   "FIELD1": "data/wav_test/id10284/7yx9A0yzLYk/00017.wav",
+   "x": 12.337543,
+   "y": 7.406601,
+   "z": 10.5686245,
+   "CelebName": "Eli_Wallach"
+ },
+ {
+   "FIELD1": "data/wav_test/id10284/RNYNkXzY5Hk/00020.wav",
+   "x": 11.820462,
+   "y": 7.486338,
+   "z": 10.073654,
+   "CelebName": "Eli_Wallach"
+ },
+ {
+   "FIELD1": "data/wav_test/id10284/RNYNkXzY5Hk/00006.wav",
+   "x": 11.813045,
+   "y": 7.475997,
+   "z": 10.072785,
+   "CelebName": "Eli_Wallach"
+ },
+ {
+   "FIELD1": "data/wav_test/id10284/RNYNkXzY5Hk/00012.wav",
+   "x": 11.801533,
+   "y": 7.4706016,
+   "z": 10.083759,
+   "CelebName": "Eli_Wallach"
+ },
+ {
+   "FIELD1": "data/wav_test/id10284/RNYNkXzY5Hk/00013.wav",
+   "x": 11.8343315,
+   "y": 7.4992805,
+   "z": 10.086105,
+   "CelebName": "Eli_Wallach"
+ },
+ {
+   "FIELD1": "data/wav_test/id10284/RNYNkXzY5Hk/00004.wav",
+   "x": 11.806273,
+   "y": 7.4809513,
+   "z": 10.08248,
+   "CelebName": "Eli_Wallach"
+ },
+ {
+   "FIELD1": "data/wav_test/id10284/RNYNkXzY5Hk/00016.wav",
+   "x": 11.783857,
+   "y": 7.446915,
+   "z": 10.090322,
+   "CelebName": "Eli_Wallach"
+ },
+ {
+   "FIELD1": "data/wav_test/id10284/EoCPhxtWUOc/00004.wav",
+   "x": 11.827898,
+   "y": 7.453158,
+   "z": 10.095539,
+   "CelebName": "Eli_Wallach"
+ },
+ {
+   "FIELD1": "data/wav_test/id10284/EoCPhxtWUOc/00002.wav",
+   "x": 11.807816,
+   "y": 7.4696527,
+   "z": 10.065513,
+   "CelebName": "Eli_Wallach"
+ },
+ {
+   "FIELD1": "data/wav_test/id10284/YN4cTBWM-QE/00009.wav",
+   "x": 11.739408,
+   "y": 7.295697,
+   "z": 10.317514,
+   "CelebName": "Eli_Wallach"
+ },
+ {
+   "FIELD1": "data/wav_test/id10284/YN4cTBWM-QE/00006.wav",
+   "x": 11.762353,
+   "y": 7.29496,
+   "z": 10.332422,
+   "CelebName": "Eli_Wallach"
+ },
+ {
+   "FIELD1": "data/wav_test/id10284/YN4cTBWM-QE/00007.wav",
+   "x": 11.764271,
+   "y": 7.3131213,
+   "z": 10.300396,
+   "CelebName": "Eli_Wallach"
+ },
+ {
+   "FIELD1": "data/wav_test/id10284/YN4cTBWM-QE/00004.wav",
+   "x": 11.767027,
+   "y": 7.315231,
+   "z": 10.318249,
+   "CelebName": "Eli_Wallach"
+ },
+ {
+   "FIELD1": "data/wav_test/id10284/YN4cTBWM-QE/00010.wav",
+   "x": 11.768829,
+   "y": 7.308458,
+   "z": 10.320036,
+   "CelebName": "Eli_Wallach"
+ },
+ {
+   "FIELD1": "data/wav_test/id10284/YN4cTBWM-QE/00001.wav",
+   "x": 11.812521,
+   "y": 7.2861843,
+   "z": 10.339142,
+   "CelebName": "Eli_Wallach"
+ },
+ {
+   "FIELD1": "data/wav_test/id10284/YN4cTBWM-QE/00003.wav",
+   "x": 11.806119,
+   "y": 7.3603654,
+   "z": 10.2542715,
+   "CelebName": "Eli_Wallach"
+ },
+ {
+   "FIELD1": "data/wav_test/id10270/x6uYqmx31kE/00004.wav",
+   "x": -0.53824997,
+   "y": 1.6430387,
+   "z": 11.2724085,
+   "CelebName": "Eartha_Kitt"
+ },
+ {
+   "FIELD1": "data/wav_test/id10270/x6uYqmx31kE/00016.wav",
+   "x": -0.4937556,
+   "y": 1.614911,
+   "z": 11.301325,
+   "CelebName": "Eartha_Kitt"
+ },
+ {
+   "FIELD1": "data/wav_test/id10270/GWXujl-xAVM/00027.wav",
+   "x": -0.6114178,
+   "y": 1.703934,
+   "z": 11.2109585,
+   "CelebName": "Eartha_Kitt"
+ },
+ {
+   "FIELD1": "data/wav_test/id10270/GWXujl-xAVM/00030.wav",
+   "x": -0.64030814,
+   "y": 1.6931874,
+   "z": 11.221787,
+   "CelebName": "Eartha_Kitt"
+ },
+ {
+   "FIELD1": "data/wav_test/id10270/GWXujl-xAVM/00034.wav",
+   "x": -0.55612874,
+   "y": 1.6450154,
+   "z": 11.268027,
+   "CelebName": "Eartha_Kitt"
+ },
+ {
+   "FIELD1": "data/wav_test/id10270/GWXujl-xAVM/00037.wav",
+   "x": -0.6338058,
+   "y": 1.7181131,
+   "z": 11.195854,
+   "CelebName": "Eartha_Kitt"
+ },
+ {
+   "FIELD1": "data/wav_test/id10270/GWXujl-xAVM/00050.wav",
+   "x": -0.5825873,
+   "y": 1.6857507,
+   "z": 11.229842,
+   "CelebName": "Eartha_Kitt"
+ },
+ {
+   "FIELD1": "data/wav_test/id10270/GWXujl-xAVM/00051.wav",
+   "x": -0.59691334,
+   "y": 1.7002487,
+   "z": 11.215218,
+   "CelebName": "Eartha_Kitt"
+ },
+ {
+   "FIELD1": "data/wav_test/id10270/GWXujl-xAVM/00012.wav",
+   "x": -0.6800113,
+   "y": 1.7565325,
+   "z": 11.1591835,
+   "CelebName": "Eartha_Kitt"
+ },
+ {
+   "FIELD1": "data/wav_test/id10270/GWXujl-xAVM/00013.wav",
+   "x": -0.6561444,
+   "y": 1.682161,
+   "z": 11.2327585,
+   "CelebName": "Eartha_Kitt"
+ },
+ {
+   "FIELD1": "data/wav_test/id10270/GWXujl-xAVM/00001.wav",
+   "x": -0.56691635,
+   "y": 1.6556935,
+   "z": 11.258612,
+   "CelebName": "Eartha_Kitt"
+ },
+ {
+   "FIELD1": "data/wav_test/id10270/GWXujl-xAVM/00017.wav",
+   "x": -0.6355167,
+   "y": 1.7092953,
+   "z": 11.20413,
+   "CelebName": "Eartha_Kitt"
+ },
+ {
+   "FIELD1": "data/wav_test/id10270/8jEAjG6SegY/00021.wav",
+   "x": -0.5464069,
+   "y": 1.6435981,
+   "z": 11.271298,
+   "CelebName": "Eartha_Kitt"
+ },
+ {
+   "FIELD1": "data/wav_test/id10270/8jEAjG6SegY/00007.wav",
+   "x": -0.534011,
+   "y": 1.6342777,
+   "z": 11.280702,
+   "CelebName": "Eartha_Kitt"
+ },
+ {
+   "FIELD1": "data/wav_test/id10270/5r0dWxy17C8/00027.wav",
+   "x": -0.5482786,
+   "y": 1.7442877,
+   "z": 11.174603,
+   "CelebName": "Eartha_Kitt"
+ },
+ {
+   "FIELD1": "data/wav_test/id10270/5r0dWxy17C8/00018.wav",
+   "x": -0.6118778,
+   "y": 1.744302,
+   "z": 11.172796,
+   "CelebName": "Eartha_Kitt"
+ },
+ {
+   "FIELD1": "data/wav_test/id10270/5r0dWxy17C8/00020.wav",
+   "x": -0.61683214,
+   "y": 1.7406642,
+   "z": 11.175951,
+   "CelebName": "Eartha_Kitt"
+ },
+ {
+   "FIELD1": "data/wav_test/id10270/5r0dWxy17C8/00008.wav",
+   "x": -0.5879037,
+   "y": 1.7195637,
+   "z": 11.195934,
+   "CelebName": "Eartha_Kitt"
+ },
+ {
+   "FIELD1": "data/wav_test/id10270/5r0dWxy17C8/00007.wav",
+   "x": -0.61760974,
+   "y": 1.726306,
+   "z": 11.189323,
+   "CelebName": "Eartha_Kitt"
+ },
+ {
+   "FIELD1": "data/wav_test/id10270/5sJomL_D0_g/00001.wav",
+   "x": -0.53864014,
+   "y": 1.6378385,
+   "z": 11.277334,
+   "CelebName": "Eartha_Kitt"
+ },
+ {
+   "FIELD1": "data/wav_test/id10271/zWyD72sHVwA/00006.wav",
+   "x": 5.629914,
+   "y": 7.704914,
+   "z": 6.2429953,
+   "CelebName": "Ed_Westwick"
+ },
+ {
+   "FIELD1": "data/wav_test/id10271/zWyD72sHVwA/00001.wav",
+   "x": 5.6645656,
+   "y": 7.7259116,
+   "z": 6.233321,
+   "CelebName": "Ed_Westwick"
+ },
+ {
+   "FIELD1": "data/wav_test/id10271/_YimahVgI1A/00005.wav",
+   "x": 5.597123,
+   "y": 7.7854834,
+   "z": 6.172462,
+   "CelebName": "Ed_Westwick"
+ },
+ {
+   "FIELD1": "data/wav_test/id10271/1gtz-CUIygI/00006.wav",
+   "x": 5.6235104,
+   "y": 7.7849894,
+   "z": 6.1684585,
+   "CelebName": "Ed_Westwick"
+ },
+ {
+   "FIELD1": "data/wav_test/id10271/gO805KoL2RM/00001.wav",
+   "x": 5.6217113,
+   "y": 7.7454925,
+   "z": 6.1930356,
+   "CelebName": "Ed_Westwick"
+ },
+ {
+   "FIELD1": "data/wav_test/id10285/thghCiJZYwI/00005.wav",
+   "x": 15.592008,
+   "y": 0.30695692,
+   "z": 2.8267236,
+   "CelebName": "Elisabeth_Moss"
+ },
+ {
+   "FIELD1": "data/wav_test/id10285/thghCiJZYwI/00002.wav",
+   "x": 15.538527,
+   "y": 0.283265,
+   "z": 2.7727208,
+   "CelebName": "Elisabeth_Moss"
+ },
+ {
+   "FIELD1": "data/wav_test/id10285/FUqAFZmZJ80/00019.wav",
+   "x": 15.453986,
+   "y": 0.2531635,
+   "z": 2.688027,
+   "CelebName": "Elisabeth_Moss"
+ },
+ {
+   "FIELD1": "data/wav_test/id10285/LbFFEF1pHO0/00008.wav",
+   "x": 15.815838,
+   "y": 0.31882954,
+   "z": 3.0509434,
+   "CelebName": "Elisabeth_Moss"
+ },
+ {
+   "FIELD1": "data/wav_test/id10285/LbFFEF1pHO0/00005.wav",
+   "x": 15.663487,
+   "y": 0.28725234,
+   "z": 2.8983328,
+   "CelebName": "Elisabeth_Moss"
+ },
+ {
+   "FIELD1": "data/wav_test/id10285/LbFFEF1pHO0/00004.wav",
+   "x": 15.7710905,
+   "y": 0.32352614,
+   "z": 3.0063956,
+   "CelebName": "Elisabeth_Moss"
+ },
+ {
+   "FIELD1": "data/wav_test/id10285/LbFFEF1pHO0/00002.wav",
+   "x": 15.743651,
+   "y": 0.35090244,
+   "z": 2.978597,
+   "CelebName": "Elisabeth_Moss"
+ },
+ {
+   "FIELD1": "data/wav_test/id10285/m-uILToQ9ss/00006.wav",
+   "x": 15.453684,
+   "y": 0.2528674,
+   "z": 2.6878603,
+   "CelebName": "Elisabeth_Moss"
+ },
+ {
+   "FIELD1": "data/wav_test/id10285/m-uILToQ9ss/00011.wav",
+   "x": 15.455183,
+   "y": 0.2322949,
+   "z": 2.6892464,
+   "CelebName": "Elisabeth_Moss"
+ },
+ {
+   "FIELD1": "data/wav_test/id10285/m-uILToQ9ss/00005.wav",
+   "x": 15.424509,
+   "y": 0.22312014,
+   "z": 2.658577,
+   "CelebName": "Elisabeth_Moss"
+ },
+ {
+   "FIELD1": "data/wav_test/id10285/m-uILToQ9ss/00003.wav",
+   "x": 15.400788,
+   "y": 0.22102256,
+   "z": 2.635183,
+   "CelebName": "Elisabeth_Moss"
+ },
+ {
+   "FIELD1": "data/wav_test/id10285/bd0jqkNxNdU/00004.wav",
+   "x": 15.482388,
+   "y": 0.26755145,
+   "z": 2.7162879,
+   "CelebName": "Elisabeth_Moss"
+ },
+ {
+   "FIELD1": "data/wav_test/id10285/bd0jqkNxNdU/00001.wav",
+   "x": 15.439275,
+   "y": 0.2342003,
+   "z": 2.6730974,
+   "CelebName": "Elisabeth_Moss"
+ },
+ {
+   "FIELD1": "data/wav_test/id10285/bd0jqkNxNdU/00002.wav",
+   "x": 15.543067,
+   "y": 0.2983276,
+   "z": 2.7768476,
+   "CelebName": "Elisabeth_Moss"
+ },
+ {
+   "FIELD1": "data/wav_test/id10285/d-ZEojJk-rs/00007.wav",
+   "x": 15.742951,
+   "y": 0.35248315,
+   "z": 2.9781134,
+   "CelebName": "Elisabeth_Moss"
+ },
+ {
+   "FIELD1": "data/wav_test/id10285/d-ZEojJk-rs/00005.wav",
+   "x": 15.668852,
+   "y": 0.32723066,
+   "z": 2.903097,
+   "CelebName": "Elisabeth_Moss"
+ },
+ {
+   "FIELD1": "data/wav_test/id10285/d-ZEojJk-rs/00003.wav",
+   "x": 15.702118,
+   "y": 0.34666646,
+   "z": 2.9368691,
+   "CelebName": "Elisabeth_Moss"
+ },
+ {
+   "FIELD1": "data/wav_test/id10285/d-ZEojJk-rs/00002.wav",
+   "x": 15.695355,
+   "y": 0.33508477,
+   "z": 2.9300413,
+   "CelebName": "Elisabeth_Moss"
+ },
+ {
+   "FIELD1": "data/wav_test/id10285/Zdmm9Mrr8Ts/00004.wav",
+   "x": 15.450335,
+   "y": 0.25560388,
+   "z": 2.6845114,
+   "CelebName": "Elisabeth_Moss"
+ },
+ {
+   "FIELD1": "data/wav_test/id10285/uArtiTSTnSU/00006.wav",
+   "x": 15.524876,
+   "y": 0.29613355,
+   "z": 2.7592623,
+   "CelebName": "Elisabeth_Moss"
+ },
+ {
+   "FIELD1": "data/wav_test/id10285/uArtiTSTnSU/00004.wav",
+   "x": 15.544903,
+   "y": 0.2894458,
+   "z": 2.7791383,
+   "CelebName": "Elisabeth_Moss"
+ },
+ {
+   "FIELD1": "data/wav_test/id10285/uArtiTSTnSU/00001.wav",
+   "x": 15.499587,
+   "y": 0.2998681,
+   "z": 2.7337976,
+   "CelebName": "Elisabeth_Moss"
+ },
+ {
+   "FIELD1": "data/wav_test/id10285/uArtiTSTnSU/00016.wav",
+   "x": 15.54389,
+   "y": 0.29869136,
+   "z": 2.7777274,
+   "CelebName": "Elisabeth_Moss"
+ },
+ {
+   "FIELD1": "data/wav_test/id10282/IDA_ElNHLn4/00004.wav",
+   "x": 21.463272,
+   "y": -1.7848113,
+   "z": 7.8857775,
+   "CelebName": "Eleanor_Tomlinson"
+ },
+ {
+   "FIELD1": "data/wav_test/id10282/IDA_ElNHLn4/00003.wav",
+   "x": 21.42051,
+   "y": -1.8279481,
+   "z": 7.9274354,
+   "CelebName": "Eleanor_Tomlinson"
+ },
+ {
+   "FIELD1": "data/wav_test/id10282/YmJBoCojXf4/00001.wav",
+   "x": 21.505697,
+   "y": -1.7346325,
+   "z": 7.8449936,
+   "CelebName": "Eleanor_Tomlinson"
+ },
+ {
+   "FIELD1": "data/wav_test/id10282/ek_uqADnhPQ/00009.wav",
+   "x": 21.483955,
+   "y": -1.7601609,
+   "z": 7.866787,
+   "CelebName": "Eleanor_Tomlinson"
+ },
+ {
+   "FIELD1": "data/wav_test/id10282/ek_uqADnhPQ/00008.wav",
+   "x": 21.517496,
+   "y": -1.7267553,
+   "z": 7.8316894,
+   "CelebName": "Eleanor_Tomlinson"
+ },
+ {
+   "FIELD1": "data/wav_test/id10282/ek_uqADnhPQ/00006.wav",
+   "x": 21.470236,
+   "y": -1.7770475,
+   "z": 7.8800282,
+   "CelebName": "Eleanor_Tomlinson"
+ },
+ {
+   "FIELD1": "data/wav_test/id10282/ek_uqADnhPQ/00007.wav",
+   "x": 21.487644,
+   "y": -1.7565975,
+   "z": 7.863779,
+   "CelebName": "Eleanor_Tomlinson"
+ },
+ {
+   "FIELD1": "data/wav_test/id10282/ek_uqADnhPQ/00003.wav",
+   "x": 21.38295,
+   "y": -1.8551844,
+   "z": 7.967814,
+   "CelebName": "Eleanor_Tomlinson"
+ },
+ {
+   "FIELD1": "data/wav_test/id10282/zGjY8J48FoE/00002.wav",
+   "x": 21.486902,
+   "y": -1.7547166,
+   "z": 7.857466,
+   "CelebName": "Eleanor_Tomlinson"
+ },
+ {
+   "FIELD1": "data/wav_test/id10282/s4X9cwCCnFo/00006.wav",
+   "x": 21.532364,
+   "y": -1.7119951,
+   "z": 7.824821,
+   "CelebName": "Eleanor_Tomlinson"
+ },
+ {
+   "FIELD1": "data/wav_test/id10282/s4X9cwCCnFo/00004.wav",
+   "x": 21.406525,
+   "y": -1.8389763,
+   "z": 7.9432364,
+   "CelebName": "Eleanor_Tomlinson"
+ },
+ {
+   "FIELD1": "data/wav_test/id10282/s4X9cwCCnFo/00001.wav",
+   "x": 21.415033,
+   "y": -1.8286352,
+   "z": 7.9345655,
+   "CelebName": "Eleanor_Tomlinson"
+ },
+ {
+   "FIELD1": "data/wav_test/id10282/neQO6_CUY4w/00007.wav",
+   "x": 21.392086,
+   "y": -1.8662808,
+   "z": 7.9851346,
+   "CelebName": "Eleanor_Tomlinson"
+ },
+ {
+   "FIELD1": "data/wav_test/id10282/neQO6_CUY4w/00003.wav",
+   "x": 21.37075,
+   "y": -1.8803889,
+   "z": 7.984146,
+   "CelebName": "Eleanor_Tomlinson"
+ },
+ {
+   "FIELD1": "data/wav_test/id10282/neQO6_CUY4w/00002.wav",
+   "x": 21.441048,
+   "y": -1.8052969,
+   "z": 7.9058495,
+   "CelebName": "Eleanor_Tomlinson"
+ },
+ {
+   "FIELD1": "data/wav_test/id10282/Zbz058o9j6s/00003.wav",
+   "x": 21.428812,
+   "y": -1.8193984,
+   "z": 7.918434,
+   "CelebName": "Eleanor_Tomlinson"
+ },
+ {
+   "FIELD1": "data/wav_test/id10282/Q5fbv-Wyj7k/00002.wav",
+   "x": 21.466314,
+   "y": -1.7787513,
+   "z": 7.8872867,
+   "CelebName": "Eleanor_Tomlinson"
+ },
+ {
+   "FIELD1": "data/wav_test/id10282/XtwIcZPYN_8/00002.wav",
+   "x": 21.412895,
+   "y": -1.8282565,
+   "z": 7.93692,
+   "CelebName": "Eleanor_Tomlinson"
+ },
+ {
+   "FIELD1": "data/wav_test/id10282/rC63HnQ3Nf8/00001.wav",
+   "x": 21.444992,
+   "y": -1.7998775,
+   "z": 7.907183,
+   "CelebName": "Eleanor_Tomlinson"
+ },
+ {
+   "FIELD1": "data/wav_test/id10282/Tf6tGc30MVM/00004.wav",
+   "x": 21.417828,
+   "y": -1.826469,
+   "z": 7.932359,
+   "CelebName": "Eleanor_Tomlinson"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/5YncBThNd5E/00024.wav",
+   "x": 6.863636,
+   "y": 14.55725,
+   "z": -2.9279568,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/5YncBThNd5E/00020.wav",
+   "x": 6.9125137,
+   "y": 14.605022,
+   "z": -2.9530785,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/5YncBThNd5E/00023.wav",
+   "x": 6.9414086,
+   "y": 14.620513,
+   "z": -3.0002122,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/XunbBdgkGwU/00001.wav",
+   "x": 6.8626986,
+   "y": 14.786234,
+   "z": -2.9961557,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/CooJzMgoxzw/00005.wav",
+   "x": 6.93497,
+   "y": 14.699715,
+   "z": -2.9676604,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/aaJo0S1lnhY/00005.wav",
+   "x": 6.818491,
+   "y": 14.94656,
+   "z": -3.2096364,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/aaJo0S1lnhY/00003.wav",
+   "x": 6.739362,
+   "y": 14.914002,
+   "z": -3.1863708,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/P91fRfZ0PEE/00001.wav",
+   "x": 6.9019732,
+   "y": 15.039887,
+   "z": -3.1523352,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/5WOZXLMujwY/00005.wav",
+   "x": 6.7226644,
+   "y": 14.936674,
+   "z": -3.0853906,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/5WOZXLMujwY/00004.wav",
+   "x": 6.729323,
+   "y": 14.89419,
+   "z": -3.160056,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/5WOZXLMujwY/00003.wav",
+   "x": 6.735191,
+   "y": 14.889665,
+   "z": -3.1206875,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/AeZoMAJ4Ejs/00021.wav",
+   "x": 6.8334146,
+   "y": 15.015051,
+   "z": -3.0164351,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/AeZoMAJ4Ejs/00008.wav",
+   "x": 6.9117775,
+   "y": 14.965003,
+   "z": -3.0362895,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/AeZoMAJ4Ejs/00013.wav",
+   "x": 6.768201,
+   "y": 15.041224,
+   "z": -3.039964,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/AeZoMAJ4Ejs/00011.wav",
+   "x": 6.7546506,
+   "y": 15.149418,
+   "z": -3.058612,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/AeZoMAJ4Ejs/00004.wav",
+   "x": 6.7791843,
+   "y": 15.046287,
+   "z": -2.9846153,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/AeZoMAJ4Ejs/00014.wav",
+   "x": 6.851396,
+   "y": 15.019259,
+   "z": -3.1206028,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/AeZoMAJ4Ejs/00002.wav",
+   "x": 6.8094826,
+   "y": 15.069398,
+   "z": -3.1218717,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/3vWez3baO60/00008.wav",
+   "x": 6.9603987,
+   "y": 15.088936,
+   "z": -3.3048527,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/3vWez3baO60/00006.wav",
+   "x": 6.918476,
+   "y": 15.0715885,
+   "z": -3.1365664,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/3vWez3baO60/00013.wav",
+   "x": 6.8801103,
+   "y": 15.000402,
+   "z": -3.2932618,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/3vWez3baO60/00007.wav",
+   "x": 6.854291,
+   "y": 15.007728,
+   "z": -3.0839164,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/3vWez3baO60/00005.wav",
+   "x": 6.921818,
+   "y": 15.063146,
+   "z": -3.1745596,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/3vWez3baO60/00004.wav",
+   "x": 6.818037,
+   "y": 15.007445,
+   "z": -3.0363002,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/3vWez3baO60/00014.wav",
+   "x": 6.797754,
+   "y": 14.907016,
+   "z": -3.072951,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/3vWez3baO60/00003.wav",
+   "x": 6.799597,
+   "y": 14.930394,
+   "z": -3.144113,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/CAhGBfTmCHw/00005.wav",
+   "x": 6.825529,
+   "y": 15.019084,
+   "z": -2.9380882,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/CAhGBfTmCHw/00004.wav",
+   "x": 6.844012,
+   "y": 14.909424,
+   "z": -2.8988867,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/CAhGBfTmCHw/00003.wav",
+   "x": 6.840593,
+   "y": 14.933138,
+   "z": -2.8589294,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/X1Yr4eI2oRw/00004.wav",
+   "x": 6.877591,
+   "y": 14.799536,
+   "z": -3.087494,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/FDhJhEu0JUM/00009.wav",
+   "x": 6.9234624,
+   "y": 15.156648,
+   "z": -3.5246077,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/FDhJhEu0JUM/00007.wav",
+   "x": 6.9792166,
+   "y": 15.094319,
+   "z": -3.476785,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/FDhJhEu0JUM/00001.wav",
+   "x": 7.009495,
+   "y": 15.110963,
+   "z": -3.4690614,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/FDhJhEu0JUM/00015.wav",
+   "x": 7.0319324,
+   "y": 15.07019,
+   "z": -3.5482125,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/FDhJhEu0JUM/00003.wav",
+   "x": 6.9756317,
+   "y": 15.106708,
+   "z": -3.4890885,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/FDhJhEu0JUM/00017.wav",
+   "x": 6.95106,
+   "y": 15.158094,
+   "z": -3.474447,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/FDhJhEu0JUM/00016.wav",
+   "x": 7.016457,
+   "y": 15.071183,
+   "z": -3.501959,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/FDhJhEu0JUM/00002.wav",
+   "x": 6.977055,
+   "y": 15.142495,
+   "z": -3.5187907,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/YloBWJxXzMI/00018.wav",
+   "x": 7.2299905,
+   "y": 14.752871,
+   "z": -3.7744787,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/YloBWJxXzMI/00019.wav",
+   "x": 7.24079,
+   "y": 14.792127,
+   "z": -3.8035505,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/YloBWJxXzMI/00009.wav",
+   "x": 7.3160405,
+   "y": 14.88748,
+   "z": -3.8631523,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/YloBWJxXzMI/00008.wav",
+   "x": 7.2776628,
+   "y": 14.82691,
+   "z": -3.8270917,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/YloBWJxXzMI/00013.wav",
+   "x": 7.2361784,
+   "y": 14.775011,
+   "z": -3.7808034,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/YloBWJxXzMI/00007.wav",
+   "x": 7.2659564,
+   "y": 14.806788,
+   "z": -3.8151076,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/YloBWJxXzMI/00011.wav",
+   "x": 7.2046757,
+   "y": 14.751873,
+   "z": -3.7099655,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/YloBWJxXzMI/00010.wav",
+   "x": 7.259922,
+   "y": 14.734957,
+   "z": -3.7547302,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/YloBWJxXzMI/00015.wav",
+   "x": 7.220968,
+   "y": 14.796824,
+   "z": -3.7572138,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/HrA2BLcLApA/00026.wav",
+   "x": 7.060125,
+   "y": 14.557038,
+   "z": -3.1642606,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/HrA2BLcLApA/00024.wav",
+   "x": 6.9697857,
+   "y": 14.583478,
+   "z": -2.9788256,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/HrA2BLcLApA/00019.wav",
+   "x": 7.067678,
+   "y": 14.563241,
+   "z": -3.195994,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/HrA2BLcLApA/00009.wav",
+   "x": 6.987925,
+   "y": 14.569463,
+   "z": -3.0241325,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/HrA2BLcLApA/00005.wav",
+   "x": 6.919836,
+   "y": 14.64182,
+   "z": -3.0360327,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/HrA2BLcLApA/00015.wav",
+   "x": 6.949233,
+   "y": 14.674724,
+   "z": -3.0206866,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/HrA2BLcLApA/00003.wav",
+   "x": 6.924829,
+   "y": 14.652378,
+   "z": -2.9893918,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/HrA2BLcLApA/00017.wav",
+   "x": 6.9194484,
+   "y": 14.643498,
+   "z": -2.9817245,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/S0j29b3KVWQ/00001.wav",
+   "x": 6.972172,
+   "y": 15.010857,
+   "z": -3.321126,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/lWeNK_hi-aI/00004.wav",
+   "x": 6.8908615,
+   "y": 14.721855,
+   "z": -2.9666896,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10276/cytGIvwJ3NA/00003.wav",
+   "x": 7.1559367,
+   "y": 14.680796,
+   "z": -3.5986245,
+   "CelebName": "Edgar_Wright"
+ },
+ {
+   "FIELD1": "data/wav_test/id10278/DSGE2F5sTcg/00023.wav",
+   "x": 11.126615,
+   "y": 5.0823636,
+   "z": 16.611046,
+   "CelebName": "Edward_Asner"
+ },
+ {
+   "FIELD1": "data/wav_test/id10278/iEAqbqZ7dDg/00010.wav",
+   "x": 11.140396,
+   "y": 5.055255,
+   "z": 16.629662,
+   "CelebName": "Edward_Asner"
+ },
+ {
+   "FIELD1": "data/wav_test/id10278/s_rtHBpzrQc/00006.wav",
+   "x": 11.20212,
+   "y": 5.013264,
+   "z": 16.583387,
+   "CelebName": "Edward_Asner"
+ },
+ {
+   "FIELD1": "data/wav_test/id10278/x5dqrDlwxR4/00008.wav",
+   "x": 11.241493,
+   "y": 4.95295,
+   "z": 16.532103,
+   "CelebName": "Edward_Asner"
+ },
+ {
+   "FIELD1": "data/wav_test/id10278/x5dqrDlwxR4/00006.wav",
+   "x": 11.213426,
+   "y": 4.9690723,
+   "z": 16.561314,
+   "CelebName": "Edward_Asner"
+ },
+ {
+   "FIELD1": "data/wav_test/id10278/x5dqrDlwxR4/00003.wav",
+   "x": 11.23438,
+   "y": 4.9411545,
+   "z": 16.541265,
+   "CelebName": "Edward_Asner"
+ },
+ {
+   "FIELD1": "data/wav_test/id10278/rgcxEM5jOc4/00006.wav",
+   "x": 11.094562,
+   "y": 5.1001368,
+   "z": 16.656338,
+   "CelebName": "Edward_Asner"
+ },
+ {
+   "FIELD1": "data/wav_test/id10278/rgcxEM5jOc4/00012.wav",
+   "x": 11.147111,
+   "y": 5.057648,
+   "z": 16.61631,
+   "CelebName": "Edward_Asner"
+ },
+ {
+   "FIELD1": "data/wav_test/id10278/rgcxEM5jOc4/00005.wav",
+   "x": 11.142729,
+   "y": 5.054115,
+   "z": 16.61035,
+   "CelebName": "Edward_Asner"
+ },
+ {
+   "FIELD1": "data/wav_test/id10278/rgcxEM5jOc4/00004.wav",
+   "x": 11.158159,
+   "y": 5.036352,
+   "z": 16.60789,
+   "CelebName": "Edward_Asner"
+ },
+ {
+   "FIELD1": "data/wav_test/id10278/d6WJf6TOoIQ/00007.wav",
+   "x": 11.2032995,
+   "y": 4.9946585,
+   "z": 16.568176,
+   "CelebName": "Edward_Asner"
+ },
+ {
+   "FIELD1": "data/wav_test/id10278/shA_TsV-PFs/00005.wav",
+   "x": 11.222628,
+   "y": 4.9623675,
+   "z": 16.5511,
+   "CelebName": "Edward_Asner"
+ },
+ {
+   "FIELD1": "data/wav_test/id10278/shA_TsV-PFs/00001.wav",
+   "x": 11.227944,
+   "y": 4.9736857,
+   "z": 16.547522,
+   "CelebName": "Edward_Asner"
+ },
+ {
+   "FIELD1": "data/wav_test/id10278/Pp-rAswo4Xg/00025.wav",
+   "x": 11.152496,
+   "y": 4.8497553,
+   "z": 16.663141,
+   "CelebName": "Edward_Asner"
+ },
+ {
+   "FIELD1": "data/wav_test/id10278/Pp-rAswo4Xg/00020.wav",
+   "x": 11.13369,
+   "y": 4.819447,
+   "z": 16.696493,
+   "CelebName": "Edward_Asner"
+ },
+ {
+   "FIELD1": "data/wav_test/id10278/Pp-rAswo4Xg/00023.wav",
+   "x": 11.140572,
+   "y": 4.8586926,
+   "z": 16.670477,
+   "CelebName": "Edward_Asner"
+ },
+ {
+   "FIELD1": "data/wav_test/id10278/LVXvQzNatXI/00001.wav",
+   "x": 11.207785,
+   "y": 4.968128,
+   "z": 16.573532,
+   "CelebName": "Edward_Asner"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/0TJ9sdJiDvA/00009.wav",
+   "x": 19.336962,
+   "y": 6.9651346,
+   "z": 11.013211,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/0TJ9sdJiDvA/00008.wav",
+   "x": 19.413074,
+   "y": 7.0104094,
+   "z": 10.983392,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/0TJ9sdJiDvA/00005.wav",
+   "x": 19.308489,
+   "y": 7.0349646,
+   "z": 10.975786,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/0TJ9sdJiDvA/00004.wav",
+   "x": 19.429874,
+   "y": 7.0536523,
+   "z": 11.026062,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/0TJ9sdJiDvA/00001.wav",
+   "x": 19.676409,
+   "y": 7.1893973,
+   "z": 10.888801,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/0TJ9sdJiDvA/00002.wav",
+   "x": 19.330322,
+   "y": 7.022113,
+   "z": 10.966428,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/HTL8iLI75TY/00009.wav",
+   "x": 19.505983,
+   "y": 7.032649,
+   "z": 10.794817,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/HTL8iLI75TY/00006.wav",
+   "x": 19.462074,
+   "y": 7.1135683,
+   "z": 10.745371,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/HTL8iLI75TY/00007.wav",
+   "x": 19.721552,
+   "y": 7.155014,
+   "z": 10.835228,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/HTL8iLI75TY/00003.wav",
+   "x": 19.524002,
+   "y": 7.0725765,
+   "z": 10.759961,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/GRv7pEnTwUc/00005.wav",
+   "x": 19.584455,
+   "y": 7.061559,
+   "z": 10.758274,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/GRv7pEnTwUc/00003.wav",
+   "x": 19.660843,
+   "y": 7.1775985,
+   "z": 10.871851,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/FJOvOooCIvs/00004.wav",
+   "x": 19.3879,
+   "y": 7.2321677,
+   "z": 10.717198,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/FJOvOooCIvs/00003.wav",
+   "x": 19.479631,
+   "y": 7.192741,
+   "z": 10.792486,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/hDBMV_0Vz4E/00006.wav",
+   "x": 19.550877,
+   "y": 7.158775,
+   "z": 10.738089,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/hDBMV_0Vz4E/00010.wav",
+   "x": 19.467407,
+   "y": 7.188154,
+   "z": 10.716074,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/hDBMV_0Vz4E/00002.wav",
+   "x": 19.53277,
+   "y": 7.179163,
+   "z": 10.734964,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/o9bD_E99Jpg/00009.wav",
+   "x": 19.716812,
+   "y": 7.207002,
+   "z": 10.911009,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/o9bD_E99Jpg/00007.wav",
+   "x": 19.740683,
+   "y": 7.2334156,
+   "z": 10.909359,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/o9bD_E99Jpg/00011.wav",
+   "x": 19.698494,
+   "y": 7.2374897,
+   "z": 10.919613,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/o9bD_E99Jpg/00005.wav",
+   "x": 5.487408,
+   "y": 7.4913054,
+   "z": 5.2888484,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/o9bD_E99Jpg/00004.wav",
+   "x": 5.496653,
+   "y": 7.446883,
+   "z": 5.258682,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/o9bD_E99Jpg/00001.wav",
+   "x": 19.692116,
+   "y": 7.213214,
+   "z": 10.912748,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/o9bD_E99Jpg/00015.wav",
+   "x": 5.4645133,
+   "y": 7.528601,
+   "z": 5.326668,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/o9bD_E99Jpg/00002.wav",
+   "x": 19.704607,
+   "y": 7.229274,
+   "z": 10.911225,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/JQtDfEz08aU/00033.wav",
+   "x": 19.371662,
+   "y": 7.18306,
+   "z": 10.805534,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/JQtDfEz08aU/00024.wav",
+   "x": 19.363194,
+   "y": 7.1955585,
+   "z": 10.751799,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/JQtDfEz08aU/00025.wav",
+   "x": 19.337585,
+   "y": 7.14611,
+   "z": 10.737006,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/JQtDfEz08aU/00031.wav",
+   "x": 19.325052,
+   "y": 7.1476336,
+   "z": 10.825715,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/JQtDfEz08aU/00035.wav",
+   "x": 19.28638,
+   "y": 7.1276584,
+   "z": 10.837123,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/JQtDfEz08aU/00023.wav",
+   "x": 19.262838,
+   "y": 7.1322427,
+   "z": 10.842303,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/JQtDfEz08aU/00006.wav",
+   "x": 19.220186,
+   "y": 7.216168,
+   "z": 10.741595,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/JQtDfEz08aU/00013.wav",
+   "x": 19.18015,
+   "y": 7.2406726,
+   "z": 10.803279,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/JQtDfEz08aU/00011.wav",
+   "x": 19.21145,
+   "y": 7.138244,
+   "z": 10.809879,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/JQtDfEz08aU/00005.wav",
+   "x": 19.195248,
+   "y": 7.239949,
+   "z": 10.751077,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/JQtDfEz08aU/00038.wav",
+   "x": 19.277431,
+   "y": 7.197426,
+   "z": 10.791005,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/JQtDfEz08aU/00004.wav",
+   "x": 19.187267,
+   "y": 7.245158,
+   "z": 10.736812,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/JQtDfEz08aU/00010.wav",
+   "x": 19.26843,
+   "y": 7.207535,
+   "z": 10.768988,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/JQtDfEz08aU/00015.wav",
+   "x": 19.323528,
+   "y": 7.2117586,
+   "z": 10.741001,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/JQtDfEz08aU/00017.wav",
+   "x": 19.260563,
+   "y": 7.148843,
+   "z": 10.827262,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/PgZsH9ijC3Y/00001.wav",
+   "x": 19.287533,
+   "y": 7.2319484,
+   "z": 10.689485,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/WBN84VSZbIQ/00002.wav",
+   "x": 19.626333,
+   "y": 7.1761546,
+   "z": 10.790364,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/zV7LlMi0eHo/00007.wav",
+   "x": 19.230259,
+   "y": 7.299946,
+   "z": 10.564331,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/zV7LlMi0eHo/00011.wav",
+   "x": 19.290474,
+   "y": 7.2370253,
+   "z": 10.664038,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/zV7LlMi0eHo/00014.wav",
+   "x": 19.143461,
+   "y": 7.3399067,
+   "z": 10.585496,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10304/zV7LlMi0eHo/00002.wav",
+   "x": 19.257475,
+   "y": 7.266488,
+   "z": 10.644324,
+   "CelebName": "Eugene_Levy"
+ },
+ {
+   "FIELD1": "data/wav_test/id10303/LKDWhdJQFco/00019.wav",
+   "x": 17.46914,
+   "y": 16.906174,
+   "z": 11.06441,
+   "CelebName": "Estelle_Harris"
+ },
+ {
+   "FIELD1": "data/wav_test/id10303/LKDWhdJQFco/00008.wav",
+   "x": 17.530497,
+   "y": 16.96769,
+   "z": 11.125071,
+   "CelebName": "Estelle_Harris"
+ },
+ {
+   "FIELD1": "data/wav_test/id10303/LKDWhdJQFco/00012.wav",
+   "x": 17.517317,
+   "y": 16.954487,
+   "z": 11.111902,
+   "CelebName": "Estelle_Harris"
+ },
+ {
+   "FIELD1": "data/wav_test/id10303/LKDWhdJQFco/00007.wav",
+   "x": 17.558546,
+   "y": 16.99568,
+   "z": 11.152867,
+   "CelebName": "Estelle_Harris"
+ },
+ {
+   "FIELD1": "data/wav_test/id10303/LKDWhdJQFco/00005.wav",
+   "x": 17.547195,
+   "y": 16.98427,
+   "z": 11.142501,
+   "CelebName": "Estelle_Harris"
+ },
+ {
+   "FIELD1": "data/wav_test/id10303/LKDWhdJQFco/00002.wav",
+   "x": 17.534334,
+   "y": 16.971413,
+   "z": 11.12954,
+   "CelebName": "Estelle_Harris"
+ },
+ {
+   "FIELD1": "data/wav_test/id10303/Zs8VK91yVMI/00009.wav",
+   "x": 17.488846,
+   "y": 16.925524,
+   "z": 11.085949,
+   "CelebName": "Estelle_Harris"
+ },
+ {
+   "FIELD1": "data/wav_test/id10303/Zs8VK91yVMI/00020.wav",
+   "x": 17.603437,
+   "y": 17.040596,
+   "z": 11.196391,
+   "CelebName": "Estelle_Harris"
+ },
+ {
+   "FIELD1": "data/wav_test/id10303/Zs8VK91yVMI/00006.wav",
+   "x": 17.643143,
+   "y": 17.080301,
+   "z": 11.236979,
+   "CelebName": "Estelle_Harris"
+ },
+ {
+   "FIELD1": "data/wav_test/id10303/Zs8VK91yVMI/00007.wav",
+   "x": 17.476707,
+   "y": 16.913702,
+   "z": 11.073025,
+   "CelebName": "Estelle_Harris"
+ },
+ {
+   "FIELD1": "data/wav_test/id10303/Zs8VK91yVMI/00017.wav",
+   "x": 17.493406,
+   "y": 16.9304,
+   "z": 11.089276,
+   "CelebName": "Estelle_Harris"
+ },
+ {
+   "FIELD1": "data/wav_test/id10303/VCEs8oAQAiM/00019.wav",
+   "x": 17.54072,
+   "y": 16.977812,
+   "z": 11.135567,
+   "CelebName": "Estelle_Harris"
+ },
+ {
+   "FIELD1": "data/wav_test/id10303/VCEs8oAQAiM/00008.wav",
+   "x": 17.61064,
+   "y": 17.047766,
+   "z": 11.204557,
+   "CelebName": "Estelle_Harris"
+ },
+ {
+   "FIELD1": "data/wav_test/id10303/VCEs8oAQAiM/00022.wav",
+   "x": 17.578575,
+   "y": 17.015812,
+   "z": 11.171455,
+   "CelebName": "Estelle_Harris"
+ },
+ {
+   "FIELD1": "data/wav_test/id10303/VCEs8oAQAiM/00010.wav",
+   "x": 17.40379,
+   "y": 16.840998,
+   "z": 10.998444,
+   "CelebName": "Estelle_Harris"
+ },
+ {
+   "FIELD1": "data/wav_test/id10303/VCEs8oAQAiM/00003.wav",
+   "x": 17.525145,
+   "y": 16.962036,
+   "z": 11.120634,
+   "CelebName": "Estelle_Harris"
+ },
+ {
+   "FIELD1": "data/wav_test/id10303/vBG6MDaJtPk/00001.wav",
+   "x": 17.472092,
+   "y": 16.909168,
+   "z": 11.066281,
+   "CelebName": "Estelle_Harris"
+ },
+ {
+   "FIELD1": "data/wav_test/id10303/vBG6MDaJtPk/00002.wav",
+   "x": 17.468697,
+   "y": 16.905497,
+   "z": 11.06444,
+   "CelebName": "Estelle_Harris"
+ },
+ {
+   "FIELD1": "data/wav_test/id10303/R5JGtwc4o1M/00018.wav",
+   "x": 17.616053,
+   "y": 17.053242,
+   "z": 11.208158,
+   "CelebName": "Estelle_Harris"
+ },
+ {
+   "FIELD1": "data/wav_test/id10303/R5JGtwc4o1M/00008.wav",
+   "x": 17.512875,
+   "y": 16.95002,
+   "z": 11.107389,
+   "CelebName": "Estelle_Harris"
+ },
+ {
+   "FIELD1": "data/wav_test/id10303/R5JGtwc4o1M/00007.wav",
+   "x": 17.538082,
+   "y": 16.975224,
+   "z": 11.132474,
+   "CelebName": "Estelle_Harris"
+ },
+ {
+   "FIELD1": "data/wav_test/id10303/R5JGtwc4o1M/00011.wav",
+   "x": 17.599205,
+   "y": 17.036272,
+   "z": 11.194465,
+   "CelebName": "Estelle_Harris"
+ },
+ {
+   "FIELD1": "data/wav_test/id10303/R5JGtwc4o1M/00002.wav",
+   "x": 17.527895,
+   "y": 16.965048,
+   "z": 11.122541,
+   "CelebName": "Estelle_Harris"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/K2_D_tFdAgY/00033.wav",
+   "x": 12.577083,
+   "y": 3.0900414,
+   "z": 4.7836156,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/K2_D_tFdAgY/00032.wav",
+   "x": 12.505753,
+   "y": 3.1576984,
+   "z": 4.8000274,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/K2_D_tFdAgY/00026.wav",
+   "x": 12.197636,
+   "y": 3.3921118,
+   "z": 4.8673615,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/K2_D_tFdAgY/00018.wav",
+   "x": 12.376762,
+   "y": 3.2828116,
+   "z": 4.837938,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/K2_D_tFdAgY/00031.wav",
+   "x": 12.255611,
+   "y": 3.3897839,
+   "z": 4.79649,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/K2_D_tFdAgY/00009.wav",
+   "x": 12.3261385,
+   "y": 3.328402,
+   "z": 4.826889,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/K2_D_tFdAgY/00021.wav",
+   "x": 12.503635,
+   "y": 3.1609576,
+   "z": 4.723795,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/K2_D_tFdAgY/00008.wav",
+   "x": 12.288743,
+   "y": 3.3604631,
+   "z": 4.812424,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/K2_D_tFdAgY/00022.wav",
+   "x": 12.2857275,
+   "y": 3.355464,
+   "z": 4.8245516,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/K2_D_tFdAgY/00037.wav",
+   "x": 12.524036,
+   "y": 3.1415749,
+   "z": 4.7816973,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/K2_D_tFdAgY/00040.wav",
+   "x": 12.45689,
+   "y": 3.200197,
+   "z": 4.819433,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/K2_D_tFdAgY/00013.wav",
+   "x": 12.24137,
+   "y": 3.391551,
+   "z": 4.83404,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/K2_D_tFdAgY/00007.wav",
+   "x": 12.266207,
+   "y": 3.4063776,
+   "z": 4.7958655,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/K2_D_tFdAgY/00011.wav",
+   "x": 12.441565,
+   "y": 3.2203972,
+   "z": 4.8199944,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/K2_D_tFdAgY/00005.wav",
+   "x": 12.259681,
+   "y": 3.3913777,
+   "z": 4.795075,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/K2_D_tFdAgY/00039.wav",
+   "x": 12.40889,
+   "y": 3.2481127,
+   "z": 4.771726,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/K2_D_tFdAgY/00038.wav",
+   "x": 12.484898,
+   "y": 3.179232,
+   "z": 4.8020396,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/K2_D_tFdAgY/00015.wav",
+   "x": 12.223681,
+   "y": 3.4185472,
+   "z": 4.8522224,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/K2_D_tFdAgY/00029.wav",
+   "x": 12.528662,
+   "y": 3.137813,
+   "z": 4.789731,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/K2_D_tFdAgY/00003.wav",
+   "x": 12.262946,
+   "y": 3.3877769,
+   "z": 4.80846,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/K2_D_tFdAgY/00017.wav",
+   "x": 12.526544,
+   "y": 3.141263,
+   "z": 4.776205,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/ekqJava7sdE/00006.wav",
+   "x": 12.346775,
+   "y": 3.3016768,
+   "z": 4.8621955,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/ekqJava7sdE/00002.wav",
+   "x": 12.491548,
+   "y": 3.1702447,
+   "z": 4.8160534,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/2Er-cV85fc4/00026.wav",
+   "x": 11.478892,
+   "y": 4.0584025,
+   "z": 5.36383,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/2Er-cV85fc4/00025.wav",
+   "x": 11.497643,
+   "y": 4.0374546,
+   "z": 5.342749,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/2Er-cV85fc4/00009.wav",
+   "x": 11.520721,
+   "y": 4.0117073,
+   "z": 5.318176,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/2Er-cV85fc4/00020.wav",
+   "x": 11.512979,
+   "y": 4.0156474,
+   "z": 5.322252,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/2Er-cV85fc4/00008.wav",
+   "x": 11.593329,
+   "y": 3.9334302,
+   "z": 5.242478,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/2Er-cV85fc4/00023.wav",
+   "x": 11.5462885,
+   "y": 3.990581,
+   "z": 5.292321,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/2Er-cV85fc4/00006.wav",
+   "x": 11.530362,
+   "y": 3.9978943,
+   "z": 5.304473,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/2Er-cV85fc4/00028.wav",
+   "x": 11.521878,
+   "y": 4.018818,
+   "z": 5.3223605,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/2Er-cV85fc4/00001.wav",
+   "x": 11.570659,
+   "y": 3.9634495,
+   "z": 5.2715096,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/2Er-cV85fc4/00015.wav",
+   "x": 11.469021,
+   "y": 4.061006,
+   "z": 5.3669047,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/2Er-cV85fc4/00029.wav",
+   "x": 11.517803,
+   "y": 4.0178533,
+   "z": 5.3259053,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/2Er-cV85fc4/00016.wav",
+   "x": 11.472946,
+   "y": 4.0563655,
+   "z": 5.3623753,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/VRCidrXwd1s/00030.wav",
+   "x": 11.705405,
+   "y": 3.7745032,
+   "z": 5.124307,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/VRCidrXwd1s/00024.wav",
+   "x": 11.678747,
+   "y": 3.8072982,
+   "z": 5.1466775,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/VRCidrXwd1s/00031.wav",
+   "x": 11.686673,
+   "y": 3.798374,
+   "z": 5.140337,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/VRCidrXwd1s/00022.wav",
+   "x": 11.786318,
+   "y": 3.7100086,
+   "z": 5.07598,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/VRCidrXwd1s/00037.wav",
+   "x": 11.706922,
+   "y": 3.7744396,
+   "z": 5.117351,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/VRCidrXwd1s/00001.wav",
+   "x": 11.7620535,
+   "y": 3.7236128,
+   "z": 5.0707374,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/VRCidrXwd1s/00002.wav",
+   "x": 11.702501,
+   "y": 3.7884932,
+   "z": 5.1310096,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/ZAMRSlopMWA/00003.wav",
+   "x": 12.333225,
+   "y": 3.314811,
+   "z": 4.865518,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10302/KaZPZcTPQ-c/00002.wav",
+   "x": 11.506624,
+   "y": 4.0927825,
+   "z": 5.361136,
+   "CelebName": "Esai_Morales"
+ },
+ {
+   "FIELD1": "data/wav_test/id10305/Piw0wvQbpnQ/00009.wav",
+   "x": 15.432325,
+   "y": 2.951333,
+   "z": -4.0242457,
+   "CelebName": "Eugenio_Derbez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10305/Piw0wvQbpnQ/00013.wav",
+   "x": 15.421354,
+   "y": 2.8883777,
+   "z": -4.0343537,
+   "CelebName": "Eugenio_Derbez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10305/Ih2s_PikIdI/00005.wav",
+   "x": 15.67192,
+   "y": 1.7206357,
+   "z": -3.958098,
+   "CelebName": "Eugenio_Derbez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10305/Ih2s_PikIdI/00004.wav",
+   "x": 15.646785,
+   "y": 1.7443907,
+   "z": -3.9838018,
+   "CelebName": "Eugenio_Derbez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10305/OepVWayQO3w/00002.wav",
+   "x": 15.5479,
+   "y": 1.8506023,
+   "z": -4.0811257,
+   "CelebName": "Eugenio_Derbez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10305/3QrLepYlH6o/00009.wav",
+   "x": 15.377264,
+   "y": 2.9401252,
+   "z": -4.07739,
+   "CelebName": "Eugenio_Derbez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10305/3QrLepYlH6o/00007.wav",
+   "x": 15.412127,
+   "y": 2.895665,
+   "z": -4.0431366,
+   "CelebName": "Eugenio_Derbez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10305/3QrLepYlH6o/00004.wav",
+   "x": 15.403064,
+   "y": 2.913524,
+   "z": -4.0521307,
+   "CelebName": "Eugenio_Derbez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10305/3QrLepYlH6o/00014.wav",
+   "x": 15.391209,
+   "y": 2.9200585,
+   "z": -4.0605016,
+   "CelebName": "Eugenio_Derbez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10305/t0EX2dOBQjw/00001.wav",
+   "x": 15.248487,
+   "y": 3.0555754,
+   "z": -4.208915,
+   "CelebName": "Eugenio_Derbez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10305/19OCRADWjgA/00006.wav",
+   "x": 15.553607,
+   "y": 1.7757245,
+   "z": -4.079823,
+   "CelebName": "Eugenio_Derbez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10305/19OCRADWjgA/00007.wav",
+   "x": 15.548886,
+   "y": 1.8188205,
+   "z": -4.0831137,
+   "CelebName": "Eugenio_Derbez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10305/19OCRADWjgA/00011.wav",
+   "x": 15.596568,
+   "y": 1.7939528,
+   "z": -4.0344615,
+   "CelebName": "Eugenio_Derbez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10305/19OCRADWjgA/00010.wav",
+   "x": 15.602444,
+   "y": 1.7909588,
+   "z": -4.026873,
+   "CelebName": "Eugenio_Derbez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10305/19OCRADWjgA/00002.wav",
+   "x": 15.624091,
+   "y": 1.7816446,
+   "z": -3.999182,
+   "CelebName": "Eugenio_Derbez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10305/cpXXdMJuCdw/00011.wav",
+   "x": 15.395918,
+   "y": 2.8775375,
+   "z": -4.0642543,
+   "CelebName": "Eugenio_Derbez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10305/cpXXdMJuCdw/00004.wav",
+   "x": 15.391251,
+   "y": 2.8755927,
+   "z": -4.0700502,
+   "CelebName": "Eugenio_Derbez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10305/cpXXdMJuCdw/00002.wav",
+   "x": 15.417295,
+   "y": 2.8208182,
+   "z": -4.05003,
+   "CelebName": "Eugenio_Derbez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10305/ZLzkvnq0JxI/00007.wav",
+   "x": 15.631094,
+   "y": 1.7619314,
+   "z": -4.000013,
+   "CelebName": "Eugenio_Derbez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10305/nJbBcMdxQU4/00018.wav",
+   "x": 15.571156,
+   "y": 1.7853609,
+   "z": -4.0592318,
+   "CelebName": "Eugenio_Derbez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10305/nJbBcMdxQU4/00006.wav",
+   "x": 15.561176,
+   "y": 1.8435962,
+   "z": -4.0674157,
+   "CelebName": "Eugenio_Derbez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10305/nJbBcMdxQU4/00012.wav",
+   "x": 15.616731,
+   "y": 1.7821478,
+   "z": -4.013893,
+   "CelebName": "Eugenio_Derbez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10305/nJbBcMdxQU4/00005.wav",
+   "x": 15.587079,
+   "y": 1.8060045,
+   "z": -4.042982,
+   "CelebName": "Eugenio_Derbez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10305/nJbBcMdxQU4/00010.wav",
+   "x": 15.594162,
+   "y": 1.7952218,
+   "z": -4.036909,
+   "CelebName": "Eugenio_Derbez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10305/nJbBcMdxQU4/00001.wav",
+   "x": 15.58636,
+   "y": 1.8098643,
+   "z": -4.044035,
+   "CelebName": "Eugenio_Derbez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10305/gbTZ7k9e_Z0/00007.wav",
+   "x": 15.611739,
+   "y": 1.7891555,
+   "z": -4.017492,
+   "CelebName": "Eugenio_Derbez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10305/gbTZ7k9e_Z0/00001.wav",
+   "x": 15.574553,
+   "y": 1.821852,
+   "z": -4.050018,
+   "CelebName": "Eugenio_Derbez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10305/gbTZ7k9e_Z0/00003.wav",
+   "x": 15.57788,
+   "y": 1.8191284,
+   "z": -4.0515275,
+   "CelebName": "Eugenio_Derbez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10305/vbDKF8bZJQA/00009.wav",
+   "x": 15.316179,
+   "y": 3.008834,
+   "z": -4.1407814,
+   "CelebName": "Eugenio_Derbez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10305/vbDKF8bZJQA/00012.wav",
+   "x": 15.256883,
+   "y": 3.0441983,
+   "z": -4.200864,
+   "CelebName": "Eugenio_Derbez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10305/vbDKF8bZJQA/00007.wav",
+   "x": 15.300725,
+   "y": 2.9877615,
+   "z": -4.1585155,
+   "CelebName": "Eugenio_Derbez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10305/vbDKF8bZJQA/00011.wav",
+   "x": 15.288009,
+   "y": 2.9899535,
+   "z": -4.170824,
+   "CelebName": "Eugenio_Derbez"
+ },
+ {
+   "FIELD1": "data/wav_test/id10305/vbDKF8bZJQA/00010.wav",
+   "x": 15.295053,
+   "y": 2.9672027,
+   "z": -4.1647663,
+   "CelebName": "Eugenio_Derbez"
+ }
+]
