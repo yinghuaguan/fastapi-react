@@ -19,17 +19,23 @@ function randArr(num, mul) {
 /**
  * Main ScatterPlot component
  */
+const x = randArr(20, 3)
+const y = randArr(20, 3) 
+const z = randArr(20, 3)
 export default class ScatterPlot extends Component {
   render(){
     return (
     <Plot
       data={[
         {
-          x: randArr(20, 3), 
-          y: randArr(20, 3), 
-          z: randArr(20, 3), 
+          x: x, 
+          y: y,
+          z: z, 
           mode: 'markers', 
           type:'scatter3d',
+          marker: {
+            color: z
+          }
         }
       ]}
       layout={{
